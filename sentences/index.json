@@ -31,9 +31,9 @@
   ],
   "Cuerpo":[
     {
-        "Tipo":"Head_1",
-        "Contenido":"VISTOS",
-        "Numero":0
+      "Tipo":"Head_1",
+      "Contenido":"VISTOS",
+      "Numero":0
     },
     {
       "Tipo":"Body_1",
@@ -260,25 +260,25 @@
       "Titulo":"MAGISTRADO",
       "Nombre":"LILIANNE M. DUCRET N.",
       "Numero": 1
-        },
-      {
-        "Titulo":"MAGISTRADO",
-        "Nombre":"NELSON H RUIZ C.",
-        "Numero": 2
-        },
-      {
-        "Titulo":"MAGISTRADO",
-        "Nombre":"CARLOS RAÚL TRUJILLO SAGEL",
-        "Numero": 3
-        },
-          {
-          "Titulo":"Secretario",
-          "Nombre":"",
-          "Numero": 4
-        }
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"NELSON H RUIZ C.",
+      "Numero": 2
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"CARLOS RAÚL TRUJILLO SAGEL",
+      "Numero": 3
+    },
+    {
+      "Titulo":"Secretario",
+      "Nombre":"",
+      "Numero": 4
+      }
     ]
   },
-{
+  {
   "Nombre": "20180820_FISCAL_SEPTIMA_ANTICORRUPCIÓN_vs_JUEZ SÉPTIMO_DE_CIRCUITO_AMPARO_1",
   "Entrada": "18AMP1.064",
   "Tipo":"Amparo de Garantías Constitucionales",
@@ -492,8 +492,6 @@
       "Contenido":"“… Advierte la Corte, además, que el accionante pretende a través de este medio extraordinario de impugnación debatir cuestiones de legalidad, lo que no es apropiado. Sobre ello, el Pleno en reiteradas ocasiones ha manifestado que la acción de amparo de garantías constitucionales no es la vía para debatir cuestiones de carácter legal acerca de las decisiones del funcionario judicial, pues ello traerla como consecuencia desvirtuar el propósito de esta acción autónoma y extraordinaria que es la de tutelar derechos y garantías consagrados en la Constitución Nacional…”",
       "Numero":16
     },
-
-
     {
       "Tipo":"Body_1",
       "Contenido":"Sin ánimo de entrar en mayores consideraciones, puesto que está vedado a los tribunales de amparo, en etapa de admisibilidad emitir opiniones, respecto al fondo de la pretensión constitucional; empero, según se desprende de la misma, lo que busca la amparista es que ésta instancia revise aspectos relacionados con la exclusión de la querella en el proceso penal. Aunado a lo anterior, observa ésta Judicatura que los cargos de violación endilgados se encuentran dirigidos a cuestionar la actuación del funcionario demandado quien, en todo caso, se encuentra facultado para tales propósitos.",
@@ -541,8 +539,8 @@
       "Nombre":"JOSÉ J. KARAMAÑITES SERETARIO",
       "Numero": 4
     }
-      ]
-    }
+  ]
+},
 {
   "Nombre": "20180822_ELVIS_ANEL_RODRIGUEZ_vs_JUEZ_PRIMERO_DE_CIRCUITO_DE_LO-PENAL__1",
   "Entrada": "18AMP1.290",
@@ -837,7 +835,7 @@
     {
       "Titulo":"Secretario",
       "Nombre":"JOSÉ J. KARAMAÑITES SERETARIO",
-      "Numero": 5
+      "Numero": 4
         }
       ]
     }
