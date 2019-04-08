@@ -20,81 +20,30 @@ Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembr
 
 --> Para este punto ya ha cambiado el API. Sin embargo, falta updatear la plataforma para que reciba esta nueva información.
 
-### Deploy manualmente la plataforma
+### La plataforma
 
-(1) Acceder a Heroku con los credentials de Popularis <br>
-(2) Seleccionar `popularis` en el dashboard de trabajo. <br>
-(3)
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+(1) Configurar `Heroku remote` para la aplicación localmente en su computadora. Esto se puede hacer desde la Terminal:
 
 ```
-Give the example
+# OS X
+$ brew install heroku/brew/heroku
+# UBUNTU
+$ wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+
+$ heroku login
+
+$ git remote -v
+# => heroku https://git.heroku.com/popularis.git (fetch)
+#    heroku  https://git.heroku.com/popularis.git (push)
 ```
 
-And repeat
+(2) En la Terminal:
 
 ```
-until finished
+$ cd PATH_TO_POPULARIS_APP
+$ git push heroku master
+$ heroku run rails db:seed
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+--> Una vez finalizado este proceso y si el JSON está bien estructurado, se verán las nuevas sentencias en la plataforma.
 
