@@ -11,7 +11,9 @@ Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembr
 (1) Tener una cuenta en GitHub
 (2) Esa cuenta debe estar agregada como [contribuidora](https://github.com/juliet-tech/popularis-api/settings/collaboration) a este repositorio
 
-### Para editar el JSON
+### Para editar la data
+
+## Cambiar el JSON
 
 (1) Buscar dentro los folderes el JSON file que busca cambiar <br>
 (2) Clickear donde dice `Edit` <br>
@@ -20,7 +22,7 @@ Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembr
 
 --> Para este punto ya ha cambiado el API. Sin embargo, falta updatear la plataforma para que reciba esta nueva información.
 
-### La plataforma
+## Deploy el cambio a la plataforma
 
 (1) Configurar `Heroku remote` para la aplicación localmente en su computadora. Esto se puede hacer desde la Terminal:
 
