@@ -10,12 +10,21 @@ Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembr
 
 (1) Tener una cuenta en GitHub
 (2) Esa cuenta debe estar agregada como [contribuidora](https://github.com/juliet-tech/popularis-api/settings/collaboration) a este repositorio
-(3) Buscar dentro los folderes el file que busca cambiar
-(4) Clickear donde dice `Edit`
-(5) Una vez termina de editar el documento, al final de la página verá un rectángulo para comentar. Le recomiendo ser lo más específicx que pueda para guardar record de cada cambio después. Cuando termina de escribir, selecciona el botón verde que dice `Commit Changes`. -- Asegurarse de mandarlo al `master` branch
 
---> Para este punto ya ha cambiado el API. Sin embargo, la plataforma no estará constantemente
+### Para editar el JSON
 
+(1) Buscar dentro los folderes el JSON file que busca cambiar <br>
+(2) Clickear donde dice `Edit` <br>
+(3) Una vez termina de editar el documento, al final de la página verá un espacio de texto para comentar. Le recomiendo ser lo más específicx en la descripción que se escriba ahí sobre los cambio hechos para que quede de record por cualquier cosa a futuro. <br>
+(4) Cuando termina de escribir, selecciona el botón verde que dice `Commit Changes`. -- Asegurarse de mandarlo al `master` branch. <br>
+
+--> Para este punto ya ha cambiado el API. Sin embargo, falta updatear la plataforma para que reciba esta nueva información.
+
+### Deploy manualmente la plataforma
+
+(1) Acceder a Heroku con los credentials de Popularis <br>
+(2) Seleccionar `popularis` en el dashboard de trabajo. <br>
+(3)
 
 ### Installing
 
