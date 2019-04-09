@@ -2,11 +2,9 @@
 
 Este API (Application Programming Interface) busca alimentar la aplicación [Popularis](http://popularis.herokuapp.com) con sentencias judiciales panameñas e información sobre el equipo detrás de este proyecto.
 
-## Para empezar
-
 Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembros de la base de datos de Popularis
 
-### Prerequisitos
+## Prerequisitos
 
 (1) Tener una cuenta en GitHub <br>
 (2) Esa cuenta debe estar agregada como [contribuidora](https://github.com/juliet-tech/popularis-api/settings/collaboration) a este repositorio
