@@ -25,6 +25,8 @@ Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembr
 (1) Configurar `Heroku remote` para la aplicación localmente en su computadora. Esto se puede hacer desde la Terminal:
 
 ```
+cd PATH_TO_POPULARIS_API_APP
+
 # OS X
 $ brew install heroku/brew/heroku
 # UBUNTU
