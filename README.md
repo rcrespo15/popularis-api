@@ -8,6 +8,7 @@ Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembr
 
 (1) Tener una cuenta en GitHub <br>
 (2) Esa cuenta debe estar agregada como [contribuidora](https://github.com/juliet-tech/popularis-api/settings/collaboration) a este repositorio
+(3) Tener acceso a la cuenta en [Heroku](https://heroku.com)
 
 ## Para editar la data
 
@@ -27,22 +28,18 @@ Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembr
 ```
 cd PATH_TO_POPULARIS_API_APP
 
-# OS X
+ OS X
 $ brew install heroku/brew/heroku
-# UBUNTU
+ UBUNTU
 $ wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
 
 $ heroku login
 
+$ heroku git:remote -a thawing-inlet-61413
 $ git remote -v
-# => heroku https://git.heroku.com/popularis.git (fetch)
-#    heroku  https://git.heroku.com/popularis.git (push)
-```
+ => heroku https://git.heroku.com/popularis.git (fetch)
+    heroku  https://git.heroku.com/popularis.git (push)
 
-(2) En la Terminal:
-
-```
-$ cd PATH_TO_POPULARIS_APP
 $ git push heroku master
 $ heroku run rails db:seed
 ```
