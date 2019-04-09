@@ -6,9 +6,9 @@ Este API (Application Programming Interface) busca alimentar la aplicación [Pop
 
 Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembros de la base de datos de Popularis
 
-### Antes de empezar
+### Prerequisitos
 
-(1) Tener una cuenta en GitHub
+(1) Tener una cuenta en GitHub <br>
 (2) Esa cuenta debe estar agregada como [contribuidora](https://github.com/juliet-tech/popularis-api/settings/collaboration) a este repositorio
 
 ### Para editar la data
@@ -49,5 +49,5 @@ $ heroku run rails db:seed
 
 --> Una vez finalizado este proceso y si el JSON está bien estructurado, se verán las nuevas sentencias en la plataforma.
 
---> De querer automatizar este proceso, se puede utilizar el `postdeploy script` del Heroku Ruby buildpack para agregarle `rails db:seed` luego de cada deployment. Más información de como hacer esto se puede encontrar en `https://devcenter.heroku.com/articles/github-integration-review-apps#the-postdeploy-script`
+--> De querer automatizar este proceso, se puede utilizar el `postdeploy script` del Heroku Ruby buildpack para agregarle `rails db:seed` luego de cada deployment. Más información de como hacer esto se puede encontrar en [aquí](https://devcenter.heroku.com/articles/github-integration-review-apps#the-postdeploy-script).
 
