@@ -22,7 +22,7 @@ Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembr
 
 --> Para este punto ya ha cambiado el API. Sin embargo, falta updatear la plataforma para que reciba esta nueva información.
 
-## Deploy el cambio a la plataforma
+## Publicar el cambio a la plataforma
 
 (1) Configurar `Heroku remote` para la aplicación localmente en su computadora. Esto se puede hacer desde la Terminal:
 
@@ -48,4 +48,6 @@ $ heroku run rails db:seed
 ```
 
 --> Una vez finalizado este proceso y si el JSON está bien estructurado, se verán las nuevas sentencias en la plataforma.
+
+--> De querer automatizar este proceso, se puede utilizar el `postdeploy script` del Heroku Ruby buildpack para agregarle `rails db:seed` luego de cada deployment. Más información de como hacer esto se puede encontrar en `https://devcenter.heroku.com/articles/github-integration-review-apps#the-postdeploy-script`
 
