@@ -26,7 +26,7 @@ Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembr
 (1) Configurar `Heroku remote` para la aplicación localmente en su computadora. Esto se puede hacer desde la Terminal:
 
 ```
-cd PATH_TO_POPULARIS_API_APP
+cd PATH_TO_POPULARIS_APP ---> no a popularis-api
 
  OS X
 $ brew install heroku/brew/heroku
@@ -35,16 +35,17 @@ $ wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
 
 $ heroku login
 
-$ heroku git:remote -a thawing-inlet-61413
+$ heroku git:remote -a popularis
 $ git remote -v
  => heroku https://git.heroku.com/popularis.git (fetch)
     heroku  https://git.heroku.com/popularis.git (push)
 
-$ git push heroku master
-$ heroku run rails db:seed
+$ rake deploy:production
 ```
 
 --> Una vez finalizado este proceso y si el JSON está bien estructurado, se verán las nuevas sentencias en la plataforma.
 
 --> De querer automatizar este proceso, se puede utilizar el `postdeploy script` del Heroku Ruby buildpack para agregarle `rails db:seed` luego de cada deployment. Más información de como hacer esto se puede encontrar en [aquí](https://devcenter.heroku.com/articles/github-integration-review-apps#the-postdeploy-script).
+
+Tambien he agregado un rake task `rake deploy:production` que se asegura que cada vez que se publique la aplicación, se hará la migración y el seeding de la información automáticamente.
 
