@@ -7,7 +7,7 @@ Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembr
 ## Prerequisitos
 
 (1) Tener una cuenta en GitHub <br>
-(2) Esa cuenta debe estar agregada como [contribuidora](https://github.com/juliet-tech/popularis-api/settings/collaboration) a este repositorio
+(2) Esa cuenta debe estar agregada como [contribuidora](https://github.com/juliet-tech/popularis-api/settings/collaboration) a este repositorio <br>
 (3) Tener acceso a la cuenta en [Heroku](https://heroku.com)
 
 ## Para editar la data
@@ -40,12 +40,17 @@ $ git remote -v
  => heroku https://git.heroku.com/popularis.git (fetch)
     heroku  https://git.heroku.com/popularis.git (push)
 
+```
+
+(2) Para publicar el sitio online con migration + seeding, corra el siguiente `rake task` en el Terminal:
+
+```
 $ rake deploy:production
 ```
 
---> Una vez finalizado este proceso y si el JSON está bien estructurado, se verán las nuevas sentencias en la plataforma.
+--> Una vez finalizado este proceso (y si el JSON está bien estructurado), se verán las nuevas sentencias en la plataforma.
 
---> De querer automatizar este proceso, se puede utilizar el `postdeploy script` del Heroku Ruby buildpack para agregarle `rails db:seed` luego de cada deployment. Más información de como hacer esto se puede encontrar en [aquí](https://devcenter.heroku.com/articles/github-integration-review-apps#the-postdeploy-script).
+--> De querer automatizar este proceso, se puede configurar el `postdeploy script` del Heroku Ruby buildpack para agregarle `rails db:seed` luego de cada deployment. Más información de como hacer esto se puede encontrar en [aquí](https://devcenter.heroku.com/articles/github-integration-review-apps#the-postdeploy-script).
 
-Tambien he agregado un rake task `rake deploy:production` que se asegura que cada vez que se publique la aplicación, se hará la migración y el seeding de la información automáticamente.
+Tambien he agregado un rake task `rake deploy:production` que se asegura que cada vez que se utilice, se hará la migración y el seeding de la información automáticamente.
 
