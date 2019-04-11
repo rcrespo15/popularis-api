@@ -1,40 +1,46 @@
 {
   "Equipo": [
     {
-    "Nombre":"Monica",
-    "Apellido":"Crespo",
-    "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
-    "Rol":"Fundadora"
+      "Nombre":"Monica",
+      "Apellido":"Crespo",
+      "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
+      "Rol":"Fundadora",
+      "Imagen": "Mónica_Crespo"
+    },
+    {
+      "Nombre":"María Gabriela",
+      "Apellido":"Meléndez",
+      "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
+      "Rol":"Fundadora",
+      "Imagen": "María_Gabriela_Meléndez"
+    },
+    {
+      "Nombre":"Irene",
+      "Apellido":"Lombardo",
+      "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
+      "Rol":"Fundadora",
+      "Imagen": "Irene_Lombardo"
+    },
+    {
+      "Nombre":"Ramón",
+      "Apellido":"Crespo",
+      "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
+      "Rol":"Fundadora",
+      "Imagen": "Ramón_Crespo"
     },
     {
       "Nombre":"Monica",
       "Apellido":"Crespo",
       "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
-      "Rol":"Fundadora"
+      "Rol":"Fundadora",
+      "Imagen": "Mónica_Crespo"
     },
     {
       "Nombre":"Monica",
       "Apellido":"Crespo",
       "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
-      "Rol":"Fundadora"
-    },
-    {
-      "Nombre":"Monica",
-      "Apellido":"Crespo",
-      "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
-      "Rol":"Fundadora"
-    },
-    {
-      "Nombre":"Monica",
-      "Apellido":"Crespo",
-      "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
-      "Rol":"Fundadora"
-    },
-    {
-      "Nombre":"Monica",
-      "Apellido":"Crespo",
-      "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
-      "Rol":"Fundadora"
+      "Rol":"Fundadora",
+      "Imagen": "Mónica_Crespo"
     }
-]
+  ]
 }
