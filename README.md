@@ -8,7 +8,7 @@ Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembr
 
 (1) Tener una cuenta en GitHub <br>
 (2) Esa cuenta debe estar agregada como [contribuidora](https://github.com/juliet-tech/popularis-api/settings/collaboration) a este repositorio <br>
-(3) Tener acceso a la cuenta en [Heroku](https://heroku.com)
+(3) Tener acceso a la cuenta en [Heroku](https://heroku.com) --> para programadores
 
 ## Para editar la data
 
