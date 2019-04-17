@@ -25,7 +25,7 @@ Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembr
 
 #### Por medio de la plataforma misma
 
-(1) Acceder a http://popularis.herokuapp.com/feedbacks <br>
+(1) Acceder a http://popularis.herokuapp.com/jYai98Pp7 <br>
 (2) Clickear en el botón que dice 'Actualizar la base de datos'
 
 #### Para programadores
