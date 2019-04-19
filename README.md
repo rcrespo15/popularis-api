@@ -28,6 +28,8 @@ Estas instrucciones serán para aprender como agregar/eliminar sentencias/miembr
 (1) Acceder a http://popularis.herokuapp.com/jYai98Pp7 <br>
 (2) Clickear en el botón que dice 'Actualizar la base de datos'
 
+(Si no sale nada la primera vez, tomar en cuenta que el link en GitHub puede tomar un par de minutitos en actualizarse..)
+
 #### Para programadores
 
 (1) Configurar `Heroku remote` para la aplicación localmente en su computadora. Esto se puede hacer desde la Terminal:
