@@ -1,46 +1,53 @@
+1. Mónica - CEO
+2. Ramón - CTO
+3. Irene Lombardo - COO
+4. Mafe - Diseñadora de Producto
+5. María Gabriela Meléndez - Creadora de contenido legal
+6. Gabriela Sanjur - Creadora de contenido legal
+
 {
   "Equipo": [
     {
       "Nombre":"Monica",
       "Apellido":"Crespo",
       "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
-      "Rol":"Fundadora",
+      "Rol":"CEO",
       "Imagen": "Mónica_Crespo"
-    },
-    {
-      "Nombre":"María Gabriela",
-      "Apellido":"Meléndez",
-      "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
-      "Rol":"Fundadora",
-      "Imagen": "María_Gabriela_Meléndez"
-    },
-    {
-      "Nombre":"Irene",
-      "Apellido":"Lombardo",
-      "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
-      "Rol":"Fundadora",
-      "Imagen": "Irene_Lombardo"
     },
     {
       "Nombre":"Ramón",
       "Apellido":"Crespo",
       "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
-      "Rol":"Fundadora",
+      "Rol":"CTO",
       "Imagen": "Ramón_Crespo"
     },
     {
-      "Nombre":"Monica",
-      "Apellido":"Crespo",
+      "Nombre":"Irene",
+      "Apellido":"Lombardo",
       "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
-      "Rol":"Fundadora",
-      "Imagen": "Mónica_Crespo"
+      "Rol":"COO",
+      "Imagen": "Irene_Lombardo"
     },
     {
-      "Nombre":"Monica",
-      "Apellido":"Crespo",
+      "Nombre":"Mafe",
+      "Apellido":"Wong",
       "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
-      "Rol":"Fundadora",
+      "Rol":"Diseñadora de Producto",
+      "Imagen": "Mafe_Wong"
+    },
+    {
+      "Nombre":"María Gabriela",
+      "Apellido":"Meléndez",
+      "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
+      "Rol":"Creadora de Contenido Legal",
+      "Imagen": "María_Gabriela_Meléndez"
+    },
+    {
+      "Nombre":"Gabriela",
+      "Apellido":"Sanjur",
+      "Intro":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi enim voluptates aliquid corporis, quod adipisci. Debitis quos accusamus atque cumque libero vero minima expedita aliquid, ullam voluptatem, iure repudiandae et?",
+      "Rol":"Creadora de Contenido Legal",
       "Imagen": "Mónica_Crespo"
-    }
+    },
   ]
 }
