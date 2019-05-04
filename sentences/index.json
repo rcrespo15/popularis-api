@@ -1,947 +1,2449 @@
-
 {
-    "Nombre": "20171228_INMOBILIARIA_CONSTRUCTEC_Y_OTRO_vs_SUCRE_rev",
-    "Entrada": "13SA.074",
-    "Tipo": "PROCESO ORDINARIO PROPUESTO POR INMOBILIARIA CONSTRUCTEC",
-    "Fecha": "2017-12-28 00:00:00",
-    "Institucion": "PRIMER TRIBUNAL SUPERIOIR ",
-    "Distrito_Judicial": " PRIMER DISTRITO JUDICIAL",
-    "Articulo": "0",
-    "Responsables": {
-        "Tipo": "MAG.",
-        "Nombre": "LILIANNE M. DUCRUET N."
+  "Sentencias": [
+  {
+  "Nombre": "20180816_MANZINI_VS_JUEZ_DE_CIRCUITO_AMPARO_1_revMLC",
+  "Entrada": "18AMP.304",
+  "Tipo":"Amparo de Garantías Constitucionales",
+  "Fecha": "20180816",
+  "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
+  "Articulos":"",
+  "Responsable":{
+    "Tipo":"Magistrado",
+    "Nombre":"Carlos Trujillo Sagel"
+  },
+  "Partes":[
+    {
+      "Relevancia": "Demandante",
+      "Nombre": "SILVANIA MANZINI DE OBARRIO",
+      "Titulo": "",
+      "Tipo": "Persona Natural",
+      "Cedula":"",
+      "Domicilio":""
     },
-    "Partes": [
-        {
-            "Relevancia": "Demandante",
-            "Nombre": "INMOBILIARIA CONSTRUCTEC, S.A.",
-            "Titulo": 0,
-            "Tipo": "Juridico",
-            "Cedula": 0,
-            "Domicilio": 0
-        },
-        {
-            "Relevancia": "Demandado",
-            "Nombre": "MIROSLAVA SUCRE SIMI",
-            "Titulo": 0,
-            "Tipo": 0,
-            "Cedula": 0,
-            "Domicilio": 0
-        }
-    ],
-    "Cuerpo": [
-        {
-            "Tipo": 1,
-            "Contenido": "Procedente del Juzgado Tercero de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, ingres\u00f3 para el conocimiento de esta Superioridad, el Proceso Ordinario propuesto por INMOBILIARIA CONSTRUCTEC, S.A., Y AGUILERA FRANCESCHl, S.C. contra MIROSLAVA SUCRE SIMITI, controversia que fue desatada en el Tribunal primario mediante la Sentencia N\u00ba 119 de fecha 9 de diciembre de 2011.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 0
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Mediante la referida resoluci\u00f3n, el Tribunal de primera instancia, resolvi\u00f3:",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 1
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "\u201cPor lo anteriormente expuesto, quien suscribe JUEZ TERCERO DE CIRCUITO DE LO CIVIL DEL PRIMER CIRCUITO JUDICIAL DE PANAM\u00c1, ADJUNTO, administrando Justicia en nombre de la Rep\u00fablica y por autoridad de la Ley, RESUELVE:",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 2
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "PRIMERO: declarar probada parcialmente LA PRETENSI\u00d3N \u20181\u2019 DE LA DEMANDA y declara \u2018Que MIROSLAVA SUCRE SIMITI, promovi\u00f3 un proceso ordinario de mayor cuant\u00eda, por una suma superior a un mill\u00f3n de balboas (B/. 1,000, 000.00) en contra de INMOBILIARIA CONSTRUCTEC, S.A., ante el Juzgado D\u00e9cimo Cuarto de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, el cual fue fallado en primera instancia. (SIC)",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 3
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "SEGUNDO: NEGAR el resto de las declaraciones solicitadas por la parte demandante en el presente proceso, en virtud del pronunciamiento plasmado en la parte motiva de la presente resoluci\u00f3n.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 4
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "Las imperativas condenas en costas en contra de la parte vencida se fijan por disposici\u00f3n de los art\u00edculos 1071 y 1078 del C\u00f3digo Judicial en la suma de trece mil ciento veinticinco balboas (B/. 13,125.00).",
-            "Articulo": [
-                "1071",
-                "1078"
-            ],
-            "numerales": [
-                "0",
-                "0"
-            ],
-            "codigos": [
-                "C\u00f3digo Judicial",
-                "C\u00f3digo Judicial"
-            ],
-            "Numero": 5
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "Las imperativas condenas en costas en contra de la parte vencida se fijan por disposici\u00f3n de los art\u00edculos 1071 y 1078 del C\u00f3digo Judicial en la suma de trece mil ciento veinticinco balboas (B/. 13,125.00).",
-            "Articulo": [
-                "1071",
-                "1078"
-            ],
-            "numerales": [
-                "0",
-                "0"
-            ],
-            "codigos": [
-                "C\u00f3digo Judicial",
-                "C\u00f3digo Judicial"
-            ],
-            "Numero": 5
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "Las imperativas condenas en costas en contra de la parte vencida se fijan por disposici\u00f3n de los art\u00edculos 1071 y 1078 del C\u00f3digo Judicial en la suma de trece mil ciento veinticinco balboas (B/. 13,125.00).",
-            "Articulo": [
-                "1071",
-                "1078"
-            ],
-            "numerales": [
-                "0",
-                "0"
-            ],
-            "codigos": [
-                "C\u00f3digo Judicial",
-                "C\u00f3digo Judicial"
-            ],
-            "Numero": 5
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "Una vez ejecutoriada la presente resoluci\u00f3n an\u00f3tese la salida en el libro de registro respectivo.\u201d (fs. 1003-1110).",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 6
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Contra esta decisi\u00f3n, el licenciado Ram\u00f3n F. Castellano A., procurador judicial de la demandada MIROSLAVA SUCRE SIMITI anunci\u00f3 apelaci\u00f3n (fs. 1010 cta.), empero no sustent\u00f3.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 7
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Por su parte el licenciado Rodolfo Aguilera Franceschi, procurador judicial de la parte demandante, anunci\u00f3 apelaci\u00f3n con presentaci\u00f3n de pruebas en segunda instancia (fs. 1740-1743).",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 8
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Mediante resoluci\u00f3n de fecha 14 de mayo de 2012, el Tribunal a quo concedi\u00f3 en efecto suspensivo el recurso de apelaci\u00f3n anunciado por el licenciado Rodolfo Aguilera, procurador judicial de la parte actora INMOBILIARIA CONSTRUCTEC, S.A., y AGUILERA FRANCESCHl, S.A.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 9
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Al ingresar el negocio a esta sede judicial, se dispuso mediante resoluci\u00f3n de 18 de diciembre de 2012, el saneamiento del proceso conforme lo establece el Art\u00edculo 1151 del C\u00f3digo Judicial, superada la etapa de saneamiento, se procedi\u00f3 a calificar la admisibilidad de las pruebas, en resoluci\u00f3n fechada 15 de octubre de 2013, donde se admiti\u00f3 la prueba identificada en el numeral 2 y no se admiti\u00f3 el resto de las pruebas aducidas por el apoderado judicial de la parte demandante (fs. 1757-1760).",
-            "Articulo": [
-                "1151"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "C\u00f3digo Judicial"
-            ],
-            "Numero": 10
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Al ingresar el negocio a esta sede judicial, se dispuso mediante resoluci\u00f3n de 18 de diciembre de 2012, el saneamiento del proceso conforme lo establece el Art\u00edculo 1151 del C\u00f3digo Judicial, superada la etapa de saneamiento, se procedi\u00f3 a calificar la admisibilidad de las pruebas, en resoluci\u00f3n fechada 15 de octubre de 2013, donde se admiti\u00f3 la prueba identificada en el numeral 2 y no se admiti\u00f3 el resto de las pruebas aducidas por el apoderado judicial de la parte demandante (fs. 1757-1760).",
-            "Articulo": [
-                "1151"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "C\u00f3digo Judicial"
-            ],
-            "Numero": 10
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Seguidamente, este Tribunal concedi\u00f3 a la parte recurrente el t\u00e9rmino de cinco (5) d\u00edas para que sustentara la apelaci\u00f3n incoada, y cinco d\u00edas (5) d\u00edas a la parte opositora para que presentara sus consideraciones (f.1784), t\u00e9rmino que fue aprovechado por la parte recurrente (ver fojas 1766 \u2013 1771). ",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 11
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Corresponde en estos momentos, resolver el recurso impetrado, para lo cual nos hemos de permitir adelantar las siguientes consideraciones.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 12
-        },
-        {
-            "Tipo": 3,
-            "Contenido": "SUSTENTACI\u00d3N DE LA APELACI\u00d3N DE INMOBILIARIA CONSTRUCTEC, S.A. y AGUILERA FRANCESCHl, S.C.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 13
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "El licenciado Rodolfo Aguilera Franceschi, procurador Judicial de INMOBILIARIA CONSTRUCTEC,S.A., y AGUILERA FRANCESCHI, S.C., manifiesta que MIROSLAVA SUCRE SIMITI promovi\u00f3 ante el Juzgado Decimocuarto de Circuito de lo Civil una demanda en contra de INMOBILIARIA CONSTRUCTEC, S.A., mediante la cual reclam\u00f3 una cuant\u00eda superior al Mill\u00f3n de Balboas, con base en el hecho de que supuestamente INMOBILIARIA CONSTRUCTEC, S.A., era due\u00f1a de un proyecto y hab\u00eda hecho un movimiento de tierra que le hab\u00eda causado da\u00f1os y perjuicios en sus terrenos y en sus plantaciones a MIROSLAVA SUCRE SIMIT\u00cd, principalmente a unos supuestos \u00e1rboles maderables.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 14
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Se\u00f1ala que dentro del proceso seguido ante el Juzgado Decimocuarto de Circuito de lo Civil, INMOBILIARIA CONSTRUCTEC, S.A., por conducto de sus abogados, la firma forense Aguilera Franceschi, S. C., tuvo que realizar un esfuerzo probatorio y argumentativo que tom\u00f3 a\u00f1os, de 2008 a 2012, con el fin de demostrar que las fincas, el desarrollo inmobiliario y el movimiento de tierra no era de su propiedad, sino de BARCELONA HOLDINGS, INC.; MIROSLAVA SUCRE SIMITI no realiz\u00f3 ning\u00fan esfuerzo probatorio, ni mucho menos impuls\u00f3 el proceso, al punto de que en la sentencia del primera instancia la Juez Decimocuarta de Circuito Civil expuso: \u201cLa demandante no ha podido siquiera individualizar el terreno colindante a propiedad, desde el cual se produjeron los supuestos hechos da\u00f1osos \u2026\u201d.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 15
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Expone que la demanda ordinaria promovida por MIROSLAVA SUCRE SIMITI, deterior\u00f3 la imagen del proyecto inmobiliario y la percepci\u00f3n que la comunidad ten\u00eda de INMOBILIARIA CONSTRUCTEC, S.A. como una empresa de corretaje de bienes ra\u00edces seria y responsable, en el fondo era un reclamo fr\u00edvolo sin sustento f\u00e1ctico, que \u00fanicamente ten\u00eda como objetivos amedrentar a INMOBILIARIA CONSTRUCTEC, S.A., y paralizar las ventas de casas del proyecto, objetivos que se cumplieron a cabalidad. ",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 16
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Afirma que conscientes de que la demanda planteada por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC, S.A. era abusiva, el Juzgado Decimocuarto de Circuito Civil procedi\u00f3 a dictar sentencia en contra de la reclamante, MIROSLAVA SUCRE SIMIT\u00cd y la conden\u00f3 en costas ejemplares de B/. 88,750.00.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 17
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Expone que plante\u00f3 la demanda ordinaria en contra de MIROSLAVA SUCRE SIMIT\u00cd, la cual fue resuelta mediante Sentencia N\u00ba 119 de 9 de diciembre de 2011, negando algunas de las pretensiones de la demanda, bajo el argumento de que faltaban pruebas.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 18
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Se\u00f1ala que en la actualidad consta en el presente proceso copias autenticadas de todo el proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd en contra de INMOBILIARIA CONSTRUCTEC, S.A., en el cual consta la condena en costas en contra de MIROSLAVA SUCRE SIMIT\u00cd y a favor de INMOBILIARIA CONSTRUCTEC, S.A., por B/. 88,750.00; as\u00ed como que el proceso culmin\u00f3 y que dentro del mismo no existe un pago de dichas costas o una gesti\u00f3n de ejecuci\u00f3n de la sentencia.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 19
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "En ese mismo orden de ideas, manifiesta que aporto como prueba para esta instancia, copia autenticada de la Sentencia N\u00ba 13 de 18 de marzo de 2010, dictada por el Juzgado Decimocuarto de Circuito proferida en contra de MIROSLAVA SUCRE SIMITI, y de la resoluci\u00f3n que declar\u00f3 desierta la apelaci\u00f3n contra esta \u00faltima sentencia.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 20
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "En tal sentido argumenta que como los hechos y pretensiones principales de la demanda corregida que dio inicio al presente proceso tienen su fundamento en el proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC S.A., ante el Juzgado Decimocuarto de Circuito de lo Civil y teniendo en cuenta que, finalmente, copia autentica de dicho proceso ya consta en autos, concluye, con razonada l\u00f3gica, que los hechos de la demanda se han acreditado y por tanto, debe concederse la pretensi\u00f3n principal, que consiste en que se declare que MIROSLAVA SUCRE SIMIT\u00cd est\u00e1 obligada a pagar la suma de B/. 88,750.00 a INMOBILIARIA CONSTRUCTEC, S.A., o subsidiariamente a AGUILERA FRANCESCHl, S.C., en conceptos de costas. Agrega que de conformidad con lo dispuesto en el art\u00edculo 1614 del C\u00f3digo Judicial, la copia autenticada de la sentencia dictada por el Juzgado Decimocuarto de Circuito Civil aportada en segunda instancia tiene la fuerza de un recaudo ejecutivo, por tanto, es de la opini\u00f3n que procede conceder las declaraciones y condenas principales pedidas en la demanda corregida.",
-            "Articulo": [
-                "1614"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "C\u00f3digo Judicial"
-            ],
-            "Numero": 21
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "En tal sentido argumenta que como los hechos y pretensiones principales de la demanda corregida que dio inicio al presente proceso tienen su fundamento en el proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC S.A., ante el Juzgado Decimocuarto de Circuito de lo Civil y teniendo en cuenta que, finalmente, copia autentica de dicho proceso ya consta en autos, concluye, con razonada l\u00f3gica, que los hechos de la demanda se han acreditado y por tanto, debe concederse la pretensi\u00f3n principal, que consiste en que se declare que MIROSLAVA SUCRE SIMIT\u00cd est\u00e1 obligada a pagar la suma de B/. 88,750.00 a INMOBILIARIA CONSTRUCTEC, S.A., o subsidiariamente a AGUILERA FRANCESCHl, S.C., en conceptos de costas. Agrega que de conformidad con lo dispuesto en el art\u00edculo 1614 del C\u00f3digo Judicial, la copia autenticada de la sentencia dictada por el Juzgado Decimocuarto de Circuito Civil aportada en segunda instancia tiene la fuerza de un recaudo ejecutivo, por tanto, es de la opini\u00f3n que procede conceder las declaraciones y condenas principales pedidas en la demanda corregida.",
-            "Articulo": [
-                "1614"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "C\u00f3digo Judicial"
-            ],
-            "Numero": 21
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Estima la parte recurrente que el obst\u00e1culo que impidi\u00f3 que el Juzgado A quo fallase a su favor, ya no existe, ha sido salvado, con la copia de la sentencia firme y ejecutoriada favorable a INMOBILIARIA CONSTRUCTEC, S.A., que fija las costas en US$ 55, 750.00, por lo cual, considera se impone un fallo que revoque la sentencia impugnada y en su lugar, se conceda lo pedido en la demanda corregida, y se condene a la parte demandada al pago de costas y gatos del proceso. ",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 22
-        },
-        {
-            "Tipo": 3,
-            "Contenido": "CRITERIO DEL TRIBUNAL",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 23
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "De acuerdo con las constancias del proceso, INMOBILIARIA CONSTRUCTEC, S.A. y AGUILERA FRANCESCHl, S.C., promovieron proceso ordinario en contra de MIROSLAVA SUCRE SIMIT\u00cd, a fin de que se emitan las siguientes declaraciones y condenas: ",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 24
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "\u201cQue MIROSLAVA SUCRE SIMIT\u00cd promovi\u00f3 un proceso ordinario de mayor cuant\u00eda, por una suma superior a Un Mill\u00f3n de Balboas (B/. 1,000,000.00) en contra de INMOBILIARIA CONSTRUCTEC, S.A., ante el Juzgado Decimocuarto de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, el cual fue fallado en primera instancia en contra de MIROSLAVA SUCRE SIMITI, siendo condenada MIROSLAVA SUCRE SIMIT\u00cd a pagar la suma de OCHENTA Y OCHO MIL SETECIENTOS CINCUENTA BALBOAS (B/. 88,750.00) a favor de la parte demandada en aquel proceso, INMOBILIARIA CONSTRUCTEC, S.A.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 25
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "Que MIROSLAVA SUCRE SIMIT\u00cd est\u00e1 obligada a pagar a INMOBILIARIA CONSTRUCTEC, S.A., las costas y gastos del proceso ordinario de mayor cuant\u00eda que MIROSLAVA SUCRE SIMIT\u00cd promovi\u00f3 por una suma superior a UN MILL\u00d3N DE BALBOAS (B/. 1,000,000.00) en contra de INMOBILIARIA CONSTRUCTEC, S.A., ante el Juzgado Decimocuarto de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, el cual fue fallado en primera instancia en contra de MIROSLAVA SUCRE SIMIT\u00cd.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 26
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "Que se condene a MIROSLAVA SUCRE SIMIT\u00cd a pagar la suma de OCHENTA Y OCHO MIL SETECIENTOS CINCUENTA BALBOAS (B/. 88, 750.00) a favor de INMOBILIARIA CONSTRUCTEC, S.A., en concepto de costas del proceso ordinario referido en la pretensi\u00f3n, 1-anterior, m\u00e1s los gastos del proceso referido, m\u00e1s intereses costas y gastos del presente proceso.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 27
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "De manera subsidiaria, para el evento de que no se concedan las anteriores pretensiones que se condene a MIROSLAVA SUCRE SIMIT\u00cd a pagar a la firma AGUILERA FRANCESCHl, S.C., la cual realiz\u00f3 el trabajo en derecho en el proceso descrito en la pretensi\u00f3n 1- anterior, las costas y los gastos del proceso referido en el numeral 1- anterior, m\u00e1s intereses costas y gastos del presente proceso. ",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 28
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "Que MIROSLAVA SUCRE SIMITI promovi\u00f3 una denuncia penal y luego una querella penal ante la Personer\u00eda Municipal de Arraij\u00e1n contra INMOBILIARIA CONSTRUCTEC, S.A., por supuesto delito contra el patrimonio econ\u00f3mico, espec\u00edficamente por los delitos de usurpaci\u00f3n y da\u00f1o de un inmueble de su propiedad.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 29
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "Que la citada querella penal fue planteada de manera negligente por parte de MIROSLAVA SUCRE SIMITI, con lo cual, caus\u00f3 da\u00f1os a INMOBILIARIA CONSTRUCTEC, S.A., los cuales la se\u00f1ora SUCRE SIMIT\u00cd est\u00e1 obligada a indemnizar.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 30
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "Que MIROSLAVA SUCRE SIMITI est\u00e1 obligada a indemnizar las costas y gastos en que incurri\u00f3 INMOBILIARIA CONSTRUCTEC, S.A., en su defensa dentro del proceso penal citado en el numeral 5- anterior.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 31
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "Que en caso de oposici\u00f3n MIROSLAVA SUCRE SIMITI est\u00e1 obligada a pagar intereses, costas y gastos del presente proceso.\u201d",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 32
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "La demandada MIROSLAVA SUCRE SIMITI contest\u00f3 la demanda ordinaria corregida oportunamente mediante memorial visible a fojas 244 a 247 del cuaderno.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 33
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Luego de cumplidas las fases del proceso, el Juzgado Tercero de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, resolvi\u00f3 la demanda por medio de la Sentencia N\u00ba 119 de fecha 9 de diciembre de 2011, declarando probada parcialmente la pretensi\u00f3n \u201c1\u201d de la demanda, en consecuencia, declaro \u201cQue MIROSLAVA SUCRE SIMITI promovi\u00f3 un proceso ordinario de mayor cuant\u00eda, por una suma superior a Un Mill\u00f3n de Balboas (B/. 1,000,000.00) en contra de INMONILIARIA CONSTRUCTEC, S.A., ante el Juzgado Decimocuarto de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, el cual fue fallado en primera instancia\u201d; neg\u00f3 el resto de las declaraciones solicitadas en la demanda y condeno la suma de TRECE MIL CIENTO VEINTICINCO BALBOAS (B/. 13,125,00) en costas en contra de la parte vencida.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 34
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "El recurso vertical que nos ocupa resulta ser interpuesto \u00fanicamente por la parte demandante INMOBILIARIA CONSTRUCTEC, S.A. y AGUILERA FRANCESCHI, S.C.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 35
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Como vemos, la disconformidad de la parte demandante INMOBILIARIA CONSTRUCTEC, S.A. y AGUILERA FRANCESCHl, S.C., con la sentencia impugnada radica en que el Juez a quo neg\u00f3 algunas de las pretensiones de la demanda ordinaria corregida promovida en contra de MIROSLAVA SUCRE SIMIT\u00cd, bajo el argumento de que faltaban pruebas.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 36
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Estima la parte recurrente, que tal argumento ha sido superado, puesto que incorpor\u00f3 como prueba para esta instancia, copia autenticada de la Sentencia N\u00ba 13 de 18 de marzo de 2010, dictada por el Juzgado Decimocuarto de Circuito Civil dentro del proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC, S.A., debidamente ejecutoriada (ver fojas 1744-1752).",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 37
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Adem\u00e1s, considera que la incorporaci\u00f3n al presente proceso ordinario de la prueba de informe solicitada al Juzgado Decimocuarto de Circuito del Primer Circuito Judicial, Ramo Civil, consistente en copias autenticadas del proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC, S.A., agregadas despu\u00e9s de emitida la sentencia impugnada, respalda sus planteamientos.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 38
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "En primer lugar, una lectura minuciosa del libelo de demanda corregida (fs. 30-34), y del libelo de sustentaci\u00f3n de la apelaci\u00f3n (fs. 1766 \u2013 1771), se infiere que en opini\u00f3n de INMOBILIARIA CONSTRUCTEC, S.A., y AGUILERA FRANCESCHI, S. C., en el presente caso logr\u00f3 probar los hechos en que se fundamenta su pretensi\u00f3n relacionados con el proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd en su contra (Declaraciones primera y segunda).",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 39
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Con respecto a este punto controvertido el Juez A quo se\u00f1al\u00f3: ",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 40
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "\u201cPor otra parte, para que sea procedente el reconocimiento de las declaraciones segunda, tercera y cuarta, como lo es cobro de costas fijadas en un proceso, es indispensable que el proceso cuyas costas es reclamada se encuentre finalizado y con una conclusi\u00f3n favorable al demandante, sin embargo, este requisito indispensable no se cumple en el presente negocio, ya que de las pruebas aportadas se desprende claramente que el proceso se encuentra en grado de apelaci\u00f3n ante el tribunal superior, por lo que no media una sentencia firme y ejecutoriada.\u201d",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 41
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Este Tribunal Colegiado estima que las copias autenticadas del proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC, S.A., visibles de fojas 1018 a 1718 del cuaderno, logran acreditar los hechos PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO, y SEXTO del libelo de demanda corregida.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 42
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "En otras palabras, en el presente proceso ordinario qued\u00f3 demostrado que la demandada MIROSLAVA SUCRE SIMITI promovi\u00f3 un proceso ordinario de mayor cuant\u00eda en contra de INMOBILIARIA CONSTRUCTEC, S.A, por la suma de UN MILL\u00d3N QUINIENTOS MIL BALBOAS CON 00 (B/. 1,500,000.00), el cual se tramit\u00f3 en el Juzgado Decimocuarto de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, y termin\u00f3 con la emisi\u00f3n de la Sentencia N\u00ba 13 de 18 de marzo de 2010, en contra de la actora MIROSLAVA SUCRE SIMIT\u00cd, imponi\u00e9ndosele a esta una condena por la suma de B/. 88,750.00 en concepto de constarse a favor de la parte demandada en aquel proceso.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 43
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Sumado a lo expuesto, consta a fojas 1744 a 1752 del cuaderno, copia autenticada de la Sentencia N\u00ba 13 de 18 de marzo de 2010, proferida por el Juzgado Decimocuarto de Circuito Civil del Primer Circuito Judicial de Panam\u00e1, dentro del proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC, S.A., al final de la misma se observa una certificaci\u00f3n secretarial de fecha 24 de abril de 2012, en el cual se hace constar que la misma \u201cse encuentra ejecutoriada y no ha sido objeto de ejecuci\u00f3n en la forma prevista que establece el art\u00edculo 1038 del C\u00f3digo Judicial\u201d.",
-            "Articulo": [
-                "1038"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "C\u00f3digo Judicial"
-            ],
-            "Numero": 44
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Sumado a lo expuesto, consta a fojas 1744 a 1752 del cuaderno, copia autenticada de la Sentencia N\u00ba 13 de 18 de marzo de 2010, proferida por el Juzgado Decimocuarto de Circuito Civil del Primer Circuito Judicial de Panam\u00e1, dentro del proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC, S.A., al final de la misma se observa una certificaci\u00f3n secretarial de fecha 24 de abril de 2012, en el cual se hace constar que la misma \u201cse encuentra ejecutoriada y no ha sido objeto de ejecuci\u00f3n en la forma prevista que establece el art\u00edculo 1038 del C\u00f3digo Judicial\u201d.",
-            "Articulo": [
-                "1038"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "C\u00f3digo Judicial"
-            ],
-            "Numero": 44
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Esta Colegiatura considera que con esta prueba se acredita parcialmente la pretensi\u00f3n de INMOBILIARIA CONSTRUCTEC, S.A., espec\u00edficamente, nos referimos a las declaraciones primera y segunda solicitadas en el libelo de demanda corregida, toda vez que en Sentencia N\u00ba 13 de 18 de marzo de 2010, se lee:",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 45
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "\u201cEn m\u00e9rito de lo expuesto, quien suscribe la JUEZ DECIMOCUARTA DEL CIRCUITO DE LO CIVIL DEL PRIMER CIRCUITO JUDICIAL DE PANAM\u00c1, administrando justicia en nombre de la Rep\u00fablica y por autoridad de la Ley, RESUELVE:",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 46
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "DECLARAR PROBADA LA EXCEPCI\u00d3N DE FALTA DE LEGITIMACI\u00d3N EN LA CAUSA EN SU VERTIENTE PASIVA y en consecuencia NIEGA LA PRETENSI\u00d3N ejercida por MIROSLAVA SUCRE SIMIT\u00cd, dentro del proceso ordinario que la misma le sigue a INMOBILIARIA CONSTRUCTEC, S.A.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 47
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "Se condena en costas a la parte demandante, mismas que se calculan en la suma de OCHENTA Y OCHO MIL SETECIENTOS CINCUENTA BALBOAS CON 00/100 (B/. 88,750.00), en favor de la parte demandada\u201d",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 48
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Siendo esto as\u00ed, lo procedente es modificar la sentencia en cuanto a estos extremos. ",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 49
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Respecto a los otros argumentos esgrimidos en el libelo de sustentaci\u00f3n, relacionados a que la demanda ordinaria promovida por MIROSLAVA SUCRE SIMITI, deterior\u00f3 la imagen del proyecto inmobiliario y la percepci\u00f3n que la comunidad ten\u00eda de la misma, deben descartarse toda vez que la parte recurrente no incorporo elementos id\u00f3neos a fin de acreditar este extremo alegado.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 50
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "En cuanto al resto de las declaraciones del libelo de demanda corregida, debe manifestar este Tribunal Colegiado que comparte el criterio esbozado por el Juez a quo en la sentencia impugnada, en cuanto a que \u00e9stas no podr\u00e1n ser reconocidas, en virtud de la ausencia de elementos probatorios.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 51
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Por lo expuesto, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL, administrando justicia en nombre de la Rep\u00fablica y por autoridad de la Ley, en el Proceso Ordinario propuesto por INMOBILIARIA CONSTRUCTEC, S.A. y AGUILERA FRANCESCHl, S.C., en contra de MIROSLAVA SUCRE SIMIT\u00cd, MODIFICA la Sentencia N\u00ba 119 de fecha 9 de diciembre de 2011, proferida por el Juzgado Tercero de Circuito Civil del Primer Circuito Judicial de Panam\u00e1, en el sentido de:",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 52
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "PRIMERO: Declara probada parcialmente LAS PRETENSIONES de la actora INMOBILIARIA CONSTRUCTEC, S.A. y en consecuencia, ACCEDE a la declaraci\u00f3n primera y parcialmente a la segunda:",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 53
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "1. Que MIROSLAVA SUCRE SIMIT\u00cd promovi\u00f3 un proceso ordinario de mayor cuant\u00eda, por una suma superior a Un Mill\u00f3n de Balboas (B/. 1,000,000.00) en contra de INMOBILIARIA CONSTRUCTEC, S.A., ante el Juzgado Decimocuarto de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, el cual fue fallado en primera instancia en contra de MIROSLAVA SUCRE SIMIT\u00cd, siendo condenada MIROSLAVA SUCRE SIMIT\u00cd a pagar la suma de OCHENTA Y OCHO MIL SETECIENTOS CINCUENTA BALBOAS (B/. 88,750.00) a favor de la parte demandada en aquel proceso, INMOBILIARIA CONSTRUCTEC, S.A.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 54
-        },
-        {
-            "Tipo": 2,
-            "Contenido": "2. QUE MIROSLAVA SUCRE SIMIT\u00cd, est\u00e1 obligada a pagar a INMOBILIARIA CONSTRUCTEC, S.A., las costas del proceso ordinario de mayor cuant\u00eda que MIROSLAVA SUCRE SIMIT\u00cd promovi\u00f3 por una suma superior a UN MILL\u00d3N DE BALBOAS (B/.1,000,000.00) en contra de INMOBILIARIA CONSTRUCTEC, S.A.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 55
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Se CONFIRMA en todo lo dem\u00e1s.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 56
-        },
-        {
-            "Tipo": 1,
-            "Contenido": "Sin imposici\u00f3n de costas en segunda instancia.",
-            "Articulo": [
-                "0"
-            ],
-            "numerales": [
-                "0"
-            ],
-            "codigos": [
-                "0"
-            ],
-            "Numero": 57
-        }
-    ],
-    "Notificados": [
-        {
-            "Titulo": "0",
-            "Nombre": "MAG. LILIANNE M. DUCRUET N.",
-            "Numero": "59"
-        },
-        {
-            "Titulo": "0",
-            "Nombre": "MAG. JUAN CARLOS TATIS - SUPLENTE ESPECIAL",
-            "Numero": "60"
-        },
-        {
-            "Titulo": "0",
-            "Nombre": "MAG. CARLOS R. TRUJILLO SAGEL",
-            "Numero": "61"
-        },
-        {
-            "Titulo": "0",
-            "Nombre": "LICDO. JOS\u00c9 J. KARAMA\u00d1ITES \u2013 SECRETARIO",
-            "Numero": "62"
-        }
+    {
+      "Relevancia": "Demandado",
+      "Nombre": "JUEZ DUODECIMO DE CIRCUITO DE LO PENAL DEL PRIMER CIRCUITO JUDICIAL DE PANAMA",
+      "Titulo":"OSCAR E. CARRASQUILLA R.",
+      "Tipo": "JUEZ",
+      "Cedula":"",
+      "Domicilio":""
+    }
+  ],
+  "Cuerpo":[
+    {
+        "Tipo":"Head_1",
+        "Contenido":"VISTOS",
+        "Numero":0
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"La señora SILVANA MANZINI DE DE OBARRIO, por intermedio de apoderado judicial, promueve ante esta Corporación de Justicia amparo de garantías constitucionales en contra del Juez Duodécimo de Circuito de lo Penal del Primer Circuito Judicial de Panamá, por emitir la Providencia de 19 de enero de 2018, a través de la cual se fija el día 25 de julio de 2018, a las 8:30 de la mañana, como fecha para la celebración de la audiencia preliminar dentro del proceso seguido a ADOLFO DE OBARRIO MANZINI, SILVANA MANZINI DE OBARRIO, MIKE BTESH BTESH, GABRIEL BTESH BTESH, YVETIE BARSALLO y MARÍA ALESANDRA SALERNO GÓMEZ, por la supuesta comisión del Delito Contra la Administración Pública, en la modalidad de Enriquecimiento Injustificado; y, fija como fecha alterna el día 8 de agosto de 2018, a las 8:30 de la mañana.",
+      "Numero":1
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"En los hechos en que se fundamenta el amparo se deja expresado por el apoderado judicial de la amparista que, el 29 de diciembre de 2017, la Fiscalía Anticorrupción de Descarga de la Procuraduría General de la Nación concluyó las sumarias por la posible comisión del Delito Contra la Administración Pública, en la modalidad de Enriquecimiento Injustificado, seguido a la señora SILVANA MANZINI DE DE OBARRIO y otros; proceso que quedó radicado en el Juzgado Duodécimo de Circuito de lo Penal del Primer Circuito Judicial de Panamá.",
+      "Numero":2
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Posteriormente, el 9 de marzo de 2018, la Fiscalía Séptima superior de la Procuraduría General de la Nación concluyó las sumarias por la posible comisión del Delito contra el Orden Económico, en la modalidad de Blanqueo de Capitales seguidas a SILVANA DE MANZlNI DE OBARRIO y otros; expediente radicado en el Juzgado Dieciocho de Circuito de lo Penal de Primer Circuito Judicial de Panamá.",
+      "Numero":3
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Explica el recurrente que esta segunda causa penal tuvo su origen con la remisión de las sumarias realizada por la Fiscalía Anticorrupción de Descarga de la Procuraduría General de la Nación; en virtud de que el Juzgado Duodécimo de Circuito de lo Penal del Primer Circuito Judicial de Panamá, acogió un incidente de controversia y dispuso el cierre de la investigación por la supuesta comisión del Delito contra la Administración Pública, en la modalidad de Enriquecimiento Injustificado. ",
+      "Numero":4
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Agrega que el 12 de junio de 2018, a las 11:24 de la mañana, presentó Incidente de Acumulación para que el Juzgado Duodécimo de Circuito de lo Penal, Despacho a cargo del expediente sobre el Delito contra la Administración Pública decidiera si dicho proceso se acumulaba con el proceso seguido por el Delito contra el Orden Económico, que se encuentra radicado en el Juzgado Dieciocho de Circuito Penal; sin embargo el referido incidente no ha sido resuelto, pese al derecho que le asiste a su representada a una justicia en tiempo razonable, como lo dispone el artículo 15 del Código Procesal Penal y a las garantías, principios y reglas que consagra el citado texto legal.",
+      "Numero":5
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Continúa exponiendo que, de acuerdo al artículo 2293 del Código Judicial, el trámite para la acumulación en los procesos penales se rige por el trámite de acumulación de los procesos civiles, por tal motivo se debe atender a lo dispuesto en el artículo 726 de la misma excerpta legal que dispone, “Pedida la acumulación, si la solicitud estuviere en debida forma, el Juez dará traslado por tres días a la otra parte para que exponga lo que estime conveniente sobre ella.”",
+      "Numero":6
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Indica que no obstante lo establecido en la norma, el Juez Duodécimo de Circuito Penal del Primer Circuito Judicial de Panamá solo consideró como parte a la agencia del Ministerio Público y no dio traslado a ninguna de las partes de ambos procesos a fin de que expresaran sus consideraciones.",
+      "Numero":7
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Aduce el recurrente que la falta de pronunciamiento sobre el Incidente de Acumulación, lleva a que el mismo sea decidido en la fecha de audiencia alterna y se conceda el recurso de apelación que cualquiera de las partes interpondrá, en efecto devolutivo, como lo dispone el artículo 726 del Código Judicial, lo cual “... generaría efectos perniciosos sobre la legalidad, simplificación y concentración del proceso penal con la serie de obvias contradicciones sobre si se acumulan los expedientes, como primer supuesto”; indicando además que, “Si los expedientes no se acumularan, la demora generada… implicaría una abierta violación al principio de una justicia en tiempo razonable en el marco de la eficacia con que deben tramitarse los procesos penales.”",
+      "Numero":8
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Concluye el recurrente manifestando que para asegurar la efectividad de las garantías constitucionales de la amparista, el Juez “... debió interrumpir el curso del proceso dado que cualquiera sea la resolución que adopte, en primera instancia, sobre el Incidente de Acumulación, y luego, la que adopte el Tribunal Superior de Justicia, influirá inevitablemente en 1a decisión final sobre una u otra causa penal como lo tiene previsto el artículo 703 del Código Judicial”. ",
+      "Numero":9
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"De los hechos expuestos, considera el apoderado judicial de la amparista que se ha infringido la garantía constitucional del debido proceso que consagra el artículo 32 de la Constitución Política, debido a que, por un lado, “En el presente caso la ORDEN DE HACER sólo fue dada en traslado al Ministerio Público y ninguna de las demás personas vinculadas... recibieron traslado alguno del Incidente de Acumulación presentado, colmo (sic) se ha dicho, el 12 de junio de 2018 a las 11:24 a.m.” (f.8); y por otro, “... porque al insistirse en la celebración de la audiencia en la fecha alterna, reservándose la facultad de resolver el Incidente de Acumulación durante la celebración de la audiencia, sin irrumpir el proceso crea incertidumbre y contradicciones sea que una u otra cosa sobre el incidente de acumulación, en primera y/o segunda instancia, siendo que la cosa sobre el incidente de acumulación en primera instancia , siendo que la resolución final tendrá gran influencia en el fondo de la o de las sentencias.” (f.9).",
+      "Numero":10
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Corresponde al Tribunal, en primer lugar, luego de expuesta la situación fáctica que dieron lugar al amparo de garantías constitucionales en contra de la orden demandada, verificar si la presente demanda cumple con los requisitos de forma y los presupuestos que determinan los artículos 2615, 2616 2617, 2618 y 2019 del Código Judicial, a fin de establecer si la acción constitucional promovida está debidamente formulada y no fuere manifiestamente improcedente.",
+      "Numero":11
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"En ese sentido, sí bien la demanda cumple con los requisitos comunes a toda demanda, el Tribunal observa que existe un impedimento para la admisión de la presente acción, el cual consiste en que la resolución del 19 de enero de 2018, que fija fecha de audiencia preliminar, no es susceptible de ser atacada vía amparo de garantías constitucionales, debido a que estamos frente a una resolución de mero trámite, de la cual no se derivan violaciones a las garantías constitucionales de la amparista, criterio que ha sido reiterado por el Pleno de la Corte Suprema de Justicia en los siguientes términos: ",
+      "Numero":12
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"“... la resolución dictada por un Juzgado con el fin de fijar fecha de audiencia preliminar no es susceptible de ser impugnada por la vía de amparo de garantías constitucionales, pues no es más que un asunto de mero trámite del proceso penal, que se emite de acuerdo a la facultad de juzgar que reviste al Tribunal de conocimiento.” (Fallo del 12 de julio del 2012, bajo la ponencia del Magistrado Luís Ramón Fábrega Sánchez). ",
+      "Numero":13
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"“... En ese sentido, se ha dejado plenamente establecido que estas resoluciones en las que se pone en conocimiento de las partes la fecha de audiencia constituyen autos de mero trámite y por tanto no pueden considerarse órdenes de hacer, ya que entre otras circunstancias, las mismas no están individualizadas, y no son un mandato para la realización de determinada acción.” (Fallo del 11 de noviembre del 2005, bajo la ponencia del Magistrado Virgilio Trjillo.) ",
+      "Numero":14
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Aunado a lo anterior, el Tribunal advierte que tanto advierte que tanto al realizarse la exposición de los hechos como el concepto en que ha sido infringido al artículo 32 de la Constitución Política el apoderado judicial de la amparista hace alusión a los posibles efectos que tendría la decisión en tomo a la solicitud de acumulación de procesos, lo cual condiciona a futuro la alegada violación al Debido Proceso; es decir, que la acción está dirigida a la posibilidad de una vulneración a las garantías fundamentales de la amparista y no a una situación actual, por lo que mal puede dirigirse un amparo contra posibilidades o suposiciones, en virtud de que el artículo 54 de la Constitución Política señala que, “Toda persona contra la que se expida o ejecute, por cualquier servidor público, una orden de hacer o de no hacer, que viole los derechos y garantías que esta Constitución consagra, tendrá derecho a que la orden sea revocada a petición suya o de cualquier persona”, situación que no es la existente en el caso de marras. ",
+      "Numero":15
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"De igual forma, observa este Tribunal Constitucional otra circunstancia que impide la admisión de esta acción ensayada, la cual está relacionada con que el acto impugnado no está debidamente individualizado puesto que el apoderado judicial de la amparista al indicar cuál es la orden impugnada hace cita de la Providencia de 19 de enero de 2018; sin embargo, al explicar la violación a la garantía constitucional del debido proceso indica que: ",
+      "Numero":16
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"“A.-. La ORDEN DE HACER incurre en la violación al Debido Proceso Legal porque toda persona tiene derecho a ser juzgada “... conforme a los trámites legales...”.",
+      "Numero":17
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"Los incidentes de acumulación de expediente que por expresa autorización del procedimiento penal se tramitan de acorde con las reglas que regulan la misma materia en asuntos civiles, dispone que tales incidentes se darán traslado por tres días a la otra parte para que exponga lo que estime necesario. ",
+      "Numero":18
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"En el presente caso la ORDEN DE HACER sólo fue dada en traslado al Ministerio Público y ninguna de las demás personas vinculadas... recibieron traslado alguno del Incidente de acumulación presentado, colmo (sic) se ha dicho, el 12 de junio de 2018 a las 11:24 a.m.” (f.8)",
+      "Numero":19
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"De lo así expuesto, se advierte que existe imprecisión y la falta de individualizar el acto que se considera violatorio de la garantía constitucional del debido proceso, porque se indica que la resolución impugnada es aquélla que fija fecha de audiencia preliminar; sin embargo, la alegada violación se fundamenta en la omisión del traslado del incidente de acumulación a las demás partes de ambos procesos.",
+      "Numero":20
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"De manera tal que al no cumplirse con la exigencia prevista en Constitución Política de la República y el numeral 1 del artículo 2619 del Código Judicial, por no existir orden u acto cierto contra la amparista, del cual se advierta vulneración a la garantía del debido proceso, a través de la infracción de una trámite legal esencial, la demanda deviene en manifiestamente improcedente.",
+      "Numero":21
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"En mérito de lo expuesto, el PRIMER TRIBUNAL SUPERIOR DE JUSTICIA, administrando justicia en nombre de la República y por autoridad de la Ley, NO ADMITE la demanda de amparo de garantías constitucionales propuesta por SILVANA MANZINI DE DE OBARRJO contra el JUEZ DUODÉCIMO DE CIRCUITO DE LO PENAL DEL PRIMER CIRCUITO JUDICIAL DE PANAMÁ, Licenciado OSCAR E. CARRASQUILLA R. ",
+      "Numero":22
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Téngase al Licenciado EDUARDO RAÚL SEQUEIRA, como apoderado judicial de la amparista.",
+      "Numero":23
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Notifíquese.",
+      "Numero":24
+    }
+  ],
+  "Notificados":[
+      {
+        "Titulo":"MAGISTRADO",
+        "Nombre":"CARLOS RAÚL TRUJILLO SAGEL",
+        "Numero":1
+        },
+      {
+        "Titulo":"MAGISTRADO",
+        "Nombre":"OLGA RUJANO DE LEÓN",
+        "Numero":2
+        },
+      {
+        "Titulo":"MAGISTRADO",
+        "Nombre":"MIGUEL A. ESPINO G.",
+        "Numero":3
+        },
+      {
+        "Titulo":"Secretario",
+        "Nombre":"JOSÉ KARAMAÑTES",
+        "Numero":4
+      }
     ]
+  },
+{
+  "Nombre": "20180820_EDWIN_SANJUR_vs_JUEZ_DE_CIRCUITO_AMPARO_1_revMLC",
+  "Entrada": "18AMP1.321",
+  "Tipo":"Amparo de Garantías Constitucionales",
+  "Fecha": "20180820",
+  "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
+  "Articulos":"",
+  "Responsable":{
+    "Tipo":"Suplente Magistrado",
+    "Nombre":"LORENA HERNANDEZ"
+  },
+  "Partes":[
+    {
+      "Relevancia": "Demandante",
+      "Nombre": "EDWIN SANJUR",
+      "Titulo": "MAGISTER",
+      "Tipo": "Persona Natural",
+      "Cedula":"",
+      "Domicilio":""
+    },
+    {
+      "Relevancia": "Demandado",
+      "Nombre": "JUEZ DUOSEPTIMO DE CIRCUITO DE LO PENAL DEL PRIMER CIRCUITO JUDICIAL DE PANAMA",
+      "Titulo":"LORENA HERNANDEZ CEBALLOS",
+      "Tipo": "MAGISTRADA SUPLENTE",
+      "Cedula":"",
+      "Domicilio":""
+    }
+  ],
+  "Cuerpo":[
+    {
+        "Tipo":"Head_1",
+        "Contenido":"VISTOS",
+        "Numero":0
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"El magíster EDWIN SANJUR, actuando en nombre propio y como representante legal de la sociedad GANADERIA ORO DE OFIR, S.A., ha interpuesto demanda de Amparo de Garantías Constitucionales en contra del Juzgado Decimoséptimo de Circuito de lo Penal del Primer Circuito Judicial de Panamá (Lorena Hernández Ceballos), por haber dictado la orden de no hacer contenida en el Auto de Sobreseimiento Provisional Nº54 de 22 de agosto de 2017, a través del cual se dispone sobreseer provisionalmente a Manuel de Jesús Vargas, dentro de las sumarias en averiguación por la presunta comisión del delito contra el Patrimonio Económico, en la modalidad de Estafa, en perjuicio de Edwin Jesús Sanjur.",
+      "Numero":1
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Corresponde al Tribunal, en primer lugar, verificar si la presente demanda cumple con los requisitos de forma y los presupuestos que determinan los artículos 2615, 2616, 2617, 2618 y 2619 del Código Judicial, a fin de determinar si está debidamente formulada y no fuere manifiestamente improcedente por la omisión de alguno de esos requisitos o presupuestos legales.",
+      "Numero":2
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"En este sentido, si bien la demanda cumple con los requisitos comunes a toda demanda, de la copia auténtica de la resolución demanda, que corre de foja 88 a 106, se advierte que la parte proponente del amparo, siendo el querellante de la presunta comisión del delito en investigación, según se desprende acto seguido a la parte resolutiva de la decisión, anunció recurso de apelación (cf.106); sin embargo, no aportó con la demanda acreditar, relacionadas con el presupuesto legal del numeral 2 del inciso final del artículo 2615 del Código Judicial, sobre “el agotamiento de los trámites o medios ordinarios de impugnación”, a saber: la apelación contra el auto de sobreseimiento que consagra el artículo 2216 del Código Judicial. ",
+      "Numero":3
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"De igual forma este Cuerpo Colegiado, debe indicar que el acto impugnado data de fecha 22 de agosto de 2017, y dentro de los elementos aportados, no hay elemento alguno que nos permita determinar que la acción de garantías constitucionales fue presentada dentro de los 3 meses que exige la jurisprudencia nacional respecto la existencia de la gravedad e inminencia acerca del daño.",
+      "Numero":4
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Además de la lectura atenta del libelo de la presente acción de garantías fundamentales se desprende sin lugar a dudas, que lo que se busca con ella es el examen de aspectos legales, de valoración de pruebas o de interpretación jurídica, que llevaron a la juzgadora atacada a tomar la decisión de sobreseer provisionalmente a Manuel de Jesus Vargas dentro del proceso penal seguido en su contra. (cfs. 6, 7, 8, 9, 13, 18).",
+      "Numero":5
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"En mérito de lo expuesto, el PRIMER TRIBUNAL SUPERIOR DE JUSTICIA, administrando justicia en nombre de la República y por autoridad de la ley, NO ADMITE la demanda de amparo de garantías constitucionales propuesta por EDWIN SANJUR Y GANADERIA ORO DE OFIR, S.A., en contra de la orden dictada por el JUZGADO DECIMOSEPTIMO DE CÍRCUITO DE LO PENAL DEL PRIMER CÍRCUITO JUDICIAL DE PANAMÁ (LORENA HÉRNANDEZ CEBALLOS, SUPLENETE ESPECIAL).",
+      "Numero":6
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Contenida en el Auto de Sobreseimineto Provicional No.54 de 22 de agosto de 2017",
+      "Numero":7
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Notifíquese.",
+      "Numero":8
+    }
+  ],
+  "Notificados":[
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"LILIANNE M. DUCRET N.",
+      "Numero": 1
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"NELSON H RUIZ C.",
+      "Numero": 2
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"CARLOS RAÚL TRUJILLO SAGEL",
+      "Numero": 3
+    },
+    {
+      "Titulo":"Secretario",
+      "Nombre":"",
+      "Numero": 4
+      }
+    ]
+  },
+  {
+  "Nombre": "20180820_FISCAL_SEPTIMA_ANTICORRUPCIÓN_vs_JUEZ SÉPTIMO_DE_CIRCUITO_AMPARO_1",
+  "Entrada": "18AMP1.064",
+  "Tipo":"Amparo de Garantías Constitucionales",
+  "Fecha": "20180820",
+  "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
+  "Articulos":"",
+  "Responsable":{
+    "Tipo":"Ponente",
+    "Nombre":"NELSON H. RUIZ C."
+  },
+  "Partes":[
+    {
+      "Relevancia": "Demandante",
+      "Nombre": "LA FISCALÍ SÉPTIMA ANTICORRUPCIÓN ",
+      "Titulo": "FISCALÍ SÉPTIMA ANTICORRUPCIÓN ",
+      "Tipo": "Entidad Gubernamental",
+      "Cedula":"",
+      "Domicilio":""
+    },
+    {
+      "Relevancia": "Demandado",
+      "Nombre": "JUEZ SÉPTIMO DE CÍRCUITO PENAL DEL PRIMER CIRCUITO JUDICIAL DE PANAMÁ ",
+      "Titulo":"JUEZ",
+      "Tipo": "Entidad Gubernamental",
+      "Cedula":"",
+      "Domicilio":""
+    }
+  ],
+  "Cuerpo":[
+    {
+        "Tipo":"Head_1",
+        "Contenido":"VISTOS",
+        "Numero":0
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Dentro de la Acción de Amparo de Garantías Constitucionales promovida por la FISCAL SÉPTIMA ANTICORRUPCIÓN DE LA PROCURADURÍA GENERAL DE LA NACIÓN (Licenciada LEYDA ESTHER SAEN DE PITTI) contra el JUEZ SÉPTIMO DE CIRCUITO DE LO PENAL DEL PRIMER CIRCUITO JUDICIAL DE PANAMÁ, Licenciado Felipe Fuentes, mediante Resolución de fecha 24 de julio de 2018, esta Colegiatura dispuso lo siguiente: ",
+      "Numero":1
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"“Por las consideraciones que se han dejado expuestas, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL, administrando justicia en nombre de la República y por autoridad de la Ley, RECHAZA POR IMPROCEDENTE, los recursos de apelación promovidos por la firma forense CASADA ALLARD & CO, apoderada judicial del Licenciado FELIPE FUENTES LÓPEZ, contra Sentencia de fecha veintiséis (26) de junio de dos mil dieciocho (2018) dictada por este Tribunal.”",
+      "Numero":2
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Notificada de la referida resolución judicial, la firma forense CABADA ALLARD & CO, apoderada judicial del Licenciado FELIPE FUENTES LÓPEZ, presentó solicitud de aclaración de la meritada Resolución de fecha 24 de julio de 2018, lo cual es consultable a foja 175-179 del presente cuaderno.",
+      "Numero":3
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Ahora bien, a fin de determinar la viabilidad de la solicitud de aclaración imprenta por la representación del Licenciado FELIPE FUENTES LÓPEZ se debe tener presente que, según el artículo 999 del Código Judicial, que resulta perfectamente aplicable a las acciones de amparo de garantías constitucionales, conforme lo señalado por el Pleno de la Corte Suprema de Justicia en reiterados pronunciamientos “toda sentencia puede aclararse de oficio o a petición de parte dentro de los tres (3) días siguientes a su notificación.”",
+      "Numero":4
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"A pesar de lo antes anotado, el Tribuna advierte que si bien, la “SOLICITUD DE ACLARACIÓN DE RESOLUCIÓN” fue presentada oportunamente, por cuanto que la providencia cuya aclaración se solicita, quedó notificada el día 1 de agosto de 2018, fecha en la cual se desfijó el Edicto No.18-2455 de fecha 28 de julio de 2018 (Ver reverso de la foja 171 del expediente), es del caso que, la resolución que se pide sea aclarada por este cuerpo colegiado consiste, como se ha dejado expuesto, en una providencia que rechaza por improcedentes los recursos de apelación ensayados por la representación judicial del Licenciado FELIPE FUENTES LÓPEZ, por consiguiente, esta Colegiatura considera que no le es de aplicación el mencionado artículo 999 del Código Judicial, el cual establece claramente que la petición aclaratoria debe recaer sobre la sentencia que decida el fondo del asunto.",
+      "Numero":5
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Teniendo presente lo arriba expuesto, concluye esta Colegiatura que, como quiera que lo solicitado no se ajusta a lo previsto en el referido artículo 999 del Código Judicial, tal petición de aclaración resulta a todas luces improcedente, lo que hace necesario su rechazo.",
+      "Numero":6
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Por las consideraciones que se han dejado expuestas en el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL administrando justicia en nombre de la República y por autoridad de la Ley, RECHAZA POR IMPROCEDENTE la “SOLICITUD DE ACLARACIÓN DE RESOLUSIÓN” que fuera promovida por la firma forense CABADA ALLARD & CO, apoderada judicial del Licenciado FELIPE FUENTES LÓPEZ,",
+      "Numero":7
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Notifíquese.",
+      "Numero":8
+    }
+  ],
+  "Notificados":[
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"NELSON H RUIZ C.",
+      "Numero": 1
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"CARLOS R. TRUJULLO SAGEL",
+      "Numero": 2
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"OLGA RUJANO DE LEÓN",
+      "Numero": 3
+    },
+    {
+      "Titulo":"Secretario",
+      "Nombre":"JOSÉ J. KARAMAÑITES SERETARIO",
+      "Numero": 4
+    }
+  ]
+},
+{
+  "Nombre": "20180822_ANGEL_M._GOMÉZ_vs_JUEZ_DE_GARANTÍAS_DEL_PRIMER_CIRCUITO_JUDICIAL_DE_PANAMÁ_AMPARO_1_revMLC",
+  "Entrada": "18AMP1.298",
+  "Tipo":"Amparo de Garantías Constitucionales",
+  "Fecha": "20180822",
+  "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
+  "Articulos":"",
+  "Responsable":{
+    "Tipo":"Magistrado",
+    "Nombre":"LILIANNE M. DUCRUET N."
+  },
+  "Partes":[
+    {
+      "Relevancia": "Demandante",
+      "Nombre": "JUDITH CHEN DE LEE",
+      "Titulo": "",
+      "Tipo": "Persona Natural",
+      "Cedula":"",
+      "Domicilio":""
+    },
+    {
+      "Relevancia": "Demandado",
+      "Nombre": "CARMELO ZAMBRANO",
+      "Titulo":"JUEZ DE GARANTÍAS DEL PRIMER CIRCUITO JUDICIAL DE PANAMA",
+      "Tipo": "JUEZ",
+      "Cedula":"",
+      "Domicilio":""
+    }
+  ],
+  "Cuerpo":[
+    {
+        "Tipo":"Head_1",
+        "Contenido":"VISTOS",
+        "Numero":0
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"El licenciado ANGEL M. GÓMEZ G., actuando en nombre y representación de JUDITH CHEN DE LEE, ha presentado Acción de Amparo de Garantías Constitucionales contra EL JUEZ DE GARANTÍAS DEL PRIMER CIRCUITO JUDICIAL DE PANAMÁ, el licenciado CARMELO ZAMBRANO. ",
+      "Numero":1
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Se impugna con esta acción, la DECISIÓN JUDICIAL emitida en el Acto de Audiencia Oral celebrado el día 28 de julio de 2018, dentro del Proceso Penal (2016 0003 5562) seguido a GILBERTO VENTURA CEBALLO y otros por presunto delito de Asociación Ilícita, Evasión y Falsedad Documental.",
+      "Numero":2
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"En atención a lo preceptuado por los artículos 2615, 2616 y 2619 del Código Judicial, procede esta Sede de Amparo con el estudio de admisibilidad y viabilidad correspondiente, para lo cual se verificará el cumplimiento de los requisitos de ley, así como también los criterios jurisprudenciales de la materia.",
+      "Numero":3
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Al respecto, debe decirse que si bien la acción de amparo de garantías constitucionales puede ejercerse contra toda clase de acto que vulnere o lesione los derechos o garantías fundamentales consagrados en la constitución no se puede soslayar que, quien acude a sede de amparo debe, en todo caso, cumplir con los presupuestos exigidos para las demandas de carácter constitucional. Es por eso, que resulta dable citar algunos de los requisitos establecidos en la ley, lo cuales se encuentran contemplados en el artículo 2619 del Código Judicial, que versa así: ",
+      "Numero":4
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Agrega que el 12 de junio de 2018, a las 11:24 de la mañana, presentó Incidente de Acumulación para que el Juzgado Duodécimo de Circuito de lo Penal, Despacho a cargo del expediente sobre el Delito contra la Administración Pública decidiera si dicho proceso se acumulaba con el proceso seguido por el Delito contra el Orden Económico, que se encuentra radicado en el Juzgado Dieciocho de Circuito Penal; sin embargo el referido incidente no ha sido resuelto, pese al derecho que le asiste a su representada a una justicia en tiempo razonable, como lo dispone el artículo 15 del Código Procesal Penal y a las garantías, principios y reglas que consagra el citado texto legal.",
+      "Numero":5
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"“Articulo 2619. Además de los requisitos comunes a todas las demandas, la demanda de amparo deberá contener:",
+      "Numero":6
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"1. Mención expresa de la orden impugnada;",
+      "Numero":7
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"2. Nombre del servidor público, funcionario, institución o corporación que la impartió; ",
+      "Numero":8
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"3. Los hechos en que funda su pretensión; y ",
+      "Numero":9
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"4. Las garantías fundamentales que se estimen infringidas y el concepto en que lo han sido. ",
+      "Numero":10
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"Con la demanda se presentará la prueba de la orden impartida, si fuere posible; o manifestación expresa, de no haberla podido obtener”. -el subrayado es de la Sala- ",
+      "Numero":11
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"En esa dirección, y luego de efectuar una minuciosa revisión del libelo de la demanda presentada, tenemos que el accionante en el escrito de amparo de garantías constitucionales, al referirse a la mención expresa de la orden impugnada, indicó lo siguiente: “la demanda de Amparo de Garantías Constitucionales se promueve el Auto (oral) s/n emitido el sábado 28 de julio de 2018, en la Sala de Audiencias No.1, Plaza Agora”; es decir, que el activador constitucional no individualizó concretamente el acto impugnado. ",
+      "Numero":12
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Lo anterior quiere decir, que existe una imprecisión de la parte demandante respecto a la actuación que a su juicio infringe la garantía constitucional, puesto que, no cumplió con la obligación de identificar correctamente la orden impugnada, ya que en la meritada audiencia el juez de garantía resolvió diversos incidentes; de esta manera, desatiende lo consagrado por el numeral 1 del artículo 2619 del Código Judicial.",
+      "Numero":13
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Por otro lado, es importante señalar que si bien la tendencia en materia de amparos es la de liberar esta acción de formalismos rigurosos, de forma tal que se garantice a los ciudadanos los derechos fundamentales consagrados en la Constitución; en ese sentido, se evidencia que los argumentos expuestos por el activador constitucional, son de carácter legal, y no constitucional. ",
+      "Numero":14
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"La jurisprudencia de la Corte Suprema de Justicia ha precisado, que el recurso de amparo de garantías constitucionales no puede dar cabida a la impugnación de una resolución invocándose aspectos de legalidad, es decir, que no se debe entrar en nuevo debate acerca de la aplicación de normas sustantivas y las motivaciones que utilizó el funcionario demandado, para proferir la orden. Dicho de otra manera, no se puede perseguir, mediante la interposición de una demanda de derechos constitucionales, la ponderación de aspectos relativos a los trámites propios de los procesos en su correspondiente jurisdicción. En el fallo de 13 de octubre de 2004, el Pleno de nuestra Suprema Corporación, manifestó lo siguiente: ",
+      "Numero":15
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"“… Advierte la Corte, además, que el accionante pretende a través de este medio extraordinario de impugnación debatir cuestiones de legalidad, lo que no es apropiado. Sobre ello, el Pleno en reiteradas ocasiones ha manifestado que la acción de amparo de garantías constitucionales no es la vía para debatir cuestiones de carácter legal acerca de las decisiones del funcionario judicial, pues ello traerla como consecuencia desvirtuar el propósito de esta acción autónoma y extraordinaria que es la de tutelar derechos y garantías consagrados en la Constitución Nacional…”",
+      "Numero":16
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Sin ánimo de entrar en mayores consideraciones, puesto que está vedado a los tribunales de amparo, en etapa de admisibilidad emitir opiniones, respecto al fondo de la pretensión constitucional; empero, según se desprende de la misma, lo que busca la amparista es que ésta instancia revise aspectos relacionados con la exclusión de la querella en el proceso penal. Aunado a lo anterior, observa ésta Judicatura que los cargos de violación endilgados se encuentran dirigidos a cuestionar la actuación del funcionario demandado quien, en todo caso, se encuentra facultado para tales propósitos.",
+      "Numero":17
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"En reiteradas ocasiones, éste Tribunal Constitucional ha dejado por sentado que no se puede entrar a determinar, a través de ésta vía, si la interpretación de las normas o la valoración realizada por un Juez en un caso determinado, ha sido correcta o no, pues la acción de amparo no es una instancia más del proceso ni es una instancia revisora, y así lo ha sostenido nuestra Máxima Corporación de Justicia, en copiosos pronunciamientos. ",
+      "Numero":18
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Siendo así las cosas, y como quiera que los argumentos expuestos por el amparista están orientados a que ésta instancia jurisdiccional revise la actuación judicial del juzgador, y al no cumplir con el numeral 1 del artículo 2619 del Código Judicial, se procederá a inadmitir la presente demanda de amparo de garantías constitucionales",
+      "Numero":19
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"En mérito de lo expuesto, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL, administrando justicia en nombre de la República y por autoridad de la Ley, NO ADMITE la acción de Amparo de Garantías Constitucionales promovida por el licenciado ANGEL M, GOMEZ G., actuando en nombre y representación de JUDITH CHEN DE LEE conta EL JUEZ DE GARANTÍAS DEL PRIMER CIRCUITO JUDICIAL DE PANAMÁ, el licenciado CARMELO ZAMBRANO.",
+      "Numero":20
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Notifíquese.",
+      "Numero":21
+    }
+  ],
+  "Notificados":[
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"LILIANNE M. DUCRET N.",
+      "Numero": 1
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"NELSON H RUIZ C.",
+      "Numero": 2
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"CARLOS R. TRUJULLO SAGEL",
+      "Numero": 3
+    },
+    {
+      "Titulo":"Secretario",
+      "Nombre":"JOSÉ J. KARAMAÑITES SERETARIO",
+      "Numero": 4
+    }
+  ]
+},
+{
+  "Nombre": "20180822_ELVIS_ANEL_RODRIGUEZ_vs_JUEZ_PRIMERO_DE_CIRCUITO_DE_LO-PENAL__1",
+  "Entrada": "18AMP1.290",
+  "Tipo":"Amparo de Garantías Constitucionales",
+  "Fecha": "20180822",
+  "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
+  "Articulos":"",
+  "Responsable":{
+    "Tipo":"Magistrado",
+    "Nombre":"MIGUEL A. ESPINO G."
+  },
+  "Partes":[
+    {
+      "Relevancia": "Demandante",
+      "Nombre": "Elvis Anel Rodríguez",
+      "Titulo": "",
+      "Tipo": "Persona Natural",
+      "Cedula":"",
+      "Domicilio":""
+    },
+    {
+      "Relevancia": "Demandado",
+      "Nombre": "",
+      "Titulo":"Juez Primero de Circuito de lo Penal Encargado del Tercer Circuito Judicial de Panamá",
+      "Tipo": "JUEZ",
+      "Cedula":"",
+      "Domicilio":""
+    }
+  ],
+  "Cuerpo":[
+    {
+        "Tipo":"Head_1",
+        "Contenido":"VISTOS",
+        "Numero":0
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Conoce el Primer Tribunal la demanda de Amparo de Derechos Constitucionales presentada por Elvis Anel Rodríguez en contra del Juez Primero de Circuito de lo Penal Encargado del Tercer Circuito Judicial de Panamá, en ocasión de los Actos adoptados durante la audiencia plenaria que se llevó a cabo el día I 9 de abril del 2018 en la Sala de Audiencias del Juzgado Primero de Circuito Ramo Penal del Tercer Circuito Judicial de Panamá.",
+      "Numero":1
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Una vez admitida la demanda constitucional mediante providencia del 23 de julio del 2018 se requiere del funcionario demandado su actuación o un informe sobre los hechos materia de la demanda quien opta por remitir las constancias procesales.",
+      "Numero":2
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"De los fundamentos de la pretensión constitucional:",
+      "Numero":3
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"1. “En el acta de audiencia oral celebrada el 19 de abril de 2018, había sido aducido por parte nuestra como defensa técnica la comparencia de los testigos Dik Gilberto Rodríguez Alonso, Alcibiades Benitez Nuñez, Miguel Angel Rodríguez y Eloisa Pascual Chiru.",
+      "Numero":4
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"2. Estas personas rindieron su testimonio tal como se había programado y peticionado por nosotros.",
+      "Numero":5
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"3. Luego que se surtiese el interrogatorio por nosotros como defensa técnica, el Ministerio Público, el Representante de la querella, y el abogado defenso del coimputado, el Juez Edgar Nateron Rodriguez, procedió a hacer un interrogatorio a los señores Dik Gilberto Rodríguez Alonso, Alcibiades Benitez Nuñez, Miguel Angel Rodriguez y Eloisa Pascual Chiru.",
+      "Numero":6
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"4. Con su actuación, no solo vulnera y se aleja de su condición de Juez que debe mantener una conducta de imparcialidad e independencia, sino que incluso procede a emitir epítetos de amenaza contra dos de ellos, cuando los testigos se toman nerviosos ante sus palabras y titubean en su testimonio.",
+      "Numero":7
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"5. La separación de funciones, que se encuentra consignado en el artículo 5 del Código Procesal Penal, le priva al juez de hacer este tipo de interrogatorios, abrogándose la condición de las partes intervinientes.",
+      "Numero":8
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"6. Es sumamente reprochable la actuación del Juez en el acto de audiencia, ya que al actuar de esta manera provocó temor en los testigos, al interpelarlos de la manera que lo hizo,",
+      "Numero":9
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"7. Incluso se esgrimieron epítetos de abrirles causa por un supuesto delito de Falso testimonio. Se trató de un acto bochornoso, en el cual la imparcialidad que debía mantener el Juez a lo largo de la audiencia se vulneró de manera flagrante.”",
+      "Numero":10
+    },
+    {
+      "Tipo":"Head_1",
+      "Contenido":"De los Derechos Fundamentales que se señalan Infringidos.",
+      "Numero":11
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"La decisión que se ataca, señala el pretensor, es una orden de hacer que violenta el debido trámite de ley quebrantándose el artículo 32 de la Constitución Política que consagra el debido proceso. ",
+      "Numero":12
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Igualmente se señala como lesionadas las garantías judiciales que se establecen en el artículo 8 de la Convención Americana de los Derechos Humanos, y en su petición de fondo la parte demandante solicita al Tribunal se revoque la orden de hacer proferida por el Juez Primero de Circuito del Tercer Circuito Judicial de Panamá suplente Edgar Naterón, consistente en proceder a interrogar a los testigos en la audiencia del 19 de abril del 2018. ",
+      "Numero":13
+    },
+    {
+      "Tipo":"Head_1",
+      "Contenido":"CRITERIO Y DECISIÓN DEL TRIBUNAL ",
+      "Numero":14
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Una vez leídos los cargos que se le imputan a la actuación del Juez el Tribunal procede a escuchar el extenso audio y no encuentra que se fundamente la presente acción constitucional, toda vez que contrario a lo señalado por el demandante, el juzgador únicamente recibe a los testigos, les pregunta sus datos y luego lee el artículo 385 del Código Penal que establece como delito el falso testimonio. ",
+      "Numero":15
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Es de señalar que con la demanda se acompaña una transcripción de la audiencia que es bastante fiel a lo que se presentó, aunque no se trascriben las preguntas a los testigos ni sus respuestas en vinculación con el caso. Pero sí se trascribe lo señalado por el Juzgador a cada uno de ellos. ",
+      "Numero":16
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"El Tribunal señala que se colocan en palabras del juzgador situaciones que no se identifican en el audio, es decir, el demandante no señala a qué minutos de la grabación se encuentran los actos que supuestamente son lesivos a los derechos del demandante constitucional. ",
+      "Numero":17
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Se recuerda, que de acuerdo al artículo 2619 con la demanda de amparo de derechos se debe presentar la prueba de la orden impartida, lo que en el medio informático se determina al identificar y dar la ubicación del momento en el que se presentan los actos o hechos que son reclamados a nivel jurisdiccional. ",
+      "Numero":18
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"De los documentos adjuntos con la demanda, observa el Tribunal que de la simple lectura del acta trascrita se evidencia que el Juzgador penal demandado no ha faltado a su imparcialidad, ni mucho menos amenazado a los testigos, como se señala en los fundamentos de la demanda por lo antes expuesto, el PRIMER TRIBUNAL SUPERIOR DE la República y por autoridad de la Ley, NO CONCEDE el Amparo de Derechos Constitucionales presentado por Elvis Anel Rodríguez en contra del Juez Primero de Circuito de lo Penal Encargado del Tercer Circuito Judicial de Panamá, en ocasión de los Actos adoptados durante la audiencia plenaria que se llevó a cabo el día 19 de abril del 2018.",
+      "Numero":19
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Notifíquese.",
+      "Numero":20
+    }
+  ],
+  "Notificados":[
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"MIGUEL A. ESPINO G",
+      "Numero":1
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"LILIANNE M. DUCRET N.",
+      "Numero":2
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"NELSON H RUIZ C.",
+      "Numero":3
+    },
+    {
+      "Titulo":"Secretario",
+      "Nombre":"JOSÉ J. KARAMAÑITES SERETARIO",
+      "Numero": 4
+    }
+  ]
+},
+{
+  "Nombre": "20180822_ELVIS_ANEL_RODRIGUEZ_vs_JUEZ_PRIMERO_DE_CIRCUITO_DE_LO-PENAL__1_revMLC",
+  "Entrada": "18AMP1.317",
+  "Tipo":"Amparo de Garantías Constitucionales",
+  "Fecha": "20180822",
+  "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
+  "Articulos":"",
+  "Responsable":{
+    "Tipo":"Magistrado",
+    "Nombre":"LILIANNE M. DUCRUET N."
+  },
+  "Partes":[
+    {
+      "Relevancia": "Demandante",
+      "Nombre": "FRANZ OLMEDO WEVER ZALDIVAR",
+      "Titulo": "",
+      "Tipo": "Persona Natural",
+      "Cedula":"",
+      "Domicilio":""
+    },
+    {
+      "Relevancia": "Demandado",
+      "Nombre": "SERGIO YORETT",
+      "Titulo":"FISCAL SEGUNDO DE DESCARGA DE PANAMÁ",
+      "Tipo": "FISCAL",
+      "Cedula":"",
+      "Domicilio":""
+    }
+  ],
+  "Cuerpo":[
+    {
+        "Tipo":"Head_1",
+        "Contenido":"VISTOS",
+        "Numero":0
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Conoce el Primer Tribunal Superior la demanda de Amparo de Derechos Constitucionales presentada por FRANZ OLMEDO WEVER ZALDIVAR en contra del Fiscal Segundo de Circuito de Descarga de Panamá, en ocasión de haber dictado la Vista Fiscal Nº1277 de 16 de junio del 2017.",
+      "Numero":1
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Corresponde seguidamente el pronunciamiento sobre la admisibilidad de la acción de amparo, para lo cual el Tribunal debe, en primer lugar verificar si la misma satisface las exigencias de los artículos 2615, 2616 y 2619 del Código Judicial. ",
+      "Numero":2
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"En esa dirección, se cumplieron con los requisitos mínimos exigidos por las disposiciones legales en comento, ya que se menciona el acto impugnado, el servidor público que la expidió, los hechos en que se funda la pretensión constitucional y las garantías fundamentales que estiman fueron infringidas. ",
+      "Numero":3
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"También se advierte que el apoderado del amparista acompañó copia autenticada de la Vista Penal No.1277 de 16 de junio de 2017, que contiene la orden atacada en esta acción, tal como lo exige el último párrafo del artículo 2619 del Código Judicial ",
+      "Numero":4
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Así mismo se advierte que el amparo ha sido incoado por quien tiene interés en la revocación de la orden impugnada e igualmente se advierte que el amparo está dirigido contra el funcionario que dictó la orden atacada, con lo que se cumplen los presupuestos de legitimación activa y pasiva. ",
+      "Numero":5
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Ahora bien, este Tribunal de Amparo debe advertir que en el presente caso el accionante no ha acreditado haber agotado los medios y trámites previstos en la ley para la impugnación de la orden objeto de este recurso, requisito indispensable para que pueda proceder el amparo, tal como lo exige el numeral 2 del artículo 2615 del Código Judicial. ",
+      "Numero":6
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Según se desprende de la Vista Penal No.1277, de 16 de junio de 2017, la misma se expidió dentro de las sumarías seguidas al amparista y otros por la presunta comisión de un delito contra el patrimonio económico en perjuicio del Comité Olímpico de Panamá y fue expedida por la Fiscalía Segunda de Descarga del Primer Circuito Judicial de Panamá. ",
+      "Numero":7
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Y sabido es que las actuaciones del Ministerio Público, conforme el artículo 1993 del Código Judicial, deben ser objetadas por las partes mediante incidente de controversia, el que será resuelto por el Tribunal competente. ",
+      "Numero":8
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"El criterio de que para poder promover un amparo contra una actuación del Ministerio Público se requiere haber agotado el incidente de controversia dispuesto en el artículo 1993 del Código Judicial, ha sido sostenido reiterada y consistentemente por el Pleno de la Corte Suprema de Justicia. A manera de ejemplo tenemos fallo de la Corte Suprema de Justicia, de fecha 18 de marzo de 2014, bajo la ponencia del Exmagistrado Harley J. Mitchell D., que en la parte pertinente dice así:",
+      "Numero":9
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"“Vemos, que la decisión impugnada del A-quo es la no admisión de la acción de garantía propuesta contra la vista Fiscal referida puesto que se estimó, que el accionante acusa otras actuaciones de la agente de instrucción en distintos momentos procesales durante la investigación, lo que consideró impreciso, además porque no refirió cuál fue el trámite o la norma que generó la infracción de la garantía del debido proceso. ",
+      "Numero":10
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"De otro modo observamos que el accionante en el recurso de apelación esgrimió, que se debe admitir esta acción constitucional porque la Fiscal demandada violó el debido proceso, toda vez que no citó personalmente a su poderdante para que rindiera declaración indagatoria; no valoró un escrito pruebas que presentó durante la investigación y tampoco consideró antes de emitir la Vista Fiscal, que el Juez Quinto de Circuito Penal del Primer Circuito Judicial estaba conociendo de un incidente de controversia formulado sobre pruebas.",
+      "Numero":11
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"Acotado lo anterior, debemos remitirnos a lo dispuesto en el artículo 1993 en concordancia con el 2616 del Código Judicial, atendiendo a que todas las actuaciones de los agentes del Ministerio Público podrán ser objetadas a través del incidente de controversia, motivo por el cual previo a la interposición de esta acción de garantía, deben agotarse los medios idóneos que brinda la ley para que proceda la admisibilidad de la acción...” (Corte Suprema de Justicia, Panamá, Harley J. Mitchell D. 18 de marzo de 2014, Amparo de Garantías Constitucionales. Resaltado es nuestro) ",
+      "Numero":12
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"En resumen, como quiera que no se acreditó que se hubieren agotado los medios o trámites previstos en la ley para enervar la orden atacada, este Tribunal considera la demanda indebidamente formulada y manifiestamente improcedente; y, en consecuencia, estima no debe admitirla, en base a lo preceptuado en el artículo 2620 del Código Judicial, a contrario sensu. ",
+      "Numero":13
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Por lo anteriormente expuesto, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL, administrando justicia en nombre de la República y por la autoridad de la Ley, NO ADMITE, la demanda de Amparo de Derechos Constitucionales presentada por FRANZ OLMEDO WEVER ZALDIVAR en contra del Fiscal Segundo de Descarga del Circuito de Panamá, en ocasión de haber dictado la Vista Fiscal Nº1277 de 16 de junio de 2017",
+      "Numero":14
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Téngase al Doctor José Rigoberto Acevedo, como apoderado judicial del pretensor en los términos conferidos en el poder ",
+      "Numero":15
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"NOTIFÍQUESE.",
+      "Numero":16
+    }
+  ],
+  "Notificados": [
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"LILIANNE M. DUCRET N.",
+      "Numero": 1
+      },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"NELSON H RUIZ C.",
+      "Numero": 2
+      },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"CARLOS R. TRUJULLO SAGEL",
+      "Numero": 3
+      },
+    {
+      "Titulo":"Secretario",
+      "Nombre":"JOSÉ J. KARAMAÑITES SERETARIO",
+      "Numero": 4
+        }
+      ]
+    },
+  {
+  "Nombre": "20180905_GONZALEZ_vs_COCIGAS_revMLC",
+  "Entrada": "16SA.179",
+  "Tipo":"SENTENCIA APELADA",
+  "Fecha": "20180905",
+  "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
+    "Responsable":{
+    "Tipo":"Magistrado Suplente",
+    "Nombre":"JUAN CARLOS TATIS "
+    },
+  "Partes":[
+  {
+      "Relevancia":"Demandante",
+      "Nombre": "Luis González Jaén",
+      "Titulo": "",
+      "Tipo": "Persona Natural",
+      "Cedula":"",
+      "Domicilio":""
+    },
+    {
+      "Relevancia":"Demandado",
+      "Nombre":"Cocigas, S.A.",
+      "Titulo":"",
+      "Tipo":"Persona Jurídica",
+      "Cedula":"",
+      "Domicilio":""
+    }
+  ],
+  "Articulos":[
+      {
+        "Identificador":"1278",
+        "Numeral":"",
+        "CodigoLey":"Código Judicial",
+        "Numero":1
+      },
+      {
+        "Identificador":"1122",
+        "Numeral":"",
+        "CodigoLey":"Código Judicial",
+        "Numero":2
+      },
+      {
+        "Identificador":"1072",
+        "Numeral":"",
+        "CodigoLey":"Código Judicial",
+        "Numero":3
+      }
+    ],
+  "Cuerpo":[
+    {
+        "Tipo":"Head_1",
+        "Contenido":"VISTOS",
+        "Numero":0
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Luego de superada la etapa de saneamiento y de la admisión y práctica de pruebas en esta instancia, esta Superioridad procedió conforme a lo que establece el articulo 1278 del Código Judicial, señalando el término de cinco (5) días para que las partes sustenten sus escritos de apelación y oposición, respectivamente; sin embargo, se observa a foja 554 del presente infolio que la Licenciada Norma E. González, apoderada judicial de Luis González Jaén, dejó precluir el término para la sustentación del recurso de apelación ensayado contra la Sentencia N°8 de 7 de marzo de 2016, proferida por el Juzgado Séptimo de Circuito de lo Civil del Primer Circuito Judicial de Panamá. ",
+      "Numero":1
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Asimismo, el Licenciado Jaime Vega G. solicita mediante memorial visible a foja 553, se declare desierto el recurso ensayado por la parte actora. ",
+      "Numero":2
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Así las cosas, a esta Superioridad le corresponde, entonces, aplicar lo preceptuado en el inciso tercero del artículo 1122 del Código Judicial, decretando desierta la apelación no sustentada, señalando, en consecuencia, las imperativas costas que impone la parte final del artículo 1072 del Código Judicial. ",
+      "Numero":3
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"En mérito de lo antes expuesto, el PRIMER TRIBUNAL SUPERIOR, administrando justicia en nombre de la República y por autoridad de la Ley, DECLARA DESIERTO el recurso de apelación interpuesto por la representación judicial de LUIS GONZÁLEZ JAÉN, contra la Sentencia Nº8 de 7 de marzo de 2016, proferida por el Juzgado Séptimo de Circuito de lo Civil del Primer Circuito Judicial de Panamá. ",
+      "Numero":4
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"MANTÉNGASE el presente proceso en este Tribunal hasta tanto se resuelva la apelación interpuesta por el Lic. JAIME VEGA, visible a fojas 514-515, en representación de la sociedad demandada COCIGAS, S.A. ",
+      "Numero":5
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Las obligantes costas que por la declaratoria de desierto de la apelación de la parte actora a se fijan en B/.25.00. ",
+      "Numero":6
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"NOTIFÍQUESE. ",
+      "Numero":7
+    }
+  ],
+  "Notificados":[
+    {
+      "Titulo":"MAGISTRADO SUPLENTE PERSONAL",
+      "Nombre":"JUAN CARLOS TATIS",
+      "Numero": 1
+    },
+    {
+      "Titulo":"MAGISTRADO SUPLENTE ESPECIAL",
+      "Nombre":"JANETH TORRES ",
+      "Numero": 2
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"MIGUEL A. ESPINO E.",
+      "Numero": 3
+    },
+    {
+      "Titulo":"Secretario",
+      "Nombre":"JOSE J. KARAMAÑITES",
+      "Numero": 4
+      }
+    ]
+  },
+  {
+  "Nombre": "20180822_RODRIGUEZ_vs_JUEZ_PRIMERO_CIRCUITO_PENAL",
+  "Entrada": "18AMP1.290",
+  "Tipo":"AMPARO",
+  "Fecha": "",
+  "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
+    "Responsable":{
+    "Tipo":"Magistrado",
+    "Nombre":"MIGUEL A. ESPINO G."
+    },
+  "Partes":[
+  {
+      "Relevancia":"Demandante",
+      "Nombre": "Elvis Anel Rodríguez ",
+      "Titulo": "",
+      "Tipo": "Persona Natural",
+      "Cedula":"",
+      "Domicilio":""
+    },
+    {
+      "Relevancia":"Demandado",
+      "Nombre":"",
+      "Titulo":"Juez Primero de Circuito de lo Penal Encargado del Tercer Circuito Judicial de Panamá",
+      "Tipo":"Juez",
+      "Cedula":"",
+      "Domicilio":""
+    }
+  ],
+  "Articulos":[
+      {
+        "Identificador":"5",
+        "Numeral":"",
+        "CodigoLey":"Código Procesal Penal",
+        "Numero":1
+      },
+      {
+        "Identificador":"32",
+        "Numeral":"",
+        "CodigoLey":"Constitución Política",
+        "Numero":2
+      },
+      {
+        "Identificador":"1069",
+        "Numeral":"",
+        "CodigoLey":"Código Judicial",
+        "Numero":3
+      },
+      {
+        "Identificador":"8",
+        "Numeral":"",
+        "CodigoLey":"Convención Americana de los Derechos Humanos",
+        "Numero":4
+      },
+      {
+        "Identificador":"385",
+        "Numeral":"",
+        "CodigoLey":"Código Penal",
+        "Numero":5
+      },
+      {
+        "Identificador":"2619",
+        "Numeral":"",
+        "CodigoLey":"Código Judicial",
+        "Numero":6
+      }
+    ],
+  "Cuerpo":[
+    {
+        "Tipo":"Head_1",
+        "Contenido":"VISTOS",
+        "Numero":0
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Conoce el Primer Tribunal la demanda de Amparo de Derechos Constitucionales presentada por Elvis Anel Rodríguez en contra del Juez Primero de Circuito de lo Penal Encargado del Tercer Circuito Judicial de Panamá, en ocasión de los Actos adoptados durante la audiencia plenaria que se llevó a cabo el día I 9 de abril del 2018 en la Sala de Audiencias del Juzgado Primero de Circuito Ramo Penal del Tercer Circuito Judicial de Panamá. ",
+      "Numero":1
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Una vez admitida la demanda constitucional mediante providencia del 23 de julio del 2018 se requiere del funcionario demandado su actuación o un informe sobre los hechos materia de la demanda quien opta por remitir las constancias procesales. ",
+      "Numero":2
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"De los fundamentos de la pretensión constitucional: ",
+      "Numero":3
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"1.	“En el acta de audiencia oral celebrada el 19 de abril de 2018, había sido aducido por parte nuestra como defensa técnica la comparencia de los testigos Dik Gilberto Rodríguez Alonso, Alcibiades Benitez Nuñez, Miguel Angel Rodríguez y Eloisa Pascual Chiru. ",
+      "Numero":4
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"2.	Estas personas rindieron su testimonio tal como se había programado y peticionado por nosotros. ",
+      "Numero":5
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"3.	Luego que se surtiese el interrogatorio por nosotros como defensa técnica, el Ministerio Público, el Representante de la querella, y el abogado defenso del coimputado, el Juez Edgar Nateron Rodriguez, procedió a hacer un interrogatorio a los señores Dik Gilberto Rodríguez Alonso, Alcibiades Benitez Nuñez, Miguel Angel Rodriguez y Eloisa Pascual Chiru. ",
+      "Numero":6
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"4.	Con su actuación, no solo vulnera y se aleja de su condición de Juez que debe mantener una conducta de imparcialidad e independencia, sino que incluso procede a emitir epítetos de amenaza contra dos de ellos, cuando los testigos se toman nerviosos ante sus palabras y titubean en su testimonio. ",
+      "Numero":7
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"5.	La separación de funciones, que se encuentra consignado en el artículo 5 del Código Procesal Penal, le priva al juez de hacer este tipo de interrogatorios, abrogándose la condición de las partes intervinientes. ",
+      "Numero":8
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"6.	Es sumamente reprochable la actuación del Juez en el acto de audiencia, ya que al actuar de esta manera provocó temor en los testigos, al interpelarlos de la manera que lo hizo.",
+      "Numero":9
+    },
+    {
+      "Tipo":"Body_2",
+      "Contenido":"7.	Incluso se esgrimieron epítetos de abrirles causa por un supuesto delito de Falso testimonio. Se trató de un acto bochornoso, en el cual la imparcialidad que debía mantener el Juez a lo largo de la audiencia se vulneró de manera flagrante.” ",
+      "Numero":10
+    },
+    {
+      "Tipo":"Head_1",
+      "Contenido":"DE LOS DERECHOS FUNDAMENTALES QUE SE SEÑALAN INFRINGIDOS. ",
+      "Numero":11
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"La decisión que se ataca, señala el pretensor, es una orden de hacer que violenta el debido trámite de ley quebrantándose el artículo 32 de la Constitución Política que consagra el debido proceso. ",
+      "Numero":12
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Igualmente se señala como lesionadas las garantías judiciales que se establecen en el artículo 8 de la Convención Americana de los Derechos Humanos, y en su petición de fondo la parte demandante solicita al Tribunal se revoque la orden de hacer proferida por el Juez Primero de Circuito del Tercer Circuito Judicial de Panamá suplente Edgar Naterón, consistente en proceder a interrogar a los testigos en la audiencia del 19 de abril del 2018. ",
+      "Numero":13
+    },
+    {
+      "Tipo":"Head_1",
+      "Contenido":"CRITERIO Y DECISIÓN DEL TRIBUNAL ",
+      "Numero":14
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Una vez leídos los cargos que se le imputan a la actuación del Juez el Tribunal procede a escuchar el extenso audio y no encuentra que se fundamente la presente acción constitucional, toda vez que contrario a lo señalado por el demandante, el juzgador únicamente recibe a los testigos, les pregunta sus datos y luego lee el artículo 385 del Código Penal que establece como delito el falso testimonio. ",
+      "Numero":15
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Es de señalar que con la demanda se acompaña una transcripción de la audiencia que es bastante fiel a lo que se presentó, aunque no se trascriben las preguntas a los testigos ni sus respuestas en vinculación con el caso. Pero sí se trascribe lo señalado por el Juzgador a cada uno de ellos. ",
+      "Numero":16
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"El Tribunal señala que se colocan en palabras del juzgador situaciones que no se identifican en el audio, es decir, el demandante no señala a qué minutos de la grabación se encuentran los actos que supuestamente son lesivos a los derechos del demandante constitucional. ",
+      "Numero":17
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Se recuerda, que de acuerdo al artículo 2619 con la demanda de amparo de derechos se debe presentar la prueba de la orden impartida, lo que en el medio informático se determina al identificar y dar la ubicación del momento en el que se presentan los actos o hechos que son reclamados a nivel jurisdiccional. ",
+      "Numero":18
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"De los documentos adjuntos con la demanda, observa el Tribunal que de la simple lectura del acta trascrita se evidencia que el Juzgador penal demandado no ha faltado a su imparcialidad, ni mucho menos amenazado a los testigos, como se señala en los fundamentos de la demanda por lo antes expuesto, el PRIMER TRIBUNAL SUPERIOR DE la República y por autoridad de la Ley, NO CONCEDE el Amparo de Derechos Constitucionales presentado por Elvis Anel Rodríguez en contra del Juez Primero de Circuito de lo Penal Encargado del Tercer Circuito Judicial de Panamá, en ocasión de los Actos adoptados durante la audiencia plenaria que se llevó a cabo el día 19 de abril del 2018. ",
+      "Numero":19
+    },
+    {
+      "Tipo":"Body_1",
+      "Contenido":"Notifíquese, ",
+      "Numero":20
+    }
+  ],
+  "Notificados":[
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"MIGUEL A. ESPINO G.",
+      "Numero": 1
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"LILIANNE M. DUCRET N.",
+      "Numero": 2
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"NELSON H. RUIZ. C.",
+      "Numero": 3
+    },
+    {
+      "Titulo":"Secretario",
+      "Nombre":"JOSE J. KARAMAÑITES",
+      "Numero": 4
+      }
+    ]
+  },
+  {
+    "Nombre": "20181023_SOTILLO_vs_MENDOZA_Y_OTROS_1_revMLC",
+    "Entrada": "18SA.286",
+    "Tipo":"SENTENCIA APELADA",
+    "Fecha": "20181023",
+    "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
+      "Responsable":{
+      "Tipo":"Magistrado",
+      "Nombre":"MIGUEL A. ESPINO G."
+      },
+    "Partes":[
+    {
+        "Relevancia":"Demandante",
+        "Nombre": "SALVADOR ANTONIO ALBERTO LAIRET SOTILLO",
+        "Titulo": "",
+        "Tipo": "Persona Natural",
+        "Cedula":"",
+        "Domicilio":""
+      },
+      {
+        "Relevancia":"Demandado",
+        "Nombre":"FABRIZIO MENDOZA ISEA",
+        "Titulo":"",
+        "Tipo":"Persona Natural",
+        "Cedula":"",
+        "Domicilio":""
+      },
+      {
+        "Relevancia":"Demandado",
+        "Nombre": "ROLANDO ALLEN TATE",
+        "Titulo":"",
+        "Tipo": "Persona Natural",
+        "Cedula":"",
+        "Domicilio":""
+      },
+      {
+        "Relevancia":"Demandado",
+        "Nombre": "MARÍA MAGDALENA ISEA DUBUC",
+        "Titulo":"",
+        "Tipo": "Persona Natural",
+        "Cedula":"",
+        "Domicilio":""
+      },
+      {
+        "Relevancia":"Demandado",
+        "Nombre": "NUMA POMPILIO MENDOZA ANDRADE",
+        "Titulo":"",
+        "Tipo": "Persona Natural",
+        "Cedula":"",
+        "Domicilio":""
+      }
+    ],
+    "Articulos":[
+        {
+          "Identificador":"1102",
+          "Numeral":"",
+          "CodigoLey":"Código Judicial",
+          "Numero":1
+        },
+        {
+          "Identificador":"1087",
+          "Numeral":"",
+          "CodigoLey":"Código Judicial",
+          "Numero":2
+        },
+        {
+          "Identificador":"1098",
+          "Numeral":"1",
+          "CodigoLey":"Código Judicial",
+          "Numero":3
+        }
+      ],
+    "Cuerpo":[
+      {
+          "Tipo":"Head_1",
+          "Contenido":"VISTOS",
+          "Numero":0
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"El Juzgado Tercero de Circuito de lo Civil del Primer Circuito Judicial de Panamá, conoce del Proceso Sumario incoado por Salvador Antonio Lairet Sotillo en contra de Fabrizio Alberto Mendoza Isea, Rolando Allen Tate, María Magadalena Isea Dubuc, Numa Pompilio Mendoza Andrade representado por Numa José Alejandro Mendoza Isea (estos dos últimos herederos declarados de la Sucesión Intestada de Fabrizio Alberto Mendoza Isea (Q.E.P.D.)). ",
+        "Numero":1
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"La A quo emitió la Sentencia No. 52-2017/108551/511-15, de 26 de diciembre de 2017, mediante la cual:",
+        "Numero":2
+      },
+      {
+        "Tipo":"Body_2",
+        "Contenido":"“PRIMERO: DECLARA PROBADA DE OFICIO LA EXCEPCIÓN DE FALTA DE LEGITIMACIÓN EN LA CAUSA en su forma activa.",
+        "Numero":3
+      },
+      {
+        "Tipo":"Body_2",
+        "Contenido":"SEGUNDO: DECLARA NO PROBADAS LAS PRETENSIONES de la parte actora y condena al actor al pago de Mil Doscientos Cincuenta con 00/100 Balboas (B/.1,250.00).",
+        "Numero":4
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"TERCERO: ADMITE LA SUCESIÓN PROCESAL de los herederos declarados de Fabrizio Alberto Mendoza Isea (Q.E.P.D.), María Magdalena lses Dubuc y Numa Pompilio Mendoza Andrade, esta última efectuada a través de su apoderado general Numa José Alejandro Mendoza Isea (de cuyo poder general se aporta copia cotejada del original por el Notario Público Décimo) así como el poder especial de aquélla y este último en favor del Licenciado Humberto Zappi, de conformidad con las facultades concedidas y con conocimiento de la contraparte.”",
+        "Numero":5
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"En la oportunidad procesal respectiva la representación judicial de la parte demandada promovió recurso de apelación, que fue concedido en el efecto suspensivo por la juez de instancia, remitiendo el expediente a este Tribunal, tal como consta a folio 173 del expediente.",
+        "Numero":6
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"A folios 180, se recibe presentado el 24 de agosto de 2018, escrito de desistimiento de la apelación interpuesta contra la Sentencia No. 52-2017/108551/511-15, de 26 de diciembre de 2017, presentado personalmente el día 24 de agosto de 2018 ante el Notario Público Primero del Circuito de Panamá, por la firma forense PATTON, MORENO & ASVAT, apoderados judiciales sustitutos de María Magdalena Isea Dubuc y Numa Pompilio Mendoza Andrade, herederos declarados en la Sucesión Intestada de Fabrizio Alberto Mendoza (Q.E.P.D.), demandada en el Proceso Sumario propuesto por Salvador Antonio Lairet Sotillo.",
+        "Numero":7
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Observa el Tribunal que a folios 94 del expediente consta el poder especial otorgado por los demandados María Magdalena Isea Dubuc y Numa Pompilio Mendoza Andrade, en la persona del Licenciado Humberto Zappi, quien sustituyó en a la firma forense PATTON, MORENO & ASVAT, ambas con facultad para desistir en representación de su poderdante, como consta a folio 146, reuniendo la facultad requerida por el artículo 1102 del Código Judicial.",
+        "Numero":8
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Tal como dispone el artículo 1087 del Código Judicial quien interpone un recurso puede desistir expresamente del mismo, teniendo el carácter de irrevocable, simple y sin condición, quedando ejecutoriada la sentencia venida en alzada, al tenor del artículo 1098 del Código Judicial.",
+        "Numero":9
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Comoquiera que es viable el desistimiento del recurso se admitirá y se ordenará el archivo del expediente.",
+        "Numero":10
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Por lo antes expuesto, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL, administrando Justicia en nombre de la República y por Autoridad de la Ley, ADMITE el desistimiento del recurso de apelación contra la Sentencia No. 52-2017/108551/511-15 de 26 de diciembre de 2017, interpuesto por los apoderados judiciales de María Magdalena Isea Dubuc y Numa Pompilio Mendoza Andrade, herederos declarados en la Sucesión Intestada de Fabrizio Alberto Mendoza (Q.E.P.D.), demandada en el Proceso Sumario propuesto por Salvador Antonio Lairet Sotillo.",
+        "Numero":11
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Se condena a la parte demandada apelante la suma de B/50.00, por razón del desistimiento.",
+        "Numero":12
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Una vez ejecutoriada esta resolución, devuélvase el proceso al Juzgado de origen.",
+        "Numero":13
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Notifíquese, ",
+        "Numero":14
+      }
+    ],
+    "Notificados":[
+      {
+        "Titulo":"MAGISTRADO",
+        "Nombre":"MIGUEL A. ESPINO G.",
+        "Numero": 1
+      },
+      {
+        "Titulo":"MAGISTRADO",
+        "Nombre":"NELSON H. RUIZ",
+        "Numero": 2
+      },
+      {
+        "Titulo":"Suplente Personal",
+        "Nombre":"JUAN CARLOS TATIS C.",
+        "Numero": 3
+      },
+      {
+        "Titulo":"Secretario",
+        "Nombre":"JOSE J. KARAMAÑITES",
+        "Numero": 4
+        }
+      ]
+    },
+    {
+    "Nombre": "20181015_VALDEZ_vs_CONTRALORIA_GENERAL_Y_OTROS_1",
+    "Entrada": "18SC.027",
+    "Tipo":"SENTENCIA CONSULTADA",
+    "Fecha": "20181015",
+    "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
+      "Responsable":{
+      "Tipo":"Magistrado",
+      "Nombre":"MIGUEL A. ESPINO"
+      },
+    "Partes":[
+    {
+        "Relevancia":"Demandante",
+        "Nombre": "EIRA MERCEDES VALDÉS SÁNCHEZ",
+        "Titulo": "",
+        "Tipo": "Persona Natural",
+        "Cedula":"",
+        "Domicilio":""
+      },
+      {
+        "Relevancia":"Demandado",
+        "Nombre":"CONTRALORÍA GENERAL DE LA REPÚBLICA, SISTEMA DE AHORRO Y CAPITALIZACIÓN DE PENSIONES DE LOS SERVIDORES PÚBLICOS (SIACAP)",
+        "Titulo":"",
+        "Tipo":"Persona Jurídica",
+        "Cedula":"",
+        "Domicilio":""
+      }
+    ],
+    "Articulos":[
+        {
+          "Identificador":"1225",
+          "Numeral":"",
+          "CodigoLey":"Código Judicial",
+          "Numero":1
+        },
+        {
+          "Identificador":"132",
+          "Numeral":"",
+          "CodigoLey":"Código Judicial",
+          "Numero":2
+        },
+        {
+          "Identificador":"1151",
+          "Numeral":"",
+          "CodigoLey":"Código Judicial",
+          "Numero":3
+        },
+        {
+          "Identificador":"1225",
+          "Numeral":"2",
+          "CodigoLey":"Código Judicial",
+          "Numero":4
+        },
+        {
+          "Identificador":"964",
+          "Numeral":"",
+          "CodigoLey":"Código de Comercio",
+          "Numero":5
+        },
+        {
+          "Identificador":"961",
+          "Numeral":"",
+          "CodigoLey":"Código de Comercio",
+          "Numero":6
+        },
+        {
+          "Identificador":"962",
+          "Numeral":"",
+          "CodigoLey":"Código de Comercio",
+          "Numero":7
+        },
+        {
+          "Identificador":"964",
+          "Numeral":"",
+          "CodigoLey":"Código de Comercio",
+          "Numero":8
+        }
+      ],
+    "Cuerpo":[
+      {
+          "Tipo":"Head_1",
+          "Contenido":"VISTOS",
+          "Numero":0
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"",
+        "Numero":1
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Procedente del Juzgado Decimoséptimo de Circuito de lo Civil del Primer Circuito Judicial de Panamá, ha ingresado, en grado de consulta, el proceso Oral de Anulación y Reposición de Documentos Negociables por Eira Mercedes Valdés Sánchez contra la Contraloría General de la República y el Sistema de Ahorro y Capitalización de Pensiones de los Servidores Públicos (SIACAP).",
+        "Numero":2
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Surtidas las etapas correspondientes, el Juez de grado emitió la Sentencia No.23 del trece (13) de julio del año 2018, mediante la cual declara probada la pretensión y ordena anular y reponer el certificado de Participación Negociable (CERPAN) No. 81293 por un monto de dos mil ochocientos cuarenta y ocho Balboas con 62/100 (B/.2,848.62), emitido el 4 de enero del año 2002 a favor de Eira Mercedes Valdés Sánchez (fs.49-55).",
+        "Numero":3
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"En la misma sentencia se ordena elevar lo resuelto en consulta al superior jerárquico, al tenor de lo dispuesto en el artículo 1225 del Código Judicial. ",
+        "Numero":4
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Una vez el expediente fue recibido en este Tribunal, se procedió a su reparto, conforme lo dispuesto en el artículo 132 del Código Judicial, y a verificar el cumplimiento de las formalidades previas indispensables para entrar a considerar el mérito del mencionado recurso, con arreglo a lo preceptuado por el artículo 1151 de la excerta legal mencionada. ",
+        "Numero":5
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"El primer párrafo del artículo 1225 del Código Judicial dispone que, sin perjuicio de otros casos establecidos en la Ley, deben ser consultadas con el superior las resoluciones dictadas en primera instancia que son adversas al Estado, a los municipios o cualquier entidad político-administrativa, o que contra las mismas liquiden perjuicios.",
+        "Numero":6
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"En el presente proceso oral la demanda fue admitida mediante el Auto No. 1653 del cinco (05) de octubre del año dos mil diecisiete (2017), y se cumplió con la notificación de las partes, al igual que se notificó a la representación del Ministerio Público, como corresponde en este tipo de proceso (fs.15 reverso).",
+        "Numero":7
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"La demanda planteada solicitó la anulación y reposición del Certificado de pago negociable descritos así: CERPAN Nº81293 por monto de dos mil ochocientos cuarenta y ocho balboas con 62/100 (B/.2,848.62) emitido a favor de la demandante.",
+        "Numero":8
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Se constata el cumplimiento de lo ordenado en el artículo 964 del Código de Comercio en cuanto a la publicación del edicto correspondiente a este tipo de procesos (fs. 18). ",
+        "Numero":9
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Las pruebas aducidas por la parte actora consisten en copia del reporte Nº03570 del 04 de abril del año 2017, interpuesto ante Fiscalía Regional de San Miguelito Sección de Atención Primaria del Ministerio Público y presentado ante la Dirección de Métodos y Sistemas de Contabilidad de la Contraloría General de la República reporte de pérdida del CERPAN números 81293.",
+        "Numero":10
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Por su parte, la Contraloría General de la República aportó el número 2,665-17-DNMySC-CERPAN del 26 de abril del 2017, mediante el cual la Directora Nacional de Consular Comercial con funciones delegadas por el Contralor General hace constar que el CERPAN números 81293, emitido el 4 de enero del año 2002, fue reportado extraviado el 4 de abril del año 2017 ante la Fiscalía Regional de San Miguelito (fs.7).",
+        "Numero":11
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"",
+        "Numero":12
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Surtidos los trámites inherentes a este tipo de procesos, se celebró la audiencia oral (fs.37-40) y cumplidas las etapas del proceso, el Juez de grado dictó la Sentencia No. 23 del 13 de julio del año 2018, que ordena la anulación y reposición del certificado de participación negociable (CERPAN) identificados con el número 81293, emitido el 4 de enero del año 2002.",
+        "Numero":13
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"La Sentencia consultada tomó en consideración que se pedía la reposición de un título extraviado reportado ante el Ministerio Público y ante la Contraloría General de la República, con lo cual se dio cumplimiento a los artículos 961, 962 y 964 del Código de Comercio, normativa que guarda relación con la materia.",
+        "Numero":14
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"De igual manera, se cumplió con las normas procedimentales estatuidas para este tipo de procesos; ninguna persona compareció durante el proceso a reclamar algún derecho relacionado con el documento extraviado y la sentencia fue debidamente notificada al Ministerio Público. Del mismo modo, la representación del Ministerio Público emitió su concepto ante el traslado que le surtió este Tribunal Superior. Por tanto, lo que procede es aprobar la sentencia elevada en grado de consulta.",
+        "Numero":15
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Por lo antes expuesto, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL, administrando Justicia en nombre de la República y por autoridad de la Ley, APRUEBA la Sentencia No. 23 del 13 de julio del año 2018, emitida por el Juzgado Decimoséptimo del Circuito de lo Civil del Primer Circuito Judicial de Panamá, dentro del Proceso Oral de Anulación y Reposición de Documentos Negociables incoado por Eira Mercedes Valdés Sánchez contra Contraloría General de la República y El Sistema de Ahorro y Capitalización de Pensiones de los Servidores Públicos (SIACAP).",
+        "Numero":16
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Una vez ejecutoriada esta resolución, devuélvase al juzgado de origen.",
+        "Numero":17
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"NOTIFÍQUESE,",
+        "Numero":18
+      }
+    ],
+    "Notificados":[
+      {
+        "Titulo":"MAGISTRADO",
+        "Nombre":"MIGUEL A. ESPINO G",
+        "Numero": 1
+      },
+      {
+        "Titulo":"MAGISTRADO",
+        "Nombre":"NELSON H. RUIZ",
+        "Numero": 2
+      },
+      {
+        "Titulo":"MAGISTRADO",
+        "Nombre":"CARLOS R. TRUJILLO S.",
+        "Numero": 3
+      },
+      {
+        "Titulo":"Secretario",
+        "Nombre":"JOSÉ J. KARAMAÑITES",
+        "Numero": 4
+        }
+      ]
+    },
+    {
+    "Nombre": "2018043_ERMIS_S.A._vs_VENTAS_Y_DISTRIBUCION_DE_SERVICIOS_MULTIPLES_revMLC",
+    "Entrada": "17SA.412",
+    "Tipo":"SENTENCIA APELADA",
+    "Fecha": "20180816",
+    "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
+      "Responsable":{
+      "Tipo":"Magistrado",
+      "Nombre":"MIGUEL A. ESPINO G."
+    },
+    "Partes":[
+      {
+        "Relevancia":"Demandante",
+        "Nombre": "Ermis, S. A.",
+        "Titulo": "",
+        "Tipo": "Persona Jurídica",
+        "Cedula":"",
+        "Domicilio":""
+      },
+      {
+        "Relevancia":"Demandado",
+        "Nombre":"Ventas y Distribución de Servicios Múltiples Celineth",
+        "Titulo":"",
+        "Tipo":"Persona Jurídica",
+        "Cedula":"",
+        "Domicilio":""
+      },
+      {
+        "Relevancia":"Demandado",
+        "Nombre": "Comercializadora de Negocios Múltiples",
+        "Titulo":"",
+        "Tipo": "Persona Jurídica",
+        "Cedula":"",
+        "Domicilio":""
+      },
+      {
+        "Relevancia":"Demandado",
+        "Nombre":"Celineth del Carmen Calderón",
+        "Titulo":"",
+        "Tipo":"Persona Natural",
+        "Cedula":"",
+        "Domicilio":""
+      }
+    ],
+    "Articulos":
+      [
+        {
+          "Identificador":"1071",
+          "Numeral":"",
+          "CodigoLey":"Código Judicial",
+          "Numero":1
+        },
+        {
+          "Identificador":"1078",
+          "Numeral":"",
+          "CodigoLey":"Código Judicial",
+          "Numero":2
+        },
+        {
+          "Identificador":"132",
+          "Numeral":"",
+          "CodigoLey":"Código Judicial",
+          "Numero":3
+        },
+        {
+          "Identificador":"1151",
+          "Numeral":"",
+          "CodigoLey":"Código Judicial",
+          "Numero":4
+        },
+        {
+          "Identificador":"195",
+          "Numeral":"",
+          "CodigoLey":"Código de Comercio",
+          "Numero":5
+        }
+      ],
+    "Cuerpo":[
+      {
+          "Tipo":"Head_1",
+          "Contenido":"VISTOS",
+          "Numero":0
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Procedente del Juzgado Duodécimo de Circuito Civil del Primer Circuito Judicial de Panamá, conoce el Primer Tribunal Superior el Proceso ordinario que Ermis, S. A. interpuso contra Ventas y Distribución de Servicios Múltiples Celineth, Comercializadora de Negocios Múltiples, y Celineth del Carmen Calderón en ocasión de recurso de apelación contra la resolución que decidió el litigio en primera instancia y que se identifica como la Sentencia Nº40-2017 del 13 de septiembre del 2017 en cuya parte resolutiva señala: ",
+        "Numero":1
+      },
+      {
+        "Tipo":"Body_2",
+        "Contenido":"“En mérito de las consideraciones expuestas, la suscrita Juez Duodécima del Circuito de lo Civil del Primer Circuito Judicial de Panamá, adjunta, administrando justicia en nombre de la República y por Autoridad de la Ley, dentro del proceso ordinario que Ermis, S.A. Le sigue a Ventas y Distribución del Servicios Múltiples Celineth, Comercializadora de Negocios Multiples y Celineth del Carmen Calderón García",
+        "Numero":2
+      },
+      {
+        "Tipo":"Body_2",
+        "Contenido":"Resuelve:",
+        "Numero":3
+      },
+      {
+        "Tipo":"Body_2",
+        "Contenido":"Primero: Reconoce de Oficio la ilegitimidad en la causa de Ventas y Distribución del Servicios Múltiples Celineth, y Comercializadora de Negocios Múltiples, por las razones expuestas en la parte motiva de la presente resolución.",
+        "Numero":4
+      },
+      {
+        "Tipo":"Body_2",
+        "Contenido":"Segundo: Declara Probada Parcialmente la pretensión de la demandante y en consecuencia Declara que: “Celineth del Carmen Calderón García; firmó un acuerdo de cesión crédito con la empresa Ermis, S.A., que mantenía con nuestra representada hasta por la suma de Ciento Diecinueve Mil Ochenta y Ocho Balboas el cual está consignado en un acuerdo de cesión de crédito firmado el 28 de junio de 2011.",
+        "Numero":5
+      },
+      {
+        "Tipo":"Body_2",
+        "Contenido":"Tercero: Niega el resto de las declaraciones solicitadas por la parte actora, ",
+        "Numero":6
+      },
+      {
+        "Tipo":"Body_2",
+        "Contenido":"Las costas a cargo de la demandante a favor de Celineth del Carmen Calderón García, se fijan en atención a lo que disponen los artículos 1071 y 1078 del Código Judicial, en la suma de Dieciséis Mil Setecientos setenta Y siete balboas con 50/100 (B/.16,777.50).",
+        "Numero":7
+      },
+      {
+        "Tipo":"Body_2",
+        "Contenido":"Proceda la secretaía del juzgado a la liquidación de las costas y gastos respectivos.” ",
+        "Numero":8
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Una vez el expediente fue recibido en el Tribunal, se procedió a su reparto conforme lo dispuesto en el artículo 132 del Código Judicial, y luego de verificar el cumplimiento de las formalidades previas indispensables para entrar a considerar el mérito del recurso, cumpliendo con lo preceptuado por el artículo 1151 de la excerpta legal mencionada, se procede a realizar la síntesis de los agravios que se le imputan a la decisión impugnada. ",
+        "Numero":9
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"A foja 189 consta solicitud de la parte demandada de que no se escuche al demandante por deber las costas a que fue condenado en la Sentencia que se recurre, pero se señala que tal solicitud es prematura pues la resolución no se encuentra en firme. ",
+        "Numero":10
+      },
+      {
+        "Tipo":"Head_1",
+        "Contenido":"DE LOS FUNDAMENTOS DEL RECURSO IMPUGNATIVO.",
+        "Numero":11
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Inicia su recurso la demandante apelante, objetando con respecto a lo señalado en la sentencia de que no se acreditó en el proceso la personalidad de dos de los demandados, al decir: ",
+        "Numero":12
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"“Sin mayor esfuerzo intelectual puede colegirse en que no se trata de personas jurídicas distintas sino de una persona natural que ha utilizado nombres comerciales distintos al suyo con el propósito de poder abrir cuentas de bancos y trata de separar los patrimonios, no obstante lo anterior la doctrina y la jurisprudencia nacional. ",
+        "Numero":13
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Ha indicado que el empresario en ejercicio de su actividad comercial toma una denominación mercantil distinta de su corporativización, en otras palabras. toda persona demandada naturalmente es solidariamente responsable de las actividades que ella con su aviso de operación haya realizado.” (foja 168). ",
+        "Numero":14
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Prosigue señalando la apelante: ",
+        "Numero":15
+      },
+      {
+        "Tipo":"Body_2",
+        "Contenido":"“La pretensión, que el juzgador a-quo no logró comprehender; es que se solicita se trata (sic) de una obligación contraída entre dos comerciantes, pues bien tanto Ermis, S.A. como Ventas y Distribución del Servicios Múltiples; establecimiento comercial con aviso de operación 6- 701-1944-2010-225728, expedido a favor de Celineth del Carmen Calderón de González; Resultan ser comerciantes. Esto es bien importante porque entonces el contrato de cesión que se aporta como prueba inicial en este proceso, entre Celineth del Carmen Calderón y Ermis, S.A. está sujeto a las normas establecidas en el código de comercio, por ser un acto mercantil.",
+        "Numero":16
+      },
+      {
+        "Tipo":"Body_2",
+        "Contenido":"De allí que se le sea aplicable el artículo 195 de la excerta legal citada el cual dice: ",
+        "Numero":17
+      },
+      {
+        "Tipo":"Body_2",
+        "Contenido":"195: Los Contratos de Comercio no están sujetos para su validez a formas especiales. Cualquiera que sea la forma, el medio y /o el idioma en que se celebren, las partes quedarán obligadas de la manera y en los términos que parezcan que quisieron obligarse. ",
+        "Numero":18
+      },
+      {
+        "Tipo":"Body_2",
+        "Contenido":"Se exceptúa de esta disposición los contratos que, con arreglo a este Código o a leyes especiales, deban reducirse a escritura pública o requieran formas o solemnidades necesarias para su eficacia. ",
+        "Numero":19
+      },
+      {
+        "Tipo":"Body_2",
+        "Contenido":"Sobre la Validez de esta prueba, para probar el vínculo mercantil entre el demandante y el demandado basta con ver este acuerdo de cesión de crédito no solamente se encuentra debidamente protocolizado ante la notaría pública Undécima de Circuito sino que también a fojas 32 del cuadernillo de pruebas de la demandante se puede apreciar que a pregunta realizada por nosotros la misma Sra. Celineth del Carmen Calderón contesto: “Si con el señor Vissilos se firmó una cesión de Crédito, si recuerdo unas órdenes de compra, pero que en realidad nunca se concretó a la cesión.” Solo para remarcar la solidez de su mentira a reglón anterior había establecido que “Me suena ese nombre del Vassilos, pero ese apellido no,” Lo cual me alegra porque se puede comprobar la ubérrima mala fe de la señora al mentir flagramente al tribunal lo que conlleva ribetes de naturaleza penal que en su momento serán instauradas”",
+        "Numero":20
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Prosigue señalando la apelante que ha quedado demostrado que no existe contrato de alquiler de equipos refrigerados con la empresa Frío Comercial, porque pagó este almacenamiento, de allí que se realizara la cesión de crédito que hoy no se quiere reconocer a pesar de que los pagos se recibieron tal como lo establece la demandada en su hecho quinto cuando dice que los pagos saldrían a nombre de Celineth del Carmen Calderón. ",
+        "Numero":21
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"A fojas 172 en adelante consta memorial de oposición a los fundamentos del recurso impugnativo presentado por la Sra. Celineth del Carmen Calderón. ",
+        "Numero":22
+      },
+      {
+        "Tipo":"Head_1",
+        "Contenido":"CRITERIO Y DECISIÓN DEL TRIBUNAL",
+        "Numero":23
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Las argumentaciones de la demandante en esta segunda instancia no constituyen una confirmación de la responsabilidad del demandado, en cuanto al incumplimiento del Contrato de Cesión de Crédito que se encuentra a foja 5 y reverso del expediente. ",
+        "Numero":24
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Esto es así, porque si bien, tal documento ha sido firmado por comerciantes y tiene un objeto comercial, y su autenticidad no se discute, el objeto del mismo contrato, las Órdenes de Compra sujetas al Acto Nº366 del 23 de febrero del 2011, fueron dejadas sin efecto, o anuladas, de acuerdo a resolución del Ministerio de Seguridad Pública Nº003-2013 del 25 de enero del 2013 “Por la cual se rechazan propuestas dentro del acto de Licitación Pública Nº2010-0-04-6-08-CM-0022862” (foja 93 del expediente). Corroborado mediante Informe que reposa a foja 148 del expediente. ",
+        "Numero":25
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Confirmándose en el expediente tal situación, y no contando el contrato de cesión con una adenda para integrar otros valores no puede este Tribunal, como tampoco pudo el Tribunal inferior, determinar responsabilidad de parte de las demandadas en base a ese acuerdo contractual. ",
+        "Numero":26
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"La parte demandada ha señalado la nulidad del contrato por falta de objeto pero es el caso que la cedente realiza esta cesión por 'valor recibido' y por tanto, para el tribunal no adolece de nulidad en el supuesto señalado. ",
+        "Numero":27
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"La segunda declaración que se pretende de la jurisdicción es la confirmación de que la Sra. Celineth ha recibido o recibió pagos de la Policía Nacional sobre las órdenes de compra 366 del 23 de febrero del 2011, pero ello, como queda dicho, no ha sido acreditado en el expediente, por lo tanto, la reclamación carece de fundamento fáctico. ",
+        "Numero":28
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Con respecto a la tercera declaración pretendida en cuanto a que para sustraerse del pago comprometido (cesión de crédito) a la demandante, se traspasaron los bienes inmuebles, primero a Carmen García y posteriormente a la fundación Pleroma, tal aseveración pierde sustento al considerar que fue a través de la resolución del Ministerio de Seguridad Pública Nº003-2013 del 25 de enero del 2013 “Por la cual se rechazan propuestas dentro del acto de Licitación Pública N°2010-0-04-6-08CM-0022862”, y que no se concretó el crédito que después fue cedido, por ello no se presentan las circunstancias de hecho por las cuales se pretenden tales imputaciones a las demandadas.",
+        "Numero":29
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"De hecho, a foja 149 en el Informe presentado por el Directora Nacional de Administración y Finanzas de la Policía Nacional se señala que dada la anulación del acto público 366 quedó el servicio prestado por la empresa sin el pago correspondiente. ",
+        "Numero":30
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Dado que no se presentan en el expediente las pruebas que ameritarían condenar a la parte demandada y considerando la sindéresis que tuvo el Tribunal inferior al resolver el litigio, se confirmará la resolución venida en apelación. ",
+        "Numero":31
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Por lo antes expuesto, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL, administrando justicia en nombre de la República y por autoridad de la Ley, CONFIRMA la Sentencia Nº40-2017 del 13 de septiembre del 2017, proferida por el Juzgado Duodécimo de Circuito Civil del Primer Circuito Judicial de Panamá, dentro del Proceso Ordinario que Ermis, S. A. interpuso contra Ventas y Distribución de Servicios Múltiples Celineth, Comercializadora de Negocios Múltiples, y Celineth del Carmen Calderón.",
+        "Numero":32
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Las costas que deben pagar el apelante se fijan en B/.50.00 ",
+        "Numero":34
+      },
+      {
+        "Tipo":"Body_1",
+        "Contenido":"Notifíquese, ",
+        "Numero":35
+      }
+    ],
+    "Notificados":[
+      {
+        "Titulo":"MAGISTRADO",
+        "Nombre":"MIGUEL A. ESPINO G. ",
+        "Numero": 1
+      },
+      {
+        "Titulo":"MAGISTRADO",
+        "Nombre":"LILIANNE M. DUCRUET N.",
+        "Numero": 2
+      },
+      {
+        "Titulo":"MAGISTRADO",
+        "Nombre":"NELSON H. RUIZ C. ",
+        "Numero": 3
+      },
+      {
+        "Titulo":"Secretario",
+        "Nombre":"JOSE J. KARAMAÑITES",
+        "Numero": 4
+        }
+      ]
+    },
+    {
+      "Nombre": "20181001_MEGAPOLIS_INVESTMENT_vs_ARROUND_THE_WORLD_AUTO_revMLC",
+      "Entrada": "18SA.052",
+      "Tipo":"AUTO DE SANEAMIENTO",
+      "Fecha": "20181001",
+      "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
+      "Articulos":"",
+      "Responsable":{
+        "Tipo":"Magistrado",
+        "Nombre":"OLGA RUJANO DE LEON"
+      },
+      "Partes":[
+        {
+          "Relevancia": "Demandante",
+          "Nombre": "MEGAPOLIS INVESTMENT GROUP. INC.",
+          "Titulo": "",
+          "Tipo": "Persona Jurídica",
+          "Cedula":"8-720-1951",
+          "Domicilio":""
+        },
+        {
+          "Relevancia": "Demandante",
+          "Nombre": "ARROUND THE WORLD, INC.",
+          "Titulo": "",
+          "Tipo": "Persona Jurídica",
+          "Cedula":"8-764-323",
+          "Domicilio":""
+        },
+        {
+          "Relevancia": "Demandado",
+          "Nombre": "ARROUND THE WORLD, INC.",
+          "Titulo":"",
+          "Tipo": "",
+          "Cedula":"",
+          "Domicilio":""
+        }
+      ],
+      "Cuerpo":[
+        {
+          "Tipo":"Head_1",
+          "Contenido":"VISTOS",
+          "Numero":0
+        },
+        {
+          "Tipo":"Body_1",
+          "Contenido":"El Proceso Ordinario propuesto por MEGAPOLIS INVESTMENT GROUP. INC. contra ARROUND THE WORLD, INC. ha sido remitido nuevamente por el Juzgado Primero de Circuito de lo Civil del Primer Circuito Judicial de Panamá a esta Superioridad, en virtud de los recursos de apelación anunciados por los apoderados judiciales de ambas partes, contra la Sentencia No.47/576-14 JPCC de 16 de noviembre de 2016.",
+          "Numero":1
+        },
+        {
+          "Tipo":"Body_1",
+          "Contenido":"En la primera ocasión que dicho proceso fue remitido a esta Superioridad, se dicto un Auto de Saneamiento de 9 de noviembre de 2017, mediante el cual se advirtió que la sentencia apelada fue dictada con motivo de una Excepción de Cosa Juzgada alegada por la parte demandada, la cual fue tramitada como parte integral del proceso.",
+          "Numero":2
+        },
+        {
+          "Tipo":"Body_1",
+          "Contenido":"En ese sentido se indico que la excepción de cosa juzgada, según dispone el articulo 694 del Código Judicial, es una excepción de previo y especial pronunciamiento a la cual debe dársele el tramite de incidente, lo cual implica la formación de un cuadernillo, tal cual dispone el articulo 711 del Código Judicial. ",
+          "Numero":3
+        },
+        {
+          "Tipo":"Body_1",
+          "Contenido":"En atención a lo anterior, se instruyo al Juzgado de la causa para que con las piezas pertinentes, a desglosar del expediente principal, formara el cuaderno de excepción correspondiente. ",
+          "Numero":4
+        },
+        {
+          "Tipo":"Body_1",
+          "Contenido":"Sin embargo, es del caso que el Juzgado no atendió las medidas de saneamiento ordenadas, toda vez que las actuaciones correspondientes a la excepción de cosa juzgada siguen formando parte del expediente que contiene el proceso principal, tal como se puede verificar de fojas 335 a 346, 360 a 374 y de fojas 379 a 424.",
+          "Numero":5
+        },
+        {
+          "Tipo":"Body_1",
+          "Contenido":"En su lugar, se observa que el Juzgado de la primera instancia formo el cuaderno de excepción de cosa juzgada con copia simple del escrito de contestación de la demanda corregida (contentivo de la excepción), que no es lo que se indico, porque se le advirtió que debía ser copia autenticada.",
+          "Numero":6
+        },
+        {
+          "Tipo":"Body_1",
+          "Contenido":"Además, incluyo copias de escritos que no corresponden al tramite impreso a la excepción, y que por lo tanto no deben formar parte de dicho cuaderno, a saber, copia de la demanda de reconvención (fs. 12-16), del Auto que admite la demanda de reconvención y de las gestiones para su notificación (fs. 29 y 31-32), del escrito de contestación de la demanda de reconvención (fs. 33-38), y de otras gestiones (fs. 39-41). ",
+          "Numero":7
+        },
+        {
+          "Tipo":"Body_1",
+          "Contenido":"En estas circunstancias, lo procedente es ordenar devolver nuevamente el presente proceso ordinario al Juzgado A quo, a fin de que cumpla con lo ordenado en el Auto de saneamiento de 9 de noviembre de 2017, en el sentido de que arme el cuaderno de excepción de cosa juzgada con copia autenticada del escrito visible de fojas 319 a 329 del expediente y con los escritos originales que reposan de fojas 335, 360-374 y 379-424, mas las actuaciones subsiguientes, dejando constancia en el expediente de su desglose; para que una vez cumplido lo anterior, se remita el cuaderno de excepción a esta Superioridad para tramitar la alzada.",
+          "Numero":8
+        },
+        {
+          "Tipo":"Body_1",
+          "Contenido":"En merito de todo lo expuesto, la suscrita Magistrada Sustanciadora del PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL, administrando justicia en nombre de la Republica y por autoridad de la ley, ORDENA DEVOLVER nuevamente el Proceso Ordinario propuesto por MEGAPOLIS INVESTMENT GROUP. INC. contra ARROUND THE WORLD, INC. al Juzgado de origen, a fin de que se proceda conforme la parte motiva de esta resolución, con la advertencia de que una vez se cumpla con lo ordenado el cuaderno de excepción de cosa juzgada debe devolverse nuevamente a esta Superioridad para conocer de los recursos de apelación impetrados, junto a sus antecedentes.",
+          "Numero":9
+        },
+        {
+          "Tipo":"Body_2",
+          "Contenido":"Notifíquese y cúmplase,",
+          "Numero":10
+        }
+      ],
+      "Notificados": [
+          {
+            "Titulo":"MAGISTRADO",
+            "Nombre":"OLGA RUJANO DE LEÓN",
+            "Numero": 1
+            },
+          {
+            "Titulo":"Secretario",
+            "Nombre":"José Juan Karamañites ",
+            "Numero": 2
+          }
+        ]
+      },
+      {
+        "Nombre": "20181015_JURADO_Y_OTROS_vs_PEREZ_1_revMLC",
+        "Entrada": "18SA.319",
+        "Tipo":"SENTENCIA APELADA",
+        "Fecha": "20181015",
+        "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
+        "Articulos":"",
+        "Responsable":{
+          "Tipo":"Magistrado",
+          "Nombre":"MIGUEL A. ESPINO G."
+        },
+        "Partes":[
+          {
+            "Relevancia": "Demandante",
+            "Nombre": "Amilcar Javier Jurado Hernández",
+            "Titulo": "",
+            "Tipo": "Persona Natural",
+            "Cedula":"8-720-1951",
+            "Domicilio":""
+          },
+          {
+            "Relevancia": "Demandante",
+            "Nombre": "Yessibeth Jazmín Jurado Hernández",
+            "Titulo": "",
+            "Tipo": "Persona Natural",
+            "Cedula":"8-764-323",
+            "Domicilio":""
+          },
+          {
+            "Relevancia": "Demandante",
+            "Nombre": "Rodney Abdiel Jurado",
+            "Titulo": "",
+            "Tipo": "Persona Natural",
+            "Cedula":"8-781-412",
+            "Domicilio":""
+          },
+          {
+            "Relevancia": "Demandante",
+            "Nombre": "Yineth Ariagna Jurado Moreno",
+            "Titulo": "",
+            "Tipo": "Persona Natural",
+            "Cedula":"3-738-1598",
+            "Domicilio":""
+          },
+          {
+            "Relevancia": "Demandante",
+            "Nombre": "Sebastián Jurado Moreno",
+            "Titulo": "",
+            "Tipo": "Persona Natural",
+            "Cedula":"3-731-1391",
+            "Domicilio":""
+          },
+          {
+            "Relevancia": "Demandado",
+            "Nombre": "Olda Elizabeth Pérez Botello",
+            "Titulo":"",
+            "Tipo": "",
+            "Cedula":"",
+            "Domicilio":""
+          }
+        ],
+        "Cuerpo":[
+          {
+            "Tipo":"Head_1",
+            "Contenido":"VISTOS",
+            "Numero":0
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"El Juzgado Séptimo de Circuito de lo Civil del Primer Circuito Judicial de Panamá, conoce del Proceso Sumario de Inclusión de Herederos presentado por Amilcar Javier Jurado Hernández, Yessibeth Jazmín Jurado Hernández, Rodney Abdiel Jurado, Yineth Ariagna Jurado Moreno y Sebastián Jurado Moreno en contra de Olda Elizabeth Pérez Botello, para que se les incluya como herederos de Amilcar Ariel Jurado Castillo (Q.E.P.D.).",
+            "Numero":1
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"El A quo emitió la Sentencia No. 32 del 6 de julio del 2018, por cuya virtud resuelve:",
+            "Numero":2
+          },
+          {
+            "Tipo":"Body_2",
+            "Contenido":"“PRIMERO: INCLUIR en calidad de herederos en la sucesión intestada del señor AMILCAR ARIEL JURADO CASTILLERO (Q.E.P.D.) a los señores AMILCAR JAVIER JURADO HERNÁNDEZ, con cédula No. 8-720-1951, YESSIBETH JAZMÍN JURADO HERNÁNDEZ, con cédula No. 8-764-323, RODNEY ABDIEL JURADO HERNÁNDEZ, con cédula No. 8-781-412, YINETH ARIAGNA JURADO MORENO, con cédula No. 3-738-1598 y SEBASTIÁN JURADO MORENO, con cédula No. 3-731-1391.",
+            "Numero":3
+          },
+          {
+            "Tipo":"Body_2",
+            "Contenido":"SEGUNDO: ADJUDICA a título de herencia a AMILCAR JAVIER JURADO HERNÁNDEZ, varón, panameño, mayor de edad, con cédula de identidad personal No. 8-720-1951, YESSIBETH ·JAZMÍN JURADO HERNÁNDEZ, mujer, panameña, mayor de edad, con cédula de identidad personal No. 8-781-412, RODNEY ABDIEL JURADO HERNÁNDEZ, varón, panameño, mayor de edad, con cédula de identidad personal No. 8- 781-412, YINETH ARIAGNA JURADO MORENO, mujer, panameña, mayor de edad, con cédula de identidad personal No. 3-738-1598 y SEBASTIÁN JURADO MORENO, varón, panameño, mayor de edad, con cédula de identidad personal No. 3-731-1391, los siguientes bienes:",
+            "Numero":4
+          },
+          {
+            "Tipo":"Body_2",
+            "Contenido":"•	Finca No. 211144, inscrita al Rollo 1, Asiento 1, Código de Ubicación 8715, de la Sección de Propiedad, Provincia de Panamá.",
+            "Numero":5
+          },
+          {
+            "Tipo":"Body_2",
+            "Contenido":"•	Finca No. 188306, documento digitalizado 60940, Código de Ubicación 8602, de la Sección de Propiedad, Provincia de Panamá.",
+            "Numero":6
+          },
+          {
+            "Tipo":"Body_2",
+            "Contenido":"•	Vehículo a motor marca Honda, modelo CRV, color verde, chasis JHLRD1850YC233475, con placa No. 235852, inscrito en el Municipio de Colón.",
+            "Numero":7
+          },
+          {
+            "Tipo":"Body_2",
+            "Contenido":"•	Arma de fuego, calibre 16, tipo escopeta, marca N England serie NF-213543.",
+            "Numero":8
+          },
+          {
+            "Tipo":"Body_2",
+            "Contenido":"TERCERO: ORDENA a la Dirección General del Registro Público (DRP) inscriba las Fincas No. 211144, inscrita al Rollo 1, Asiento 1, Código de Ubicación 8715, de la Sección de Propiedad, Provincia de Panamá. Y No. 188306, documento digitalizado 60940, Código de Ubicación 8602, de la Sección de Propiedad, Provincia de Panamá, a nombre de los señores AMILCAR JAVIER JURADO HERNÁNDEZ, varón, panameño, mayor de edad, con cédula de identidad personal No. 8-720-1951, YESSIBETH JAZMÍN JURADO HERNÁNDEZ, mujer, panameña, mayor de edad, con cédula de identidad personal No. 8-764-323, RODNEY ABDIEL JURADO HERNÁNDEZ, varón, panameño, mayor de edad, con cédula de identidad personal No. 8-781-412, YINETH ARIAGNA JURADO MORENO, mujer, panameña, mayor de edad, con cédula de identidad personal No. 3-738-1598 y SEBASTIÁN JURADO MORENO, varón, panameño, mayor de edad, con cédula de identidad personal No. 3-731-1391, junto con la heredera declarada.",
+            "Numero":9
+          },
+          {
+            "Tipo":"Body_2",
+            "Contenido":"CUARTO: ORDENA al Municipio de Colón y al Registro Único Vehicular, inscriba a nombre de los herederos declarados AMILCAR JAVIER JURADO HERNANDEZ, varón, panameño, mayor de edad, con cédula de identidad personal No. 8-720-1951, YESSIBETH JAZMÍN JURADO HERNÁNDEZ, mujer, panameña, mayor de edad, con cédula de identidad personal No. 8-764-323, RODNEY ABDIEL JURADO HERNANDEZ, varón, panameño, mayor de edad, con cédula de identidad personal No. 8- 781-412, YINETH ARIAGNA JURADO MORENO, mujer, panameña, mayor de edad, con cédula de identidad personal No. 3-738-1598 y SEBASTIÁN JURADO MORENO, varón, panameño, mayor de edad, con cédula de identidad personal No. 3-731-1391, el vehículo marca Honda, modelo CRV, color verde, chasis JHLRD1850YC233475, con placa No. 235852, que solía ser propiedad del señor AMILCAR ARIEL JURADO CASTILLO (Q.E.P.D.).",
+            "Numero":10
+          },
+          {
+            "Tipo":"Body_2",
+            "Contenido":"QUINTO: Sin condena en costas por no haberse causado.”",
+            "Numero":11
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Una vez recibido el expediente se procedió a su reparto, según lo dispuesto en el artículo 132 del Código Judicial. Verificado el cumplimiento de las formalidades previas indispensables para entrar a considerar el mérito del recurso de la referencia, con arreglo a lo preceptuado por el artículo 1151 de la norma legal mencionada, se entra este Tribunal de Decisión en posición de resolver la alzada.",
+            "Numero":12
+          },
+          {
+            "Tipo":"Head_1",
+            "Contenido":"De los argumentos de la demandada.",
+            "Numero":13
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Disiente de la sentencia afirmando que el Juez no valoró la prueba consistente en una petición firmada y notariada en la que el causante indicaba al banco, donde mantenía la hipoteca de la finca No. 211144, que esa finca sería para la esposa.",
+            "Numero":14
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Señala que el banco rindió informe sobre el monto de la hipoteca, pero no informa de los documentos presentados a la entidad, cuando estaba pagando la hipoteca, entre ellos una carta notariada enviada al Banco por el ahora causante, instruyendo que esa finca sería para su esposa y que una vez finalizada la hipoteca se emitiera la escritura pública a nombre de ella. Afirma que esa carta contiene la voluntad del causante proferida dentro del matrimonio.",
+            "Numero":15
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Estima que el A quo se excedió a lo pedido, vulnerando el artículo 991 del Código Judicial, que establece que la sentencia debe estar en consonancia con las pretensiones, y consagra que “no podrá condenarse al demandado por cantidad superior o por objeto distinto del pretendido en la demanda.”",
+            "Numero":16
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"La sentencia incluye a otros herederos que no lo pidieron en la demanda, pero no incluye como heredero a otros hijos que aparecen en la certificación solicitada por el Juez al Registro Civil de Panamá, como Giselle Elizabeth Jurado Pérez, Maribel Alina Jurado Pérez, Amilcar Ariel Jurado Pérez, Arlene Yaciel Jurado Campos y Benedicto Moisés Jurado Moreno. Estima que en caso de dar ultra petita debió reconocer a los otros hijos del causante.",
+            "Numero":17
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Expone que la decisión de conceder más allá de lo pedido vulnera el Principio “de la motivación de la demanda” según el cual en vulnera las motivaciones de una sentencia se encuentran las razones por las que se adopta la decisión.",
+            "Numero":18
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Considera el recurrente que debe considerarse la intención clara y expresada del causante, en la nota de 32 de marzo de 2014, dirigida al banco para hacer valer la voluntad del causante y que en la sentencia impugnada no incluyendo la Finca 211144 a favor de Amilcar Javier Jurado Hernández Castillo, Yessibeth Jazmín Jurado Hernández, Rodney Abdiel Jurado Hernández, Yineth Ariagna Jurado Moreno, Sebastián Jurado Moreno.",
+            "Numero":19
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Solicita el recurrente que se revoque la sentencia apelada y que se admita como prueba de segunda instancia la de informe solicitada en la contestación de la demanda, titulada “prueba de informe”:",
+            "Numero":20
+          },
+          {
+            "Tipo":"Head_1",
+            "Contenido":"Oposición a los argumentos expuestos en la apelación, fs. 124 a 128:",
+            "Numero":21
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"El opositor señala que formuló la petición de inclusión de herederos dentro del proceso de Sucesión Intestada del causante Amilcar Ariel Jurado Castillo (Q.E.P.D.), para que le sea adjudicada la cuota parte de la masa herencial inventariada que fuera adjudicada en su totalidad a la demandada.",
+            "Numero":22
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Manifiesta que la recurrente cuestiona se reconozca el derecho a cinco herederos adicionales a la demanda; y que se desconozca una nota dirigida en vida por el causante al Banco Banistmo para que la recurrente fuera reconocida, en su condición de esposa, como titular de la finca No. 211144. Afirma el opositor que buscaron concertar en cinco ocasiones sin llegar a acuerdo. ",
+            "Numero":23
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Señala el opositor que el poder y la demanda contienen la petición de inclusión de cinco herederos, siendo correspondiente la sentencia con los hechos, pruebas y declaraciones incoadas sobre los cinco herederos, aún cuando en el proceso constan otros hijos del causante. Dice el opositor que contrario a lo expuesto, Sebastián Aníbal Jurado es mayor de edad como se constata a foja 61 del expediente en donde reposa una certificación expedida por el Tribunal Electoral.",
+            "Numero":24
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Señala el opositor que el poder y la demanda contienen la petición de inclusión de cinco herederos, siendo correspondiente la sentencia con los hechos, pruebas y declaraciones incoadas sobre los cinco herederos, aún cuando en el proceso constan otros hijos del causante. Dice el opositor que contrario a lo expuesto, Sebastián Aníbal Jurado es mayor de edad como se constata a foja 61 del expediente en donde reposa una certificación expedida por el Tribunal Electoral.",
+            "Numero":25
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Aduce el opositor que en cuanto a la nota dirigida a Banco Banistmo, que esa nota no fue aducida por la demandante cuando ella promovió el proceso de sucesión, sino que la adujo cuando contestó la demanda de inclusión de herederos. Resalta que para el inventario de bienes, fue la misma demandante quien presentó los bienes sin excluir ni hacer reserva de la Finca 211144; y concluye que la nota no genera derecho alguno, pues debió protocolizarla para que tuviera el carácter de testamento ológrafo a título de legado.",
+            "Numero":26
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"El opositor argumenta que la demanda de inclusión de herederos responde a los presupuestos que derivan del derecho a heredar, cumple con las formalidades y el procedimiento. Sostiene que la posición de la demandada es para dilatar el proceso ante una eventual rendición de cuentas.",
+            "Numero":27
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Solicitan los opositores la confirmación de la sentencia apelada y que se condene en costas de ambas instancias a la recurrente por dilatar el proceso.",
+            "Numero":28
+          },
+          {
+            "Tipo":"Head_1",
+            "Contenido":"CRITERIO Y DECISIÓN DEL TRIBUNAL",
+            "Numero":29
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"La pretensión de inclusión de herederos surge en ocasión de un proceso de sucesión intestada que fue tramitado en virtud de lo dispuesto en el artículo 1527 del Código Judicial, que establece que toda persona que tenga interés en la masa hereditaria podrá solicitar la apertura de la sucesión; esa disposición se relaciona con los artículos 1536 y 1537 del Código Judicial, que regulan la inclusión de herederos, proceso que se propone por vía de incidente cuando aún no se ha ejecutoriado el auto de adjudicación, o mediante los trámites del proceso sumario, si ya se ha ejecutoriado el auto de adjudicación dentro de la reclamación de la herencia ab intestato.",
+            "Numero":30
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Consta a folios 7 a 51, copia autenticada del Proceso de Sucesión Intestada de Amilcar Ariel Jurado Castillo (Q.E.P.D.), protocolizado mediante la Escritura Pública No. 259 de 14 de enero de 2015, en el que consta el Auto No. 1743, de 24 de octubre de 2014, que declara heredera declarada a Olda Elizabeth Pérez Botello. La demanda se propuso mediante los trámites de proceso sumario y se presentó el 14 de diciembre de 2016.",
+            "Numero":31
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Observa el Tribunal que, en cuanto a la demanda incoada por Javier Jurado Hernández, Yessibeth Jazmín Jurado Hernández, Rodney Abdiel Jurado Hernández, Yineth Ariagna Jurado Moreno, y Sebastián Jurado Moreno, los pretensores acreditaron la condición de hijos del causante mediante certificaciones de nacimiento expedidas por el Registro Civil de Panamá, a fojas 53, 55, 56, 59 y 60, constatando la condición de hijos del causante, y por tanto herederos por línea directa descendente.",
+            "Numero":32
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Aún cuando haya otros hijos del causante según la certificación expedida por el Tribunal Electoral, en base a las constancias registrales, que reposa a folio 110, los mismos no ejercieron la acción o petición que deriva de su condición de descendientes del causante.",
+            "Numero":33
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Una de las censuras contra la sentencia se refiere a la nota mediante la cual la recurrente sostiene que la finca No. 211144, cuando fuera cancelada debía inscribirse a nombre de ella por su condición de esposa, que consta a folio 69, dentro de un proceso de sucesión intestada no tiene efectos jurídicos de legado, por ser esa institución sucesoria ajena a estos procesos intestados; y no es la forma idónea de traspaso de un bien inmueble, por lo que, al momento del fallecimiento, salvo la existencia de un testamento otorgado en debida forma, no tiene efectos legales.",
+            "Numero":34
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"En el escrito de sustentación de la apelación la recurrente incoó pruebas en segunda instancia dentro del presente proceso sumario, observa el Tribunal que la parte se notificó el día 6 de julio de 2018, el día 13 de julio de 2018 presentó escrito anunciando recurso de apelación contra la sentencia, y es en el escrito de apelación en donde anuncias pruebas de segunda instancia, lo cual no se ajusta a lo dispuesto en el numeral 3 del articulo 1137 del Código Judicial.",
+            "Numero":35
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Por lo expuesto, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL, administrando justicia en nombre de la República y por autoridad de la Ley, CONFIRMA la Sentencia No. 32 del 6 de julio del 2018, emitida por el Juzgado Séptimo de Circuito de lo Civil del Primer Circuito Judicial de Panamá, dentro del Proceso Sumario de Inclusión de Herederos presentado por Amilcar Javier Jurado Hernández, Yessibeth Jazmín Jurado Hernández, Rodney Abdiel Jurado, Yineth Ariagna Jurado Moreno y Sebastián Jurado Moreno en contra de Olda Elizabeth Pérez Botello, para que se les incluya como herederos de Amilcar Ariel Jurado Castillo (Q.E.P.D.).",
+            "Numero":36
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Se señalan costas de segunda instancia a cargo de la demandada, a favor de los demandantes en la suma de B/.50.00.",
+            "Numero":37
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Una vez ejecutoriada esta resolución, devuélvase el proceso al juzgado de origen.",
+            "Numero":38
+          },
+          {
+            "Tipo":"Body_1",
+            "Contenido":"Notifíquese,",
+            "Numero":39
+          }
+        ],
+        "Notificados": [
+            {
+              "Titulo":"MAGISTRADO",
+              "Nombre":"MIGUEL A. ESPINO G.",
+              "Numero": 1
+              },
+            {
+                "Titulo":"MAGISTRADO",
+                "Nombre":"NELSON H. RUIZ C.",
+                "Numero": 2
+              },
+            {
+                "Titulo":"MAGISTRADO",
+                "Nombre":"CARLOS R. TRUJILLO S.",
+                "Numero": 3
+              },
+            {
+              "Titulo":"Secretario",
+              "Nombre":"José J. Karamañites ",
+              "Numero": 4
+            }
+          ]
+        },
+        {
+        "Nombre": "20181024_MARVIB_PACIFIC_CORP_vs_DREDGE_ENTERPRISES_INC_Y_OTRO_1_revMLC",
+        "Entrada": "17SA.412",
+        "Tipo":"SENTENCIA APELADA",
+        "Fecha": "20180816",
+        "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
+          "Responsable":{
+          "Tipo":"Magistrado",
+          "Nombre":"MIGUEL A. ESPINO G."
+        },
+        "Partes":[
+          {
+            "Relevancia":"Demandante",
+            "Nombre": "Ermis, S. A.",
+            "Titulo": "",
+            "Tipo": "Persona Jurídica",
+            "Cedula":"",
+            "Domicilio":""
+          },
+          {
+            "Relevancia":"Demandado",
+            "Nombre":"Ventas y Distribución de Servicios Múltiples Celineth",
+            "Titulo":"",
+            "Tipo":"Persona Jurídica",
+            "Cedula":"",
+            "Domicilio":""
+          },
+          {
+            "Relevancia":"Demandado",
+            "Nombre": "Comercializadora de Negocios Múltiples",
+            "Titulo":"",
+            "Tipo": "Persona Jurídica",
+            "Cedula":"",
+            "Domicilio":""
+          },
+          {
+            "Relevancia":"Demandado",
+            "Nombre":"Celineth del Carmen Calderón",
+            "Titulo":"",
+            "Tipo":"Persona Natural",
+            "Cedula":"",
+            "Domicilio":""
+          }
+        ],
+        "Articulos":[
+            {
+              "ArtNumero":"1071",
+              "Numeral":"",
+              "CodigoLey":"Código Judicial",
+              "Numero":1
+            },
+            {
+              "ArtNumero":"1078",
+              "Numeral":"",
+              "CodigoLey":"Código Judicial",
+              "Numero":2
+            },
+            {
+              "ArtNumero":"132",
+              "Numeral":"",
+              "CodigoLey":"Código Judicial",
+              "Numero":3
+            },
+            {
+              "ArtNumero":"1151",
+              "Numeral":"",
+              "CodigoLey":"Código Judicial",
+              "Numero":4
+            },
+            {
+              "ArtNumero":"195",
+              "Numeral":"",
+              "CodigoLey":"Código de Comercio",
+              "Numero":5
+            },
+          ],
+        "Cuerpo":[
+            {
+              "Tipo":"Head_1",
+              "Contenido":"VISTOS",
+              "Numero":0
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Procedente del Juzgado Primero de Circuito de lo Civil del Circuito Judicial de Colón, ingresó para el conocimiento de esta Superioridad, el Proceso Ordinario propuesto por MARVIN PACIFIC, CORP., contra DREDGE ENTERPRISES, INC., y LA BOMBA IMPORT-EXPORT, S.A., controversia que fue desatada en el Tribunal primario mediante la Sentencia No.28 de veintinueve (29) de junio de dos mil quince (2015). A través de la meritada resolución se resolvió lo siguiente:",
+              "Numero":1
+            },
+            {
+              "Tipo":"Body_2",
+              "Contenido":"“En mérito de lo expuesto, el suscrito JUEZ PRIMERO DE CIRCUITO DE LO CIVIL DEL CIRCUITO JUDICIAL DE COLÓN administrando justicia en nombre de la República y por autoridad de la Ley: DECLARA NO PROBADA la pretensión en este PROCESO ORDINARIO DE MAYOR CUANTÍA promovido por sociedad denominada MARVIN PACIFIC, CORP., que se encuentra registrada en la Ficha 551911, Documento 1070181, desde 17 de enero 2007, cuyo representante legal es el señor KANG SUK KIM, varón, de nacionalidad coreana, mayor de edad, con cédula personal No.E-8-88468, en contra de las sociedades DREDGE ENTERPRISES, INC., debidamente inscrita a la Ficha 549877, Documento 1062700, del Registro Público, la Sección de Micropelículas del Registro Público de Panamá, cuyo representante legal es la señora MARITZA TORRES, mujer, mayor de edad, portadora de la cédula de identidad personal número 6-85-229, y la sociedad LA BOMBA IMPORT-EXPORT, S.A., debidamente inscrita a la Ficha 402530, Documento 246952, del Registro Público de Panamá, cuyo representante legal es el señor CARLOS ALFREDO AGUIRRE, varón, panameño, mayor de edad, portador de la cédula de identidad personal número 8-848-1011, a afectos que se hicieran las declaraciones que se indican en la demanda.",
+              "Numero":2
+            },
+            {
+              "Tipo":"Body_2",
+              "Contenido":"Se condena en costa a la parte actora por la suma de cuarenta mil balboas (B/40,000.00) ... “",
+              "Numero":3
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Contra la decisión anterior, la licenciada ANA LAURA OVALLE HORNA, apoderada sustituta de la sociedad LA BOMBA IMPORT-EXPORT, S.A., anunció recurso de apelación al momento de notificarse, recurso que fuera sustentado oportunamente de fojas 408-412; todo lo cual dio origen a la resolución de 11 de octubre de 2017, en la que se concede el recurso impetrado en el efecto suspensivo (fs.424).",
+              "Numero":4
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Una vez ingresado el aludido expediente a este Tribunal, y luego del reparto y saneamiento de rigor, observando que no existen pretermisiones ni vicios que empañen las actuaciones desplegadas, corresponde, pues, a esta Superioridad resolver el recurso impetrado, para lo cual nos hemos de permitir adelantar las siguientes consideraciones.",
+              "Numero":5
+            },
+            {
+              "Tipo":"Head_1",
+              "Contenido":"SUSTENTACIÓN DE LA APELACIÓN",
+              "Numero":6
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Inicia su sustentación indicando que mediante Sentencia No.28 de 29 de junio de 2015, se absolvió a BOMBA IMPORT-EXPORT, S.A., parte demandada, y se condenó, MARVIN PACIFIC. CORP., al pago de las costas.",
+              "Numero":7
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Que la sentencia antes mencionada fijó el monto de las costas a cargo del vencido por la suma de CUARENTA MIL BALBOAS CON 00/100 (B/.40,000.00), aún cuando el proceso ordinario de mayor cuantía interpuesto por MARVIN PACIFIC, CORP., en contra de LA BOMBA IMPORT-EXPORT, S.A., se promovió por la suma de SEISCIENTOS OCHO MIL TRESCIENTOS QUINCE BALBOAS CON 65/100 (B/.608,315.65). Arguye que con respecto a la imposición de costas, nuestro ordenamiento legal vigente y aplicable, conforme a lo dispuesto en el artículo 1071 del Código Judicial sostiene que: “En toda sentencia o auto se condenará en costas a la parte contra la cual se pronuncie, salvo que a juicio del juez haya actuado con evidente buena fe, sobre lo cual se motivará expresamente en la resolución. En ese caso de evidente buena fe, el juez podrá condenar sólo a los gastos del proceso. No podrá estimarse que hay buena fe, entre otros casos, cuando el proceso se sigue sin que el demandado comparezca al proceso habiendo sido notificado personalmente; cuando haya habido necesidad de promover ejecución en contra del deudor para la satisfacción del crédito; cuando el vencido hubiere negado pretensiones evidentes de la demanda o de la contrademanda, que el proceso indique que debió aceptarlas al contestar aquéllas; cuando la parte hubiere aducido documentos falsos o testigos falsos; cuando no se rindiere ninguna prueba para acreditar los hechos de la demanda o las excepciones interpuestas o cuando se advierta ejercicio abusivo del derecho de gestión”. De la norma transcrita, señala que corresponde en la sentencia, fijar costas a cargo de aquel contra el cual se pronuncie. Igualmente sostiene que, la norma establece que el juzgador al considerar que el vencido actuó con evidente buena fe, lo motivará expresamente en la resolución.",
+              "Numero":8
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Agrega la recurrente, que en el caso que nos ocupa, el juzgador no motivó que el vencido haya actuado con evidente buena fe y como se desprende de la lectura de la parte resolutiva de la decisión apelada: “Se condena en cosa a la parte actora por la suma de cuarenta mil balboas (B/.40,000.00)”. Seguidamente expone, que la norma preceptúa, taxativamente que no podrá estimarse que hay buena fe, cuando no se rindiere ninguna prueba para acreditar los hechos de la demanda.",
+              "Numero":9
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Al respecto, transcribe parte de la sentencia recurrida, consistente en lo siguiente: “En resumen, la parte actora probó una afectación al inmueble de su propiedad, pero no otro daños que se mencionan en la demanda, además, no probó la causa del incendio, quién fue el responsable del incendio, mucho menos que las sociedades demandadas sean las que causaron el incendio, por lo tanto, no es posible emitir una sentencia condenando a las demandadas por la responsabilidad extracontractual objeto de este proceso, y lo que cabe es absolver estas sociedades demandadas...”; por lo que asevera que dentro del presente proceso no puede considerarse que el demandante actuó de buena fe, toda vez que tal como señala la sentencia, no acreditó el daño endilgado a las sociedades demandadas. Además, teniendo en cuenta el hecho resaltado por el juzgador de primera instancia, de que la parte demandante promovió proceso sin probar o acreditar los supuestos de hechos que sirven de base a sus pretensiones, es procedente considerar que la demanda promovida es temeraria, y la parte actora demandante actuó con evidente mala fe.",
+              "Numero":10
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Alega que el ejercicio de la demanda fue temeraria y de mala fe, por parte de MARVIN PACIFIC, CORP., generando la defensa a cargo de LA BOMBA IMPORT-EXPORT, S.A., conforme al artículo 1069 del Código Judicial, además, las costas incluyen los gastos incurridos por la defensa y el trabajo realizado en derecho.",
+              "Numero":11
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Que el trabajo realizado en derecho para el ejercicio de la defensa a la que obligó la demanda temeraria y de mala fe, conllevó al ejercicio de sendos recursos, aportación de pruebas práctica de pruebas periciales que conllevaron el pago de peritos expertos. El trabajo realizado y los gastos incurridos sobrepasan, por mucho, el valor de las costas impuestas al demandante vencido. Ya que la Juzgadora impuso el valor de las costas al demandante vencido. Y que la juzgadora impuso el valor de las costas, sin tomar en cuenta la cuantía de la demanda, la naturaleza y la calidad del trabajo realizado por el apoderado de la defensa, ni el costo del trabajo del trabajo realizado por los peritos expertos designados para la evacuación de las pruebas. Asimismo, enuncia que a efectos de fijar el valor de las costas establecidas en los numerales 1 y 2 del artículo 1069 del Código Judicial, se tendrá como base para tasación la tarifa de honorarios de abogados debidamente establecida por el Colegio Nacional de abogados y aprobada por la Sala Cuarta de Negocios Generales.",
+              "Numero":12
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Manifiesta que existe jurisprudencia de las más Altas Corporaciones de Justicia, que son contestes en apoyar el concepto de fijación de costas, tomando en consideración la tarifa de honorarios de abogados y la cuantía de la demanda, en atención a lo cual, cita fallo de 13 de agosto de 1993 del Primer Tribunal Superior.",
+              "Numero":13
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Finalmente, concluye que la suma fijada en concepto de costa no aportó ninguna prueba que demostrara los supuestos hechos, que la demanda fue evidentemente temeraria, y que el actor actuó con evidente mala fe. Adicionalmente la suma fijada en concepto de costas no cubre ni los gastos y honorarios incurridos para la defensa a la que obligó la promoción del proceso. Por lo cual, solicita que se reforme la Sentencia No.28 de 29 de junio de 2015, a efecto de que se condene al demandante (vencido) al pago de costas ejemplares. ",
+              "Numero":14
+            },
+            {
+              "Tipo":"Head_1",
+              "Contenido":"CRITERIO DEL TRIBUNAL",
+              "Numero":15
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Luego de haber realizado un análisis sustancial de la sustentación de segunda instancia por la parte demandada LA BOMBA IMPORT-EXPORT, S.A., y, analizar minuciosamente todas las constancias de autos, procede decidir sobre la juridicidad o no de la resolución apelada.",
+              "Numero":16
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"En primer lugar, advierte este nivel jurisdiccional que el Juzgador primario le imprimió a la encuesta, el trámite que para este tipo de proceso, exige el Código de Procedimiento Civil, por lo que no se observan vicios ni pretermisiones que pudieran invalidar lo actuado.",
+              "Numero":17
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Siendo así, la apelante, pretende obtener el pago de una suma de dinero por parte de la actora, en concepto de condena en costas, en virtud de haber sido absuelta de la pretensión que la demandante ejercitara en su contra, y sólo en ese sentido, recurre la sentencia de primera instancia. Por está razón, solicita se modifique las costas establecidas en la Sentencia No.28 de 29 de junio de 2015, por cuanto no se ajustan a la cuantía demandada por el actor.",
+              "Numero":18
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"El tema en el debate guarda relación con lo dispuesto en el artículo 1071 del Código Judicial, que contempla que en toda sentencia o auto se condenará en costas a la parte contra la cual se pronuncie, salvo que a juicio del juzgador haya actuado con evidente buena fe.",
+              "Numero":19
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Al respecto, es un hecho cierto que las costas son medios para compensar las desventajas económicas que se puedan causar a alguna de las partes en el proceso; también se dice que las costas son una sanción a la parte vencida al no poder probar su pretensión o no haber demostrado alguno de los hechos que iniciaron la controversia.",
+              "Numero":20
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Debido a lo cual, esta Superioridad advierte que la apelación de la demandada radica única y exclusivamente sobre el tema de la condena en costas impuesta a la parte actora, en virtud de que el juzgado de primera instancia la declaró absuelta; así pues, el examen que se hace de la sentencia apelada, debe ser dirigido a ese único punto objeto de este recurso vertical.",
+              "Numero":21
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Sobre el particular, esta Colegiatura es de la opinión que efectivamente y tomando en cuenta lo normado en el artículo 1069 del Código Judicial que define costas como:",
+              "Numero":22
+            },
+            {
+              "Tipo":"Body_2",
+              "Contenido":"“Artículo 1069. Se entiende por costas los gastos que se nacen por los litigantes en el curso del proceso, para la conveniente y acertada defensa de sus derechos…”",
+              "Numero":23
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Que en atención a tal norma. que recoge el derecho que le asiste a la demandada absuelta en el proceso, es que en efecto se les reconoció a los demandados en el presente proceso una suma en concepto de costas a su favor y a cargo de la parte actora, ya que los mismos tuvieron que invertir en su defensa en el proceso, situación que se traduce en el trabajo invertido por el litigante o su apoderado en la secuela del proceso; valor de certificados y copias que se aduzcan como pruebas.",
+              "Numero":24
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Aunado a lo anterior, se advierte en igual sentido que ninguna de las partes que integran la sentencia recurrida, contiene párrafo alguno destinado a declarar la actuación de la parte actora como de buena fe, es decir, no hubo un pronunciamiento expreso sobre el particular, de conformidad con lo consagrado en el artículo 1071 del Código Judicial que señala: ",
+              "Numero":25
+            },
+            {
+              "Tipo":"Body_2",
+              "Contenido":"“Artículo 1071. En toda sentencia o auto se condenará en costas a la parte contra la cual se pronuncie, salvo que a juicio del Juez haya actuado con evidente buena fe, sobre lo cual se motivará expresamente en la resolución. En ese caso de evidente buena fe, el Juez podrá condenar sólo a los gastos del proceso…”",
+              "Numero":26
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Si bien es cierto, ha quedado acreditado el derecho que le asiste a la parte recurrente de reconocerle las costas, tal y como lo hizo el juzgador de primera instancia; sin embargo, existe una cuantía fijada en la demanda por la suma de SEISCIENTOS OCHO MIL TRESCIENTOS QUINCE BALBOAS CON 65/100 (B/.608,315.65), suma que se tomará corno base para calcular las costas a que tiene derecho los demandados en el proceso, de acuerdo a la tarifa aprobada por la Sala de Negocios Generales de la Corte Suprema de Justicia, disminuyendo un 30% como permite el artículo 1078 del Código Judicial; es por esto, que lo procedente es modificar la sentencia a fin de adecuar el pago de costas a las demandadas, en los términos señalados.",
+              "Numero":27
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"En mérito de lo expuesto, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL administrando justicia en nombre de la República y por autoridad de la Ley, MODIFICA la Sentencia No 28 de veintinueve (29) de Junio de dos mil quince (2015), proferida por el Juzgado Primero de Circuito de lo Civil del Circuito Judicial de Colón, dentro del Proceso Ordinario propuesto por MARVIN PACIFIC CORP., contra DREDGE ENTERPRISES, INC., y LA BOMBA IMPORT-EXPORT, S.A., en el sentido, de que CONDENA a la parte actora al pago de las costas, pago éste que, luego de aplicar la tarifa respectiva y de disminuir el 30% que permite el artículo 1078 del Código Judicial, resulta en la suma de SESENA Y CUATRO MIL DOSCIENTOS OCHENTA Y DOS CON 09/100 (B/.64,282.09), la cantidad a pagar en concepto de costas a favor de los demandados en el presente proceso. ",
+              "Numero":28
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"Se MANTIENE en todo lo demás el contenido de la sentencia apelada.",
+              "Numero":29
+            },
+            {
+              "Tipo":"Body_1",
+              "Contenido":"NOTIFÍQUESE,",
+              "Numero":30
+            }
+          ],
+          "Notificados":[
+            {
+              "Titulo":"MAGISTRADO",
+              "Nombre":"LILIANNE M. DUCRUET N.",
+              "Numero": 1
+            },
+            {
+              "Titulo":"MAGISTRADO",
+              "Nombre":"MIGUEL A. ESPINO G.",
+              "Numero": 2
+            },
+            {
+              "Titulo":"MAGISTRADO",
+              "Nombre":"NELSON H. RUIZ C.",
+              "Numero": 3
+            },
+            {
+              "Titulo":"Secretario",
+              "Nombre":"JOSE J. KARAMAÑITES",
+              "Numero": 4
+              }
+            ]
+          },
+
+  ]
 }
