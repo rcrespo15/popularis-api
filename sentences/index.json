@@ -844,7 +844,7 @@
         "Nombre": "20180808_ARRENDADORA_INTERNACIONAL_vs_JUZGADO_SEPTIMO_PRIMER_CIRCUITO_JUDICIAL_1_rev",
         "Entrada": "18AMP1.293",
         "Tipo": "AMPARO DE GARANT\u00cdAS CONSTITUCIONALES",
-        "Fecha": "2018-08-08 00:00:00",
+        "Fecha": "20180808",
         "Institucion": "PRIMER TRIBUNAL SUPERIOR ",
         "Articulo": "",
         "Responsables": {
@@ -871,42 +871,42 @@
         ],
         "Cuerpo": [
             {
-                "Tipo": 1,
+                "Tipo": "Head_1",
                 "Contenido": "El se\u00f1or DANIEL GONZALEZ SANTIESTEBAN, actuando es su condici\u00f3n de Sub-Gerente y como Representante Legal de la sociedad denominada ARRENDADORA INTERNACIONAL, S.A., por intermedio de apoderada judicial, acude ante esta Corporaci\u00f3n de Justicia para promover la acci\u00f3n extraordinaria de amparo de garant\u00edas constitucionales en contra del licenciado GUILLERMO BALLESTEROS, Juez S\u00e9ptimo de lo Civil del Primer Circuito Judicial de Panam\u00e1, con el fin de que se deje sin efecto el Auto N\u00ba 2078 de 13 de junio de 2018, emitido en el Proceso Ejecutivo que ARRENDADORA INTERNACIONAL, S.A. instaurara en contra de CONSORCIO HEYMOCOL PROCOMON, S.A. (SOCIEDAD ACCIDENTAL), HEYMOCOL, S.A. y PROCOMON & ASOCIADOS, S.A (quienes conforman la sociedad accidental denominada CONSORCIO HEYMOCOL PROCOMON, S.A.); NELSON ROBERTO DEDOYA SANTA CRUZ y OMAR OTALORA BARBOSA (FIADORES), que decreta la caducidad extraordinaria de la instancia en dicho proceso y ordena el archivo del expediente.",
                 "Numero": 0
             },
             {
-                "Tipo": 1,
+                "Tipo": "Body_1",
                 "Contenido": "Corresponde al Tribunal, en primer lugar, verificar si la presente demanda cumple con los requisitos de forma y los presupuestos que determinan los art\u00edculos 2615, 2616, 2617, 2618 y 2619 del C\u00f3digo Judicial, a fin de establecer si est\u00e1 debidamente formulada y no fuere manifiestamente improcedente la acci\u00f3n constitucional en ella promovida.",
                 "Numero": 1
             },
             {
-                "Tipo": 1,
+                "Tipo": "Body_1",
                 "Contenido": "En ese sentido, si bien la demanda cumple con los requisitos comunes a toda demanda, se advierte de partida que la misma no es acompa\u00f1ada de la prueba que acredite la circunstancia sobre el agotamiento del medio ordinario de impugnaci\u00f3n contra la orden demandada, que en esta ocasi\u00f3n corresponde al recurso de reconsideraci\u00f3n, como lo prescribe el art\u00edculo 1113 del C\u00f3digo Judicial.",
                 "Numero": 2
             },
             {
-                "Tipo": 1,
+                "Tipo": "Body_1",
                 "Contenido": "En ese sentido, si bien la demanda cumple con los requisitos comunes a toda demanda, se advierte de partida que la misma no es acompa\u00f1ada de la prueba que acredite la circunstancia sobre el agotamiento del medio ordinario de impugnaci\u00f3n contra la orden demandada, que en esta ocasi\u00f3n corresponde al recurso de reconsideraci\u00f3n, como lo prescribe el art\u00edculo 1113 del C\u00f3digo Judicial.",
                 "Numero": 2
             },
             {
-                "Tipo": 1,
+                "Tipo": "Body_1",
                 "Contenido": "Al demandarse una actuaci\u00f3n judicial, en este caso, la resoluci\u00f3n que decreta la caducidad extraordinaria de la instancia, al tenor del numeral 2 del inciso final del art\u00edculo 2615 del C\u00f3digo Judicial, la acci\u00f3n de amparo requiere, para interponerse o proceder, que se haya interpuesto oportunamente y decidido el recurso de reconsideraci\u00f3n.",
                 "Numero": 3
             },
             {
-                "Tipo": 1,
+                "Tipo": "Body_1",
                 "Contenido": "Al demandarse una actuaci\u00f3n judicial, en este caso, la resoluci\u00f3n que decreta la caducidad extraordinaria de la instancia, al tenor del numeral 2 del inciso final del art\u00edculo 2615 del C\u00f3digo Judicial, la acci\u00f3n de amparo requiere, para interponerse o proceder, que se haya interpuesto oportunamente y decidido el recurso de reconsideraci\u00f3n.",
                 "Numero": 3
             },
             {
-                "Tipo": 1,
+                "Tipo": "Body_1",
                 "Contenido": "En m\u00e9rito de lo expuesto, el PRIMER TRIBUNAL SUPERIOR DEJUSTICIA, administrando justicia en nombre de la Rep\u00fablica y por autoridad de la Ley, NO ADMITE la demanda de amparo de garant\u00edas constitucionales propuesta por ARRENDADORA INTERNACIONAL, S.A. en contra de la orden contenida en el Auto N\u00b02078 de 13 de junio de 2018, dictado por el Juzgado S\u00e9ptimo de lo Civil del Primer Circuito Judicial de Panam\u00e1.",
                 "Numero": 4
             },
             {
-                "Tipo": 1,
+                "Tipo": "Body_1",
                 "Contenido": "T\u00e9mgase a la firma forense RIVERA, BOLIVAR Y CASTA\u00d1EDAS como apoderada judicial, en los t\u00e9rminos y facultades concedidas por la amparista poderdante.",
                 "Numero": 5
             }
