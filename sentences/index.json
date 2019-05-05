@@ -839,6 +839,952 @@
       "Numero": 4
         }
       ]
+    },
+    {
+        "Nombre": "20171228_INMOBILIARIA_CONSTRUCTEC_Y_OTRO_vs_SUCRE_rev",
+        "Entrada": "13SA.074",
+        "Tipo": "PROCESO ORDINARIO PROPUESTO POR INMOBILIARIA CONSTRUCTEC",
+        "Fecha": "2017-12-28 00:00:00",
+        "Institucion": "PRIMER TRIBUNAL SUPERIOIR ",
+        "Distrito_Judicial": " PRIMER DISTRITO JUDICIAL",
+        "Articulo": "0",
+        "Responsables": {
+            "Tipo": "MAG.",
+            "Nombre": "LILIANNE M. DUCRUET N."
+        },
+        "Partes": [
+            {
+                "Relevancia": "Demandante",
+                "Nombre": "INMOBILIARIA CONSTRUCTEC, S.A.",
+                "Titulo": 0,
+                "Tipo": "Juridico",
+                "Cedula": 0,
+                "Domicilio": 0
+            },
+            {
+                "Relevancia": "Demandado",
+                "Nombre": "MIROSLAVA SUCRE SIMI",
+                "Titulo": 0,
+                "Tipo": 0,
+                "Cedula": 0,
+                "Domicilio": 0
+            }
+        ],
+        "Cuerpo": [
+            {
+                "Tipo": 1,
+                "Contenido": "Procedente del Juzgado Tercero de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, ingres\u00f3 para el conocimiento de esta Superioridad, el Proceso Ordinario propuesto por INMOBILIARIA CONSTRUCTEC, S.A., Y AGUILERA FRANCESCHl, S.C. contra MIROSLAVA SUCRE SIMITI, controversia que fue desatada en el Tribunal primario mediante la Sentencia N\u00ba 119 de fecha 9 de diciembre de 2011.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 0
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Mediante la referida resoluci\u00f3n, el Tribunal de primera instancia, resolvi\u00f3:",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 1
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "\u201cPor lo anteriormente expuesto, quien suscribe JUEZ TERCERO DE CIRCUITO DE LO CIVIL DEL PRIMER CIRCUITO JUDICIAL DE PANAM\u00c1, ADJUNTO, administrando Justicia en nombre de la Rep\u00fablica y por autoridad de la Ley, RESUELVE:",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 2
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "PRIMERO: declarar probada parcialmente LA PRETENSI\u00d3N \u20181\u2019 DE LA DEMANDA y declara \u2018Que MIROSLAVA SUCRE SIMITI, promovi\u00f3 un proceso ordinario de mayor cuant\u00eda, por una suma superior a un mill\u00f3n de balboas (B/. 1,000, 000.00) en contra de INMOBILIARIA CONSTRUCTEC, S.A., ante el Juzgado D\u00e9cimo Cuarto de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, el cual fue fallado en primera instancia. (SIC)",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 3
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "SEGUNDO: NEGAR el resto de las declaraciones solicitadas por la parte demandante en el presente proceso, en virtud del pronunciamiento plasmado en la parte motiva de la presente resoluci\u00f3n.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 4
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "Las imperativas condenas en costas en contra de la parte vencida se fijan por disposici\u00f3n de los art\u00edculos 1071 y 1078 del C\u00f3digo Judicial en la suma de trece mil ciento veinticinco balboas (B/. 13,125.00).",
+                "Articulo": [
+                    "1071",
+                    "1078"
+                ],
+                "numerales": [
+                    "0",
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial",
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 5
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "Las imperativas condenas en costas en contra de la parte vencida se fijan por disposici\u00f3n de los art\u00edculos 1071 y 1078 del C\u00f3digo Judicial en la suma de trece mil ciento veinticinco balboas (B/. 13,125.00).",
+                "Articulo": [
+                    "1071",
+                    "1078"
+                ],
+                "numerales": [
+                    "0",
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial",
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 5
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "Las imperativas condenas en costas en contra de la parte vencida se fijan por disposici\u00f3n de los art\u00edculos 1071 y 1078 del C\u00f3digo Judicial en la suma de trece mil ciento veinticinco balboas (B/. 13,125.00).",
+                "Articulo": [
+                    "1071",
+                    "1078"
+                ],
+                "numerales": [
+                    "0",
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial",
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 5
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "Una vez ejecutoriada la presente resoluci\u00f3n an\u00f3tese la salida en el libro de registro respectivo.\u201d (fs. 1003-1110).",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 6
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Contra esta decisi\u00f3n, el licenciado Ram\u00f3n F. Castellano A., procurador judicial de la demandada MIROSLAVA SUCRE SIMITI anunci\u00f3 apelaci\u00f3n (fs. 1010 cta.), empero no sustent\u00f3.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 7
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Por su parte el licenciado Rodolfo Aguilera Franceschi, procurador judicial de la parte demandante, anunci\u00f3 apelaci\u00f3n con presentaci\u00f3n de pruebas en segunda instancia (fs. 1740-1743).",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 8
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Mediante resoluci\u00f3n de fecha 14 de mayo de 2012, el Tribunal a quo concedi\u00f3 en efecto suspensivo el recurso de apelaci\u00f3n anunciado por el licenciado Rodolfo Aguilera, procurador judicial de la parte actora INMOBILIARIA CONSTRUCTEC, S.A., y AGUILERA FRANCESCHl, S.A.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 9
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Al ingresar el negocio a esta sede judicial, se dispuso mediante resoluci\u00f3n de 18 de diciembre de 2012, el saneamiento del proceso conforme lo establece el Art\u00edculo 1151 del C\u00f3digo Judicial, superada la etapa de saneamiento, se procedi\u00f3 a calificar la admisibilidad de las pruebas, en resoluci\u00f3n fechada 15 de octubre de 2013, donde se admiti\u00f3 la prueba identificada en el numeral 2 y no se admiti\u00f3 el resto de las pruebas aducidas por el apoderado judicial de la parte demandante (fs. 1757-1760).",
+                "Articulo": [
+                    "1151"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 10
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Al ingresar el negocio a esta sede judicial, se dispuso mediante resoluci\u00f3n de 18 de diciembre de 2012, el saneamiento del proceso conforme lo establece el Art\u00edculo 1151 del C\u00f3digo Judicial, superada la etapa de saneamiento, se procedi\u00f3 a calificar la admisibilidad de las pruebas, en resoluci\u00f3n fechada 15 de octubre de 2013, donde se admiti\u00f3 la prueba identificada en el numeral 2 y no se admiti\u00f3 el resto de las pruebas aducidas por el apoderado judicial de la parte demandante (fs. 1757-1760).",
+                "Articulo": [
+                    "1151"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 10
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Seguidamente, este Tribunal concedi\u00f3 a la parte recurrente el t\u00e9rmino de cinco (5) d\u00edas para que sustentara la apelaci\u00f3n incoada, y cinco d\u00edas (5) d\u00edas a la parte opositora para que presentara sus consideraciones (f.1784), t\u00e9rmino que fue aprovechado por la parte recurrente (ver fojas 1766 \u2013 1771). ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 11
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Corresponde en estos momentos, resolver el recurso impetrado, para lo cual nos hemos de permitir adelantar las siguientes consideraciones.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 12
+            },
+            {
+                "Tipo": 3,
+                "Contenido": "SUSTENTACI\u00d3N DE LA APELACI\u00d3N DE INMOBILIARIA CONSTRUCTEC, S.A. y AGUILERA FRANCESCHl, S.C.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 13
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "El licenciado Rodolfo Aguilera Franceschi, procurador Judicial de INMOBILIARIA CONSTRUCTEC,S.A., y AGUILERA FRANCESCHI, S.C., manifiesta que MIROSLAVA SUCRE SIMITI promovi\u00f3 ante el Juzgado Decimocuarto de Circuito de lo Civil una demanda en contra de INMOBILIARIA CONSTRUCTEC, S.A., mediante la cual reclam\u00f3 una cuant\u00eda superior al Mill\u00f3n de Balboas, con base en el hecho de que supuestamente INMOBILIARIA CONSTRUCTEC, S.A., era due\u00f1a de un proyecto y hab\u00eda hecho un movimiento de tierra que le hab\u00eda causado da\u00f1os y perjuicios en sus terrenos y en sus plantaciones a MIROSLAVA SUCRE SIMIT\u00cd, principalmente a unos supuestos \u00e1rboles maderables.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 14
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Se\u00f1ala que dentro del proceso seguido ante el Juzgado Decimocuarto de Circuito de lo Civil, INMOBILIARIA CONSTRUCTEC, S.A., por conducto de sus abogados, la firma forense Aguilera Franceschi, S. C., tuvo que realizar un esfuerzo probatorio y argumentativo que tom\u00f3 a\u00f1os, de 2008 a 2012, con el fin de demostrar que las fincas, el desarrollo inmobiliario y el movimiento de tierra no era de su propiedad, sino de BARCELONA HOLDINGS, INC.; MIROSLAVA SUCRE SIMITI no realiz\u00f3 ning\u00fan esfuerzo probatorio, ni mucho menos impuls\u00f3 el proceso, al punto de que en la sentencia del primera instancia la Juez Decimocuarta de Circuito Civil expuso: \u201cLa demandante no ha podido siquiera individualizar el terreno colindante a propiedad, desde el cual se produjeron los supuestos hechos da\u00f1osos \u2026\u201d.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 15
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Expone que la demanda ordinaria promovida por MIROSLAVA SUCRE SIMITI, deterior\u00f3 la imagen del proyecto inmobiliario y la percepci\u00f3n que la comunidad ten\u00eda de INMOBILIARIA CONSTRUCTEC, S.A. como una empresa de corretaje de bienes ra\u00edces seria y responsable, en el fondo era un reclamo fr\u00edvolo sin sustento f\u00e1ctico, que \u00fanicamente ten\u00eda como objetivos amedrentar a INMOBILIARIA CONSTRUCTEC, S.A., y paralizar las ventas de casas del proyecto, objetivos que se cumplieron a cabalidad. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 16
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Afirma que conscientes de que la demanda planteada por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC, S.A. era abusiva, el Juzgado Decimocuarto de Circuito Civil procedi\u00f3 a dictar sentencia en contra de la reclamante, MIROSLAVA SUCRE SIMIT\u00cd y la conden\u00f3 en costas ejemplares de B/. 88,750.00.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 17
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Expone que plante\u00f3 la demanda ordinaria en contra de MIROSLAVA SUCRE SIMIT\u00cd, la cual fue resuelta mediante Sentencia N\u00ba 119 de 9 de diciembre de 2011, negando algunas de las pretensiones de la demanda, bajo el argumento de que faltaban pruebas.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 18
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Se\u00f1ala que en la actualidad consta en el presente proceso copias autenticadas de todo el proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd en contra de INMOBILIARIA CONSTRUCTEC, S.A., en el cual consta la condena en costas en contra de MIROSLAVA SUCRE SIMIT\u00cd y a favor de INMOBILIARIA CONSTRUCTEC, S.A., por B/. 88,750.00; as\u00ed como que el proceso culmin\u00f3 y que dentro del mismo no existe un pago de dichas costas o una gesti\u00f3n de ejecuci\u00f3n de la sentencia.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 19
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "En ese mismo orden de ideas, manifiesta que aporto como prueba para esta instancia, copia autenticada de la Sentencia N\u00ba 13 de 18 de marzo de 2010, dictada por el Juzgado Decimocuarto de Circuito proferida en contra de MIROSLAVA SUCRE SIMITI, y de la resoluci\u00f3n que declar\u00f3 desierta la apelaci\u00f3n contra esta \u00faltima sentencia.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 20
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "En tal sentido argumenta que como los hechos y pretensiones principales de la demanda corregida que dio inicio al presente proceso tienen su fundamento en el proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC S.A., ante el Juzgado Decimocuarto de Circuito de lo Civil y teniendo en cuenta que, finalmente, copia autentica de dicho proceso ya consta en autos, concluye, con razonada l\u00f3gica, que los hechos de la demanda se han acreditado y por tanto, debe concederse la pretensi\u00f3n principal, que consiste en que se declare que MIROSLAVA SUCRE SIMIT\u00cd est\u00e1 obligada a pagar la suma de B/. 88,750.00 a INMOBILIARIA CONSTRUCTEC, S.A., o subsidiariamente a AGUILERA FRANCESCHl, S.C., en conceptos de costas. Agrega que de conformidad con lo dispuesto en el art\u00edculo 1614 del C\u00f3digo Judicial, la copia autenticada de la sentencia dictada por el Juzgado Decimocuarto de Circuito Civil aportada en segunda instancia tiene la fuerza de un recaudo ejecutivo, por tanto, es de la opini\u00f3n que procede conceder las declaraciones y condenas principales pedidas en la demanda corregida.",
+                "Articulo": [
+                    "1614"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 21
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "En tal sentido argumenta que como los hechos y pretensiones principales de la demanda corregida que dio inicio al presente proceso tienen su fundamento en el proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC S.A., ante el Juzgado Decimocuarto de Circuito de lo Civil y teniendo en cuenta que, finalmente, copia autentica de dicho proceso ya consta en autos, concluye, con razonada l\u00f3gica, que los hechos de la demanda se han acreditado y por tanto, debe concederse la pretensi\u00f3n principal, que consiste en que se declare que MIROSLAVA SUCRE SIMIT\u00cd est\u00e1 obligada a pagar la suma de B/. 88,750.00 a INMOBILIARIA CONSTRUCTEC, S.A., o subsidiariamente a AGUILERA FRANCESCHl, S.C., en conceptos de costas. Agrega que de conformidad con lo dispuesto en el art\u00edculo 1614 del C\u00f3digo Judicial, la copia autenticada de la sentencia dictada por el Juzgado Decimocuarto de Circuito Civil aportada en segunda instancia tiene la fuerza de un recaudo ejecutivo, por tanto, es de la opini\u00f3n que procede conceder las declaraciones y condenas principales pedidas en la demanda corregida.",
+                "Articulo": [
+                    "1614"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 21
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Estima la parte recurrente que el obst\u00e1culo que impidi\u00f3 que el Juzgado A quo fallase a su favor, ya no existe, ha sido salvado, con la copia de la sentencia firme y ejecutoriada favorable a INMOBILIARIA CONSTRUCTEC, S.A., que fija las costas en US$ 55, 750.00, por lo cual, considera se impone un fallo que revoque la sentencia impugnada y en su lugar, se conceda lo pedido en la demanda corregida, y se condene a la parte demandada al pago de costas y gatos del proceso. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 22
+            },
+            {
+                "Tipo": 3,
+                "Contenido": "CRITERIO DEL TRIBUNAL",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 23
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "De acuerdo con las constancias del proceso, INMOBILIARIA CONSTRUCTEC, S.A. y AGUILERA FRANCESCHl, S.C., promovieron proceso ordinario en contra de MIROSLAVA SUCRE SIMIT\u00cd, a fin de que se emitan las siguientes declaraciones y condenas: ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 24
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "\u201cQue MIROSLAVA SUCRE SIMIT\u00cd promovi\u00f3 un proceso ordinario de mayor cuant\u00eda, por una suma superior a Un Mill\u00f3n de Balboas (B/. 1,000,000.00) en contra de INMOBILIARIA CONSTRUCTEC, S.A., ante el Juzgado Decimocuarto de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, el cual fue fallado en primera instancia en contra de MIROSLAVA SUCRE SIMITI, siendo condenada MIROSLAVA SUCRE SIMIT\u00cd a pagar la suma de OCHENTA Y OCHO MIL SETECIENTOS CINCUENTA BALBOAS (B/. 88,750.00) a favor de la parte demandada en aquel proceso, INMOBILIARIA CONSTRUCTEC, S.A.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 25
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "Que MIROSLAVA SUCRE SIMIT\u00cd est\u00e1 obligada a pagar a INMOBILIARIA CONSTRUCTEC, S.A., las costas y gastos del proceso ordinario de mayor cuant\u00eda que MIROSLAVA SUCRE SIMIT\u00cd promovi\u00f3 por una suma superior a UN MILL\u00d3N DE BALBOAS (B/. 1,000,000.00) en contra de INMOBILIARIA CONSTRUCTEC, S.A., ante el Juzgado Decimocuarto de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, el cual fue fallado en primera instancia en contra de MIROSLAVA SUCRE SIMIT\u00cd.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 26
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "Que se condene a MIROSLAVA SUCRE SIMIT\u00cd a pagar la suma de OCHENTA Y OCHO MIL SETECIENTOS CINCUENTA BALBOAS (B/. 88, 750.00) a favor de INMOBILIARIA CONSTRUCTEC, S.A., en concepto de costas del proceso ordinario referido en la pretensi\u00f3n, 1-anterior, m\u00e1s los gastos del proceso referido, m\u00e1s intereses costas y gastos del presente proceso.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 27
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "De manera subsidiaria, para el evento de que no se concedan las anteriores pretensiones que se condene a MIROSLAVA SUCRE SIMIT\u00cd a pagar a la firma AGUILERA FRANCESCHl, S.C., la cual realiz\u00f3 el trabajo en derecho en el proceso descrito en la pretensi\u00f3n 1- anterior, las costas y los gastos del proceso referido en el numeral 1- anterior, m\u00e1s intereses costas y gastos del presente proceso. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 28
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "Que MIROSLAVA SUCRE SIMITI promovi\u00f3 una denuncia penal y luego una querella penal ante la Personer\u00eda Municipal de Arraij\u00e1n contra INMOBILIARIA CONSTRUCTEC, S.A., por supuesto delito contra el patrimonio econ\u00f3mico, espec\u00edficamente por los delitos de usurpaci\u00f3n y da\u00f1o de un inmueble de su propiedad.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 29
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "Que la citada querella penal fue planteada de manera negligente por parte de MIROSLAVA SUCRE SIMITI, con lo cual, caus\u00f3 da\u00f1os a INMOBILIARIA CONSTRUCTEC, S.A., los cuales la se\u00f1ora SUCRE SIMIT\u00cd est\u00e1 obligada a indemnizar.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 30
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "Que MIROSLAVA SUCRE SIMITI est\u00e1 obligada a indemnizar las costas y gastos en que incurri\u00f3 INMOBILIARIA CONSTRUCTEC, S.A., en su defensa dentro del proceso penal citado en el numeral 5- anterior.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 31
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "Que en caso de oposici\u00f3n MIROSLAVA SUCRE SIMITI est\u00e1 obligada a pagar intereses, costas y gastos del presente proceso.\u201d",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 32
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "La demandada MIROSLAVA SUCRE SIMITI contest\u00f3 la demanda ordinaria corregida oportunamente mediante memorial visible a fojas 244 a 247 del cuaderno.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 33
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Luego de cumplidas las fases del proceso, el Juzgado Tercero de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, resolvi\u00f3 la demanda por medio de la Sentencia N\u00ba 119 de fecha 9 de diciembre de 2011, declarando probada parcialmente la pretensi\u00f3n \u201c1\u201d de la demanda, en consecuencia, declaro \u201cQue MIROSLAVA SUCRE SIMITI promovi\u00f3 un proceso ordinario de mayor cuant\u00eda, por una suma superior a Un Mill\u00f3n de Balboas (B/. 1,000,000.00) en contra de INMONILIARIA CONSTRUCTEC, S.A., ante el Juzgado Decimocuarto de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, el cual fue fallado en primera instancia\u201d; neg\u00f3 el resto de las declaraciones solicitadas en la demanda y condeno la suma de TRECE MIL CIENTO VEINTICINCO BALBOAS (B/. 13,125,00) en costas en contra de la parte vencida.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 34
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "El recurso vertical que nos ocupa resulta ser interpuesto \u00fanicamente por la parte demandante INMOBILIARIA CONSTRUCTEC, S.A. y AGUILERA FRANCESCHI, S.C.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 35
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Como vemos, la disconformidad de la parte demandante INMOBILIARIA CONSTRUCTEC, S.A. y AGUILERA FRANCESCHl, S.C., con la sentencia impugnada radica en que el Juez a quo neg\u00f3 algunas de las pretensiones de la demanda ordinaria corregida promovida en contra de MIROSLAVA SUCRE SIMIT\u00cd, bajo el argumento de que faltaban pruebas.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 36
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Estima la parte recurrente, que tal argumento ha sido superado, puesto que incorpor\u00f3 como prueba para esta instancia, copia autenticada de la Sentencia N\u00ba 13 de 18 de marzo de 2010, dictada por el Juzgado Decimocuarto de Circuito Civil dentro del proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC, S.A., debidamente ejecutoriada (ver fojas 1744-1752).",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 37
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Adem\u00e1s, considera que la incorporaci\u00f3n al presente proceso ordinario de la prueba de informe solicitada al Juzgado Decimocuarto de Circuito del Primer Circuito Judicial, Ramo Civil, consistente en copias autenticadas del proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC, S.A., agregadas despu\u00e9s de emitida la sentencia impugnada, respalda sus planteamientos.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 38
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "En primer lugar, una lectura minuciosa del libelo de demanda corregida (fs. 30-34), y del libelo de sustentaci\u00f3n de la apelaci\u00f3n (fs. 1766 \u2013 1771), se infiere que en opini\u00f3n de INMOBILIARIA CONSTRUCTEC, S.A., y AGUILERA FRANCESCHI, S. C., en el presente caso logr\u00f3 probar los hechos en que se fundamenta su pretensi\u00f3n relacionados con el proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd en su contra (Declaraciones primera y segunda).",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 39
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Con respecto a este punto controvertido el Juez A quo se\u00f1al\u00f3: ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 40
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "\u201cPor otra parte, para que sea procedente el reconocimiento de las declaraciones segunda, tercera y cuarta, como lo es cobro de costas fijadas en un proceso, es indispensable que el proceso cuyas costas es reclamada se encuentre finalizado y con una conclusi\u00f3n favorable al demandante, sin embargo, este requisito indispensable no se cumple en el presente negocio, ya que de las pruebas aportadas se desprende claramente que el proceso se encuentra en grado de apelaci\u00f3n ante el tribunal superior, por lo que no media una sentencia firme y ejecutoriada.\u201d",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 41
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Este Tribunal Colegiado estima que las copias autenticadas del proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC, S.A., visibles de fojas 1018 a 1718 del cuaderno, logran acreditar los hechos PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO, y SEXTO del libelo de demanda corregida.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 42
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "En otras palabras, en el presente proceso ordinario qued\u00f3 demostrado que la demandada MIROSLAVA SUCRE SIMITI promovi\u00f3 un proceso ordinario de mayor cuant\u00eda en contra de INMOBILIARIA CONSTRUCTEC, S.A, por la suma de UN MILL\u00d3N QUINIENTOS MIL BALBOAS CON 00 (B/. 1,500,000.00), el cual se tramit\u00f3 en el Juzgado Decimocuarto de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, y termin\u00f3 con la emisi\u00f3n de la Sentencia N\u00ba 13 de 18 de marzo de 2010, en contra de la actora MIROSLAVA SUCRE SIMIT\u00cd, imponi\u00e9ndosele a esta una condena por la suma de B/. 88,750.00 en concepto de constarse a favor de la parte demandada en aquel proceso.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 43
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Sumado a lo expuesto, consta a fojas 1744 a 1752 del cuaderno, copia autenticada de la Sentencia N\u00ba 13 de 18 de marzo de 2010, proferida por el Juzgado Decimocuarto de Circuito Civil del Primer Circuito Judicial de Panam\u00e1, dentro del proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC, S.A., al final de la misma se observa una certificaci\u00f3n secretarial de fecha 24 de abril de 2012, en el cual se hace constar que la misma \u201cse encuentra ejecutoriada y no ha sido objeto de ejecuci\u00f3n en la forma prevista que establece el art\u00edculo 1038 del C\u00f3digo Judicial\u201d.",
+                "Articulo": [
+                    "1038"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 44
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Sumado a lo expuesto, consta a fojas 1744 a 1752 del cuaderno, copia autenticada de la Sentencia N\u00ba 13 de 18 de marzo de 2010, proferida por el Juzgado Decimocuarto de Circuito Civil del Primer Circuito Judicial de Panam\u00e1, dentro del proceso ordinario promovido por MIROSLAVA SUCRE SIMIT\u00cd contra INMOBILIARIA CONSTRUCTEC, S.A., al final de la misma se observa una certificaci\u00f3n secretarial de fecha 24 de abril de 2012, en el cual se hace constar que la misma \u201cse encuentra ejecutoriada y no ha sido objeto de ejecuci\u00f3n en la forma prevista que establece el art\u00edculo 1038 del C\u00f3digo Judicial\u201d.",
+                "Articulo": [
+                    "1038"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 44
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Esta Colegiatura considera que con esta prueba se acredita parcialmente la pretensi\u00f3n de INMOBILIARIA CONSTRUCTEC, S.A., espec\u00edficamente, nos referimos a las declaraciones primera y segunda solicitadas en el libelo de demanda corregida, toda vez que en Sentencia N\u00ba 13 de 18 de marzo de 2010, se lee:",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 45
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "\u201cEn m\u00e9rito de lo expuesto, quien suscribe la JUEZ DECIMOCUARTA DEL CIRCUITO DE LO CIVIL DEL PRIMER CIRCUITO JUDICIAL DE PANAM\u00c1, administrando justicia en nombre de la Rep\u00fablica y por autoridad de la Ley, RESUELVE:",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 46
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "DECLARAR PROBADA LA EXCEPCI\u00d3N DE FALTA DE LEGITIMACI\u00d3N EN LA CAUSA EN SU VERTIENTE PASIVA y en consecuencia NIEGA LA PRETENSI\u00d3N ejercida por MIROSLAVA SUCRE SIMIT\u00cd, dentro del proceso ordinario que la misma le sigue a INMOBILIARIA CONSTRUCTEC, S.A.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 47
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "Se condena en costas a la parte demandante, mismas que se calculan en la suma de OCHENTA Y OCHO MIL SETECIENTOS CINCUENTA BALBOAS CON 00/100 (B/. 88,750.00), en favor de la parte demandada\u201d",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 48
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Siendo esto as\u00ed, lo procedente es modificar la sentencia en cuanto a estos extremos. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 49
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Respecto a los otros argumentos esgrimidos en el libelo de sustentaci\u00f3n, relacionados a que la demanda ordinaria promovida por MIROSLAVA SUCRE SIMITI, deterior\u00f3 la imagen del proyecto inmobiliario y la percepci\u00f3n que la comunidad ten\u00eda de la misma, deben descartarse toda vez que la parte recurrente no incorporo elementos id\u00f3neos a fin de acreditar este extremo alegado.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 50
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "En cuanto al resto de las declaraciones del libelo de demanda corregida, debe manifestar este Tribunal Colegiado que comparte el criterio esbozado por el Juez a quo en la sentencia impugnada, en cuanto a que \u00e9stas no podr\u00e1n ser reconocidas, en virtud de la ausencia de elementos probatorios.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 51
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Por lo expuesto, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL, administrando justicia en nombre de la Rep\u00fablica y por autoridad de la Ley, en el Proceso Ordinario propuesto por INMOBILIARIA CONSTRUCTEC, S.A. y AGUILERA FRANCESCHl, S.C., en contra de MIROSLAVA SUCRE SIMIT\u00cd, MODIFICA la Sentencia N\u00ba 119 de fecha 9 de diciembre de 2011, proferida por el Juzgado Tercero de Circuito Civil del Primer Circuito Judicial de Panam\u00e1, en el sentido de:",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 52
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "PRIMERO: Declara probada parcialmente LAS PRETENSIONES de la actora INMOBILIARIA CONSTRUCTEC, S.A. y en consecuencia, ACCEDE a la declaraci\u00f3n primera y parcialmente a la segunda:",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 53
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "1. Que MIROSLAVA SUCRE SIMIT\u00cd promovi\u00f3 un proceso ordinario de mayor cuant\u00eda, por una suma superior a Un Mill\u00f3n de Balboas (B/. 1,000,000.00) en contra de INMOBILIARIA CONSTRUCTEC, S.A., ante el Juzgado Decimocuarto de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1, el cual fue fallado en primera instancia en contra de MIROSLAVA SUCRE SIMIT\u00cd, siendo condenada MIROSLAVA SUCRE SIMIT\u00cd a pagar la suma de OCHENTA Y OCHO MIL SETECIENTOS CINCUENTA BALBOAS (B/. 88,750.00) a favor de la parte demandada en aquel proceso, INMOBILIARIA CONSTRUCTEC, S.A.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 54
+            },
+            {
+                "Tipo": 2,
+                "Contenido": "2. QUE MIROSLAVA SUCRE SIMIT\u00cd, est\u00e1 obligada a pagar a INMOBILIARIA CONSTRUCTEC, S.A., las costas del proceso ordinario de mayor cuant\u00eda que MIROSLAVA SUCRE SIMIT\u00cd promovi\u00f3 por una suma superior a UN MILL\u00d3N DE BALBOAS (B/.1,000,000.00) en contra de INMOBILIARIA CONSTRUCTEC, S.A.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 55
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Se CONFIRMA en todo lo dem\u00e1s.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 56
+            },
+            {
+                "Tipo": 1,
+                "Contenido": "Sin imposici\u00f3n de costas en segunda instancia.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 57
+            }
+        ],
+        "Notificados": [
+            {
+                "Titulo": "0",
+                "Nombre": "MAG. LILIANNE M. DUCRUET N.",
+                "Numero": "59"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "MAG. JUAN CARLOS TATIS - SUPLENTE ESPECIAL",
+                "Numero": "60"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "MAG. CARLOS R. TRUJILLO SAGEL",
+                "Numero": "61"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "LICDO. JOS\u00c9 J. KARAMA\u00d1ITES \u2013 SECRETARIO",
+                "Numero": "62"
+            }
+        ]
     }
   ]
 }
