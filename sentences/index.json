@@ -31,9 +31,9 @@
   ],
   "Cuerpo":[
     {
-        "Tipo":"Head_1",
-        "Contenido":"VISTOS",
-        "Numero":0
+      "Tipo":"Head_1",
+      "Contenido":"VISTOS",
+      "Numero":0
     },
     {
       "Tipo":"Body_1",
@@ -260,26 +260,26 @@
       "Titulo":"MAGISTRADO",
       "Nombre":"LILIANNE M. DUCRET N.",
       "Numero": 1
-        },
-      {
-        "Titulo":"MAGISTRADO",
-        "Nombre":"NELSON H RUIZ C.",
-        "Numero": 2
-        },
-      {
-        "Titulo":"MAGISTRADO",
-        "Nombre":"CARLOS RAÚL TRUJILLO SAGEL",
-        "Numero": 3
-        },
-          {
-          "Titulo":"Secretario",
-          "Nombre":"",
-          "Numero": 4
-        }
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"NELSON H RUIZ C.",
+      "Numero": 2
+    },
+    {
+      "Titulo":"MAGISTRADO",
+      "Nombre":"CARLOS RAÚL TRUJILLO SAGEL",
+      "Numero": 3
+    },
+    {
+      "Titulo":"Secretario",
+      "Nombre":"",
+      "Numero": 4
+      }
     ]
   },
-{
-  "Nombre": "20180820_FISCAL_SEPTIMA_ANTICORRUPCIÓN_vs_JUEZ SÉPTIMO_DE_CIRCUITO_AMPARO_1",
+  {
+  "Nombre": "20180820_FISCAL_SEPTIMA_ANTICORRUPCIÓN_vs_JUEZ SÉPTIMO_DE_CIRCUITO_AMPARO_1",
   "Entrada": "18AMP1.064",
   "Tipo":"Amparo de Garantías Constitucionales",
   "Fecha": "20180820",
@@ -444,22 +444,22 @@
     },
     {
       "Tipo":"Body_2",
-      "Contenido":"1.	Mención expresa de la orden impugnada;",
+      "Contenido":"1. Mención expresa de la orden impugnada;",
       "Numero":7
     },
     {
       "Tipo":"Body_2",
-      "Contenido":"2.	Nombre del servidor público, funcionario, institución o corporación que la impartió; ",
+      "Contenido":"2. Nombre del servidor público, funcionario, institución o corporación que la impartió; ",
       "Numero":8
     },
     {
       "Tipo":"Body_2",
-      "Contenido":"3.	Los hechos en que funda su pretensión; y ",
+      "Contenido":"3. Los hechos en que funda su pretensión; y ",
       "Numero":9
     },
     {
       "Tipo":"Body_2",
-      "Contenido":"4.	Las garantías fundamentales que se estimen infringidas y el concepto en que lo han sido. ",
+      "Contenido":"4. Las garantías fundamentales que se estimen infringidas y el concepto en que lo han sido. ",
       "Numero":10
     },
     {
@@ -492,8 +492,6 @@
       "Contenido":"“… Advierte la Corte, además, que el accionante pretende a través de este medio extraordinario de impugnación debatir cuestiones de legalidad, lo que no es apropiado. Sobre ello, el Pleno en reiteradas ocasiones ha manifestado que la acción de amparo de garantías constitucionales no es la vía para debatir cuestiones de carácter legal acerca de las decisiones del funcionario judicial, pues ello traerla como consecuencia desvirtuar el propósito de esta acción autónoma y extraordinaria que es la de tutelar derechos y garantías consagrados en la Constitución Nacional…”",
       "Numero":16
     },
-
-
     {
       "Tipo":"Body_1",
       "Contenido":"Sin ánimo de entrar en mayores consideraciones, puesto que está vedado a los tribunales de amparo, en etapa de admisibilidad emitir opiniones, respecto al fondo de la pretensión constitucional; empero, según se desprende de la misma, lo que busca la amparista es que ésta instancia revise aspectos relacionados con la exclusión de la querella en el proceso penal. Aunado a lo anterior, observa ésta Judicatura que los cargos de violación endilgados se encuentran dirigidos a cuestionar la actuación del funcionario demandado quien, en todo caso, se encuentra facultado para tales propósitos.",
@@ -541,8 +539,8 @@
       "Nombre":"JOSÉ J. KARAMAÑITES SERETARIO",
       "Numero": 4
     }
-      ]
-    }
+  ]
+},
 {
   "Nombre": "20180822_ELVIS_ANEL_RODRIGUEZ_vs_JUEZ_PRIMERO_DE_CIRCUITO_DE_LO-PENAL__1",
   "Entrada": "18AMP1.290",
@@ -595,37 +593,37 @@
     },
     {
       "Tipo":"Body_2",
-      "Contenido":"1.	“En el acta de audiencia oral celebrada el 19 de abril de 2018, había sido aducido por parte nuestra como defensa técnica la comparencia de los testigos Dik Gilberto Rodríguez Alonso, Alcibiades Benitez Nuñez, Miguel Angel Rodríguez y Eloisa Pascual Chiru.",
+      "Contenido":"1. “En el acta de audiencia oral celebrada el 19 de abril de 2018, había sido aducido por parte nuestra como defensa técnica la comparencia de los testigos Dik Gilberto Rodríguez Alonso, Alcibiades Benitez Nuñez, Miguel Angel Rodríguez y Eloisa Pascual Chiru.",
       "Numero":4
     },
     {
       "Tipo":"Body_2",
-      "Contenido":"2.	Estas personas rindieron su testimonio tal como se había programado y peticionado por nosotros.",
+      "Contenido":"2. Estas personas rindieron su testimonio tal como se había programado y peticionado por nosotros.",
       "Numero":5
     },
     {
       "Tipo":"Body_2",
-      "Contenido":"3.	Luego que se surtiese el interrogatorio por nosotros como defensa técnica, el Ministerio Público, el Representante de la querella, y el abogado defenso del coimputado, el Juez Edgar Nateron Rodriguez, procedió a hacer un interrogatorio a los señores Dik Gilberto Rodríguez Alonso, Alcibiades Benitez Nuñez, Miguel Angel Rodriguez y Eloisa Pascual Chiru.",
+      "Contenido":"3. Luego que se surtiese el interrogatorio por nosotros como defensa técnica, el Ministerio Público, el Representante de la querella, y el abogado defenso del coimputado, el Juez Edgar Nateron Rodriguez, procedió a hacer un interrogatorio a los señores Dik Gilberto Rodríguez Alonso, Alcibiades Benitez Nuñez, Miguel Angel Rodriguez y Eloisa Pascual Chiru.",
       "Numero":6
     },
     {
       "Tipo":"Body_2",
-      "Contenido":"4.	Con su actuación, no solo vulnera y se aleja de su condición de Juez que debe mantener una conducta de imparcialidad e independencia, sino que incluso procede a emitir epítetos de amenaza contra dos de ellos, cuando los testigos se toman nerviosos ante sus palabras y titubean en su testimonio.",
+      "Contenido":"4. Con su actuación, no solo vulnera y se aleja de su condición de Juez que debe mantener una conducta de imparcialidad e independencia, sino que incluso procede a emitir epítetos de amenaza contra dos de ellos, cuando los testigos se toman nerviosos ante sus palabras y titubean en su testimonio.",
       "Numero":7
     },
     {
       "Tipo":"Body_2",
-      "Contenido":"5.	La separación de funciones, que se encuentra consignado en el artículo 5 del Código Procesal Penal, le priva al juez de hacer este tipo de interrogatorios, abrogándose la condición de las partes intervinientes.",
+      "Contenido":"5. La separación de funciones, que se encuentra consignado en el artículo 5 del Código Procesal Penal, le priva al juez de hacer este tipo de interrogatorios, abrogándose la condición de las partes intervinientes.",
       "Numero":8
     },
     {
       "Tipo":"Body_2",
-      "Contenido":"6.	Es sumamente reprochable la actuación del Juez en el acto de audiencia, ya que al actuar de esta manera provocó temor en los testigos, al interpelarlos de la manera que lo hizo,",
+      "Contenido":"6. Es sumamente reprochable la actuación del Juez en el acto de audiencia, ya que al actuar de esta manera provocó temor en los testigos, al interpelarlos de la manera que lo hizo,",
       "Numero":9
     },
     {
       "Tipo":"Body_2",
-      "Contenido":"7.	Incluso se esgrimieron epítetos de abrirles causa por un supuesto delito de Falso testimonio. Se trató de un acto bochornoso, en el cual la imparcialidad que debía mantener el Juez a lo largo de la audiencia se vulneró de manera flagrante.”",
+      "Contenido":"7. Incluso se esgrimieron epítetos de abrirles causa por un supuesto delito de Falso testimonio. Se trató de un acto bochornoso, en el cual la imparcialidad que debía mantener el Juez a lo largo de la audiencia se vulneró de manera flagrante.”",
       "Numero":10
     },
     {
