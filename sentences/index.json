@@ -1,6 +1,6 @@
 {
   "Sentencias": [
-    
+
   {
   "Nombre": "20180816_MANZINI_VS_JUEZ_DE_CIRCUITO_AMPARO_1_revMLC",
   "Entrada": "18AMP.304",
@@ -700,284 +700,100 @@
       "Numero": 4
     }
   ]
-},
-{
-  "Nombre": "20180822_ELVIS_ANEL_RODRIGUEZ_vs_JUEZ_PRIMERO_DE_CIRCUITO_DE_LO-PENAL__1_revMLC",
-  "Entrada": "18AMP1.317",
-  "Tipo":"Amparo de Garantías Constitucionales",
-  "Fecha": "20180822",
-  "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
-  "Articulos":"",
-  "Responsable":{
-    "Tipo":"Magistrado",
-    "Nombre":"LILIANNE M. DUCRUET N."
   },
-  "Partes":[
-    {
-      "Relevancia": "Demandante",
-      "Nombre": "FRANZ OLMEDO WEVER ZALDIVAR",
-      "Titulo": "",
-      "Tipo": "Persona Natural",
-      "Cedula":"",
-      "Domicilio":""
-    },
-    {
-      "Relevancia": "Demandado",
-      "Nombre": "SERGIO YORETT",
-      "Titulo":"FISCAL SEGUNDO DE DESCARGA DE PANAMÁ",
-      "Tipo": "FISCAL",
-      "Cedula":"",
-      "Domicilio":""
-    }
-  ],
-  "Cuerpo":[
-    {
-        "Tipo":"Head_1",
-        "Contenido":"VISTOS",
-        "Numero":0
-    },
-    {
-      "Tipo":"Body_1",
-      "Contenido":"Conoce el Primer Tribunal Superior la demanda de Amparo de Derechos Constitucionales presentada por FRANZ OLMEDO WEVER ZALDIVAR en contra del Fiscal Segundo de Circuito de Descarga de Panamá, en ocasión de haber dictado la Vista Fiscal Nº1277 de 16 de junio del 2017.",
-      "Numero":1
-    },
-    {
-      "Tipo":"Body_1",
-      "Contenido":"Corresponde seguidamente el pronunciamiento sobre la admisibilidad de la acción de amparo, para lo cual el Tribunal debe, en primer lugar verificar si la misma satisface las exigencias de los artículos 2615, 2616 y 2619 del Código Judicial. ",
-      "Numero":2
-    },
-    {
-      "Tipo":"Body_1",
-      "Contenido":"En esa dirección, se cumplieron con los requisitos mínimos exigidos por las disposiciones legales en comento, ya que se menciona el acto impugnado, el servidor público que la expidió, los hechos en que se funda la pretensión constitucional y las garantías fundamentales que estiman fueron infringidas. ",
-      "Numero":3
-    },
-    {
-      "Tipo":"Body_1",
-      "Contenido":"También se advierte que el apoderado del amparista acompañó copia autenticada de la Vista Penal No.1277 de 16 de junio de 2017, que contiene la orden atacada en esta acción, tal como lo exige el último párrafo del artículo 2619 del Código Judicial ",
-      "Numero":4
-    },
-    {
-      "Tipo":"Body_1",
-      "Contenido":"Así mismo se advierte que el amparo ha sido incoado por quien tiene interés en la revocación de la orden impugnada e igualmente se advierte que el amparo está dirigido contra el funcionario que dictó la orden atacada, con lo que se cumplen los presupuestos de legitimación activa y pasiva. ",
-      "Numero":5
-    },
-    {
-      "Tipo":"Body_1",
-      "Contenido":"Ahora bien, este Tribunal de Amparo debe advertir que en el presente caso el accionante no ha acreditado haber agotado los medios y trámites previstos en la ley para la impugnación de la orden objeto de este recurso, requisito indispensable para que pueda proceder el amparo, tal como lo exige el numeral 2 del artículo 2615 del Código Judicial. ",
-      "Numero":6
-    },
-    {
-      "Tipo":"Body_1",
-      "Contenido":"Según se desprende de la Vista Penal No.1277, de 16 de junio de 2017, la misma se expidió dentro de las sumarías seguidas al amparista y otros por la presunta comisión de un delito contra el patrimonio económico en perjuicio del Comité Olímpico de Panamá y fue expedida por la Fiscalía Segunda de Descarga del Primer Circuito Judicial de Panamá. ",
-      "Numero":7
-    },
-    {
-      "Tipo":"Body_1",
-      "Contenido":"Y sabido es que las actuaciones del Ministerio Público, conforme el artículo 1993 del Código Judicial, deben ser objetadas por las partes mediante incidente de controversia, el que será resuelto por el Tribunal competente. ",
-      "Numero":8
-    },
-    {
-      "Tipo":"Body_1",
-      "Contenido":"El criterio de que para poder promover un amparo contra una actuación del Ministerio Público se requiere haber agotado el incidente de controversia dispuesto en el artículo 1993 del Código Judicial, ha sido sostenido reiterada y consistentemente por el Pleno de la Corte Suprema de Justicia. A manera de ejemplo tenemos fallo de la Corte Suprema de Justicia, de fecha 18 de marzo de 2014, bajo la ponencia del Exmagistrado Harley J. Mitchell D., que en la parte pertinente dice así:",
-      "Numero":9
-    },
-    {
-      "Tipo":"Body_2",
-      "Contenido":"“Vemos, que la decisión impugnada del A-quo es la no admisión de la acción de garantía propuesta contra la vista Fiscal referida puesto que se estimó, que el accionante acusa otras actuaciones de la agente de instrucción en distintos momentos procesales durante la investigación, lo que consideró impreciso, además porque no refirió cuál fue el trámite o la norma que generó la infracción de la garantía del debido proceso. ",
-      "Numero":10
-    },
-    {
-      "Tipo":"Body_2",
-      "Contenido":"De otro modo observamos que el accionante en el recurso de apelación esgrimió, que se debe admitir esta acción constitucional porque la Fiscal demandada violó el debido proceso, toda vez que no citó personalmente a su poderdante para que rindiera declaración indagatoria; no valoró un escrito pruebas que presentó durante la investigación y tampoco consideró antes de emitir la Vista Fiscal, que el Juez Quinto de Circuito Penal del Primer Circuito Judicial estaba conociendo de un incidente de controversia formulado sobre pruebas.",
-      "Numero":11
-    },
-    {
-      "Tipo":"Body_2",
-      "Contenido":"Acotado lo anterior, debemos remitirnos a lo dispuesto en el artículo 1993 en concordancia con el 2616 del Código Judicial, atendiendo a que todas las actuaciones de los agentes del Ministerio Público podrán ser objetadas a través del incidente de controversia, motivo por el cual previo a la interposición de esta acción de garantía, deben agotarse los medios idóneos que brinda la ley para que proceda la admisibilidad de la acción...” (Corte Suprema de Justicia, Panamá, Harley J. Mitchell D. 18 de marzo de 2014, Amparo de Garantías Constitucionales. Resaltado es nuestro) ",
-      "Numero":12
-    },
-    {
-      "Tipo":"Body_1",
-      "Contenido":"En resumen, como quiera que no se acreditó que se hubieren agotado los medios o trámites previstos en la ley para enervar la orden atacada, este Tribunal considera la demanda indebidamente formulada y manifiestamente improcedente; y, en consecuencia, estima no debe admitirla, en base a lo preceptuado en el artículo 2620 del Código Judicial, a contrario sensu. ",
-      "Numero":13
-    },
-    {
-      "Tipo":"Body_1",
-      "Contenido":"Por lo anteriormente expuesto, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL, administrando justicia en nombre de la República y por la autoridad de la Ley, NO ADMITE, la demanda de Amparo de Derechos Constitucionales presentada por FRANZ OLMEDO WEVER ZALDIVAR en contra del Fiscal Segundo de Descarga del Circuito de Panamá, en ocasión de haber dictado la Vista Fiscal Nº1277 de 16 de junio de 2017",
-      "Numero":14
-    },
-    {
-      "Tipo":"Body_1",
-      "Contenido":"Téngase al Doctor José Rigoberto Acevedo, como apoderado judicial del pretensor en los términos conferidos en el poder ",
-      "Numero":15
-    },
-    {
-      "Tipo":"Body_1",
-      "Contenido":"NOTIFÍQUESE.",
-      "Numero":16
-    }
-  ],
-  "Notificados": [
-    {
-      "Titulo":"MAGISTRADO",
-      "Nombre":"LILIANNE M. DUCRET N.",
-      "Numero": 1
-      },
-    {
-      "Titulo":"MAGISTRADO",
-      "Nombre":"NELSON H RUIZ C.",
-      "Numero": 2
-      },
-    {
-      "Titulo":"MAGISTRADO",
-      "Nombre":"CARLOS R. TRUJULLO SAGEL",
-      "Numero": 3
-      },
-    {
-      "Titulo":"Secretario",
-      "Nombre":"JOSÉ J. KARAMAÑITES SERETARIO",
-      "Numero": 4
-        }
-      ]
-    },
   {
-    "Nombre": "2_ELVIS_ANEL_RODRIGUEZ_vs_JUEZ_PRIMERO_DE_CIRCUITO_DE_LO-PENAL__1_revMLC",
-    "Entrada": "18AMP1.317",
-    "Tipo":"Amparo de Garantías Constitucionales",
-    "Fecha": "20180822",
-    "Institucion": "PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL",
-    "Articulos":"",
-    "Responsable":{
-      "Tipo":"Magistrado",
-      "Nombre":"LILIANNE M. DUCRUET N."
-    },
-    "Partes":[
-      {
-        "Relevancia": "Demandante",
-        "Nombre": "FRANZ OLMEDO WEVER ZALDIVAR",
-        "Titulo": "",
-        "Tipo": "Persona Natural",
-        "Cedula":"",
-        "Domicilio":""
+      "Nombre": "20180808_ARRENDADORA_INTERNACIONAL_vs_JUZGADO_SEPTIMO_PRIMER_CIRCUITO_JUDICIAL_1_rev",
+      "Entrada": "18AMP1.293",
+      "Tipo": "AMPARO DE GARANT\u00cdAS CONSTITUCIONALES",
+      "Fecha": "20180808",
+      "Institucion": "PRIMER TRIBUNAL SUPERIOR ",
+      "Articulo": "",
+      "Responsables": {
+          "Tipo": "PONENTE",
+          "Nombre": " MAG. CARLOS RA\u00daL TRUJILLO SAGEL"
       },
-      {
-        "Relevancia": "Demandado",
-        "Nombre": "SERGIO YORETT",
-        "Titulo":"FISCAL SEGUNDO DE DESCARGA DE PANAMÁ",
-        "Tipo": "FISCAL",
-        "Cedula":"",
-        "Domicilio":""
-      }
-    ],
-    "Cuerpo":[
-      {
-          "Tipo":"Head_1",
-          "Contenido":"VISTOS",
-          "Numero":0
-      },
-      {
-        "Tipo":"Body_1",
-        "Contenido":"Conoce el Primer Tribunal Superior la demanda de Amparo de Derechos Constitucionales presentada por FRANZ OLMEDO WEVER ZALDIVAR en contra del Fiscal Segundo de Circuito de Descarga de Panamá, en ocasión de haber dictado la Vista Fiscal Nº1277 de 16 de junio del 2017.",
-        "Numero":1
-      },
-      {
-        "Tipo":"Body_1",
-        "Contenido":"Corresponde seguidamente el pronunciamiento sobre la admisibilidad de la acción de amparo, para lo cual el Tribunal debe, en primer lugar verificar si la misma satisface las exigencias de los artículos 2615, 2616 y 2619 del Código Judicial. ",
-        "Numero":2
-      },
-      {
-        "Tipo":"Body_1",
-        "Contenido":"En esa dirección, se cumplieron con los requisitos mínimos exigidos por las disposiciones legales en comento, ya que se menciona el acto impugnado, el servidor público que la expidió, los hechos en que se funda la pretensión constitucional y las garantías fundamentales que estiman fueron infringidas. ",
-        "Numero":3
-      },
-      {
-        "Tipo":"Body_1",
-        "Contenido":"También se advierte que el apoderado del amparista acompañó copia autenticada de la Vista Penal No.1277 de 16 de junio de 2017, que contiene la orden atacada en esta acción, tal como lo exige el último párrafo del artículo 2619 del Código Judicial ",
-        "Numero":4
-      },
-      {
-        "Tipo":"Body_1",
-        "Contenido":"Así mismo se advierte que el amparo ha sido incoado por quien tiene interés en la revocación de la orden impugnada e igualmente se advierte que el amparo está dirigido contra el funcionario que dictó la orden atacada, con lo que se cumplen los presupuestos de legitimación activa y pasiva. ",
-        "Numero":5
-      },
-      {
-        "Tipo":"Body_1",
-        "Contenido":"Ahora bien, este Tribunal de Amparo debe advertir que en el presente caso el accionante no ha acreditado haber agotado los medios y trámites previstos en la ley para la impugnación de la orden objeto de este recurso, requisito indispensable para que pueda proceder el amparo, tal como lo exige el numeral 2 del artículo 2615 del Código Judicial. ",
-        "Numero":6
-      },
-      {
-        "Tipo":"Body_1",
-        "Contenido":"Según se desprende de la Vista Penal No.1277, de 16 de junio de 2017, la misma se expidió dentro de las sumarías seguidas al amparista y otros por la presunta comisión de un delito contra el patrimonio económico en perjuicio del Comité Olímpico de Panamá y fue expedida por la Fiscalía Segunda de Descarga del Primer Circuito Judicial de Panamá. ",
-        "Numero":7
-      },
-      {
-        "Tipo":"Body_1",
-        "Contenido":"Y sabido es que las actuaciones del Ministerio Público, conforme el artículo 1993 del Código Judicial, deben ser objetadas por las partes mediante incidente de controversia, el que será resuelto por el Tribunal competente. ",
-        "Numero":8
-      },
-      {
-        "Tipo":"Body_1",
-        "Contenido":"El criterio de que para poder promover un amparo contra una actuación del Ministerio Público se requiere haber agotado el incidente de controversia dispuesto en el artículo 1993 del Código Judicial, ha sido sostenido reiterada y consistentemente por el Pleno de la Corte Suprema de Justicia. A manera de ejemplo tenemos fallo de la Corte Suprema de Justicia, de fecha 18 de marzo de 2014, bajo la ponencia del Exmagistrado Harley J. Mitchell D., que en la parte pertinente dice así:",
-        "Numero":9
-      },
-      {
-        "Tipo":"Body_2",
-        "Contenido":"“Vemos, que la decisión impugnada del A-quo es la no admisión de la acción de garantía propuesta contra la vista Fiscal referida puesto que se estimó, que el accionante acusa otras actuaciones de la agente de instrucción en distintos momentos procesales durante la investigación, lo que consideró impreciso, además porque no refirió cuál fue el trámite o la norma que generó la infracción de la garantía del debido proceso. ",
-        "Numero":10
-      },
-      {
-        "Tipo":"Body_2",
-        "Contenido":"De otro modo observamos que el accionante en el recurso de apelación esgrimió, que se debe admitir esta acción constitucional porque la Fiscal demandada violó el debido proceso, toda vez que no citó personalmente a su poderdante para que rindiera declaración indagatoria; no valoró un escrito pruebas que presentó durante la investigación y tampoco consideró antes de emitir la Vista Fiscal, que el Juez Quinto de Circuito Penal del Primer Circuito Judicial estaba conociendo de un incidente de controversia formulado sobre pruebas.",
-        "Numero":11
-      },
-      {
-        "Tipo":"Body_2",
-        "Contenido":"Acotado lo anterior, debemos remitirnos a lo dispuesto en el artículo 1993 en concordancia con el 2616 del Código Judicial, atendiendo a que todas las actuaciones de los agentes del Ministerio Público podrán ser objetadas a través del incidente de controversia, motivo por el cual previo a la interposición de esta acción de garantía, deben agotarse los medios idóneos que brinda la ley para que proceda la admisibilidad de la acción...” (Corte Suprema de Justicia, Panamá, Harley J. Mitchell D. 18 de marzo de 2014, Amparo de Garantías Constitucionales. Resaltado es nuestro) ",
-        "Numero":12
-      },
-      {
-        "Tipo":"Body_1",
-        "Contenido":"En resumen, como quiera que no se acreditó que se hubieren agotado los medios o trámites previstos en la ley para enervar la orden atacada, este Tribunal considera la demanda indebidamente formulada y manifiestamente improcedente; y, en consecuencia, estima no debe admitirla, en base a lo preceptuado en el artículo 2620 del Código Judicial, a contrario sensu. ",
-        "Numero":13
-      },
-      {
-        "Tipo":"Body_1",
-        "Contenido":"Por lo anteriormente expuesto, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL, administrando justicia en nombre de la República y por la autoridad de la Ley, NO ADMITE, la demanda de Amparo de Derechos Constitucionales presentada por FRANZ OLMEDO WEVER ZALDIVAR en contra del Fiscal Segundo de Descarga del Circuito de Panamá, en ocasión de haber dictado la Vista Fiscal Nº1277 de 16 de junio de 2017",
-        "Numero":14
-      },
-      {
-        "Tipo":"Body_1",
-        "Contenido":"Téngase al Doctor José Rigoberto Acevedo, como apoderado judicial del pretensor en los términos conferidos en el poder ",
-        "Numero":15
-      },
-      {
-        "Tipo":"Body_1",
-        "Contenido":"NOTIFÍQUESE.",
-        "Numero":16
-      }
-    ],
-    "Notificados": [
-      {
-        "Titulo":"MAGISTRADO",
-        "Nombre":"LILIANNE M. DUCRET N.",
-        "Numero": 1
-        },
-      {
-        "Titulo":"MAGISTRADO",
-        "Nombre":"NELSON H RUIZ C.",
-        "Numero": 2
-        },
-      {
-        "Titulo":"MAGISTRADO",
-        "Nombre":"CARLOS R. TRUJULLO SAGEL",
-        "Numero": 3
-        },
-      {
-        "Titulo":"Secretario",
-        "Nombre":"JOSÉ J. KARAMAÑITES SERETARIO",
-        "Numero": 4
+      "Partes": [
+          {
+              "Relevancia": "Demandante",
+              "Nombre": "ARRENDADORA INTERNACIONAL, S.A.",
+              "Titulo": "",
+              "Tipo": "",
+              "Cedula": "",
+              "Domicilio": ""
+          },
+          {
+              "Relevancia": "Demandado",
+              "Nombre": "JUZGADO SEPTIMO DE LO CIVIL DEL PRIMER CIRCUITO JUDICIAL DE PANAM\u00c1",
+              "Titulo": "",
+              "Tipo": "",
+              "Cedula": "",
+              "Domicilio": ""
           }
-        ]
-      }
+      ],
+      "Cuerpo": [
+          {
+              "Tipo": "Head_1",
+              "Contenido": "El se\u00f1or DANIEL GONZALEZ SANTIESTEBAN, actuando es su condici\u00f3n de Sub-Gerente y como Representante Legal de la sociedad denominada ARRENDADORA INTERNACIONAL, S.A., por intermedio de apoderada judicial, acude ante esta Corporaci\u00f3n de Justicia para promover la acci\u00f3n extraordinaria de amparo de garant\u00edas constitucionales en contra del licenciado GUILLERMO BALLESTEROS, Juez S\u00e9ptimo de lo Civil del Primer Circuito Judicial de Panam\u00e1, con el fin de que se deje sin efecto el Auto N\u00ba 2078 de 13 de junio de 2018, emitido en el Proceso Ejecutivo que ARRENDADORA INTERNACIONAL, S.A. instaurara en contra de CONSORCIO HEYMOCOL PROCOMON, S.A. (SOCIEDAD ACCIDENTAL), HEYMOCOL, S.A. y PROCOMON & ASOCIADOS, S.A (quienes conforman la sociedad accidental denominada CONSORCIO HEYMOCOL PROCOMON, S.A.); NELSON ROBERTO DEDOYA SANTA CRUZ y OMAR OTALORA BARBOSA (FIADORES), que decreta la caducidad extraordinaria de la instancia en dicho proceso y ordena el archivo del expediente.",
+              "Numero": 0
+          },
+          {
+              "Tipo": "Body_1",
+              "Contenido": "Corresponde al Tribunal, en primer lugar, verificar si la presente demanda cumple con los requisitos de forma y los presupuestos que determinan los art\u00edculos 2615, 2616, 2617, 2618 y 2619 del C\u00f3digo Judicial, a fin de establecer si est\u00e1 debidamente formulada y no fuere manifiestamente improcedente la acci\u00f3n constitucional en ella promovida.",
+              "Numero": 1
+          },
+          {
+              "Tipo": "Body_1",
+              "Contenido": "En ese sentido, si bien la demanda cumple con los requisitos comunes a toda demanda, se advierte de partida que la misma no es acompa\u00f1ada de la prueba que acredite la circunstancia sobre el agotamiento del medio ordinario de impugnaci\u00f3n contra la orden demandada, que en esta ocasi\u00f3n corresponde al recurso de reconsideraci\u00f3n, como lo prescribe el art\u00edculo 1113 del C\u00f3digo Judicial.",
+              "Numero": 2
+          },
+          {
+              "Tipo": "Body_1",
+              "Contenido": "En ese sentido, si bien la demanda cumple con los requisitos comunes a toda demanda, se advierte de partida que la misma no es acompa\u00f1ada de la prueba que acredite la circunstancia sobre el agotamiento del medio ordinario de impugnaci\u00f3n contra la orden demandada, que en esta ocasi\u00f3n corresponde al recurso de reconsideraci\u00f3n, como lo prescribe el art\u00edculo 1113 del C\u00f3digo Judicial.",
+              "Numero": 2
+          },
+          {
+              "Tipo": "Body_1",
+              "Contenido": "Al demandarse una actuaci\u00f3n judicial, en este caso, la resoluci\u00f3n que decreta la caducidad extraordinaria de la instancia, al tenor del numeral 2 del inciso final del art\u00edculo 2615 del C\u00f3digo Judicial, la acci\u00f3n de amparo requiere, para interponerse o proceder, que se haya interpuesto oportunamente y decidido el recurso de reconsideraci\u00f3n.",
+              "Numero": 3
+          },
+          {
+              "Tipo": "Body_1",
+              "Contenido": "Al demandarse una actuaci\u00f3n judicial, en este caso, la resoluci\u00f3n que decreta la caducidad extraordinaria de la instancia, al tenor del numeral 2 del inciso final del art\u00edculo 2615 del C\u00f3digo Judicial, la acci\u00f3n de amparo requiere, para interponerse o proceder, que se haya interpuesto oportunamente y decidido el recurso de reconsideraci\u00f3n.",
+              "Numero": 3
+          },
+          {
+              "Tipo": "Body_1",
+              "Contenido": "En m\u00e9rito de lo expuesto, el PRIMER TRIBUNAL SUPERIOR DEJUSTICIA, administrando justicia en nombre de la Rep\u00fablica y por autoridad de la Ley, NO ADMITE la demanda de amparo de garant\u00edas constitucionales propuesta por ARRENDADORA INTERNACIONAL, S.A. en contra de la orden contenida en el Auto N\u00b02078 de 13 de junio de 2018, dictado por el Juzgado S\u00e9ptimo de lo Civil del Primer Circuito Judicial de Panam\u00e1.",
+              "Numero": 4
+          },
+          {
+              "Tipo": "Body_1",
+              "Contenido": "T\u00e9mgase a la firma forense RIVERA, BOLIVAR Y CASTA\u00d1EDAS como apoderada judicial, en los t\u00e9rminos y facultades concedidas por la amparista poderdante.",
+              "Numero": 5
+          }
+      ],
+      "Notificados": [
+          {
+              "Titulo": "0",
+              "Nombre": "CARLOS RA\u00daL TRUJILLO SAGEL \u2013 MAGISTRADO ",
+              "Numero": 1
+          },
+          {
+              "Titulo": "0",
+              "Nombre": "OLGA RUJANO - MAGISTRADA",
+              "Numero": 2
+          },
+          {
+              "Titulo": "0",
+              "Nombre": "MIGUEL A. ESPINO G. - MAGISTRADO",
+              "Numero": 3
+          },
+          {
+              "Titulo": "0",
+              "Nombre": "Jos\u00e9 Karama\u00f1ites \u2013 Secretario",
+              "Numero": 4
+          }
+      ]
+  }
   ]
 }
